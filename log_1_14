@@ -1,0 +1,2972 @@
+336 336
+cm_2_chain_1_14/1a12_A_B.png -> cm_2_chain_1_14/train/1a12_A_B.png
+cm_2_chain_1_14/1a12_A_C.png -> cm_2_chain_1_14/train/1a12_A_C.png
+cm_2_chain_1_14/1a12_B_C.png -> cm_2_chain_1_14/train/1a12_B_C.png
+cm_2_chain_1_14/1a5m_A_B.png -> cm_2_chain_1_14/train/1a5m_A_B.png
+cm_2_chain_1_14/1a5m_A_C.png -> cm_2_chain_1_14/train/1a5m_A_C.png
+cm_2_chain_1_14/1a5m_B_C.png -> cm_2_chain_1_14/train/1a5m_B_C.png
+cm_2_chain_1_14/1avy_A_B.png -> cm_2_chain_1_14/train/1avy_A_B.png
+cm_2_chain_1_14/1avy_A_C.png -> cm_2_chain_1_14/val/1avy_A_C.png
+cm_2_chain_1_14/1avy_B_C.png -> cm_2_chain_1_14/train/1avy_B_C.png
+cm_2_chain_1_14/1cjd_A_B.png -> cm_2_chain_1_14/train/1cjd_A_B.png
+cm_2_chain_1_14/1cjd_A_C.png -> cm_2_chain_1_14/train/1cjd_A_C.png
+cm_2_chain_1_14/1cjd_B_C.png -> cm_2_chain_1_14/train/1cjd_B_C.png
+cm_2_chain_1_14/1cun_A_B.png -> cm_2_chain_1_14/train/1cun_A_B.png
+cm_2_chain_1_14/1cun_A_C.png -> cm_2_chain_1_14/val/1cun_A_C.png
+cm_2_chain_1_14/1cun_B_C.png -> cm_2_chain_1_14/train/1cun_B_C.png
+cm_2_chain_1_14/1eer_A_B.png -> cm_2_chain_1_14/val/1eer_A_B.png
+cm_2_chain_1_14/1eer_A_C.png -> cm_2_chain_1_14/train/1eer_A_C.png
+cm_2_chain_1_14/1eer_B_C.png -> cm_2_chain_1_14/train/1eer_B_C.png
+cm_2_chain_1_14/1el6_A_B.png -> cm_2_chain_1_14/val/1el6_A_B.png
+cm_2_chain_1_14/1el6_A_C.png -> cm_2_chain_1_14/train/1el6_A_C.png
+cm_2_chain_1_14/1el6_B_C.png -> cm_2_chain_1_14/train/1el6_B_C.png
+cm_2_chain_1_14/1fc3_A_B.png -> cm_2_chain_1_14/val/1fc3_A_B.png
+cm_2_chain_1_14/1fc3_A_C.png -> cm_2_chain_1_14/val/1fc3_A_C.png
+cm_2_chain_1_14/1fc3_B_C.png -> cm_2_chain_1_14/train/1fc3_B_C.png
+cm_2_chain_1_14/1fns_H_A.png -> cm_2_chain_1_14/train/1fns_H_A.png
+cm_2_chain_1_14/1fns_L_A.png -> cm_2_chain_1_14/train/1fns_L_A.png
+cm_2_chain_1_14/1fns_L_H.png -> cm_2_chain_1_14/train/1fns_L_H.png
+cm_2_chain_1_14/1fpo_A_B.png -> cm_2_chain_1_14/train/1fpo_A_B.png
+cm_2_chain_1_14/1fpo_A_C.png -> cm_2_chain_1_14/train/1fpo_A_C.png
+cm_2_chain_1_14/1fpo_B_C.png -> cm_2_chain_1_14/train/1fpo_B_C.png
+cm_2_chain_1_14/1hrd_A_B.png -> cm_2_chain_1_14/train/1hrd_A_B.png
+cm_2_chain_1_14/1hrd_A_C.png -> cm_2_chain_1_14/train/1hrd_A_C.png
+cm_2_chain_1_14/1hrd_B_C.png -> cm_2_chain_1_14/train/1hrd_B_C.png
+cm_2_chain_1_14/1huu_A_B.png -> cm_2_chain_1_14/train/1huu_A_B.png
+cm_2_chain_1_14/1huu_A_C.png -> cm_2_chain_1_14/train/1huu_A_C.png
+cm_2_chain_1_14/1huu_B_C.png -> cm_2_chain_1_14/val/1huu_B_C.png
+cm_2_chain_1_14/1i8d_A_B.png -> cm_2_chain_1_14/train/1i8d_A_B.png
+cm_2_chain_1_14/1i8d_A_C.png -> cm_2_chain_1_14/val/1i8d_A_C.png
+cm_2_chain_1_14/1i8d_B_C.png -> cm_2_chain_1_14/train/1i8d_B_C.png
+cm_2_chain_1_14/1idp_A_B.png -> cm_2_chain_1_14/train/1idp_A_B.png
+cm_2_chain_1_14/1idp_A_C.png -> cm_2_chain_1_14/train/1idp_A_C.png
+cm_2_chain_1_14/1idp_B_C.png -> cm_2_chain_1_14/train/1idp_B_C.png
+cm_2_chain_1_14/1jps_H_T.png -> cm_2_chain_1_14/train/1jps_H_T.png
+cm_2_chain_1_14/1jps_L_H.png -> cm_2_chain_1_14/train/1jps_L_H.png
+cm_2_chain_1_14/1jps_L_T.png -> cm_2_chain_1_14/train/1jps_L_T.png
+cm_2_chain_1_14/1ors_A_B.png -> cm_2_chain_1_14/train/1ors_A_B.png
+cm_2_chain_1_14/1ors_A_C.png -> cm_2_chain_1_14/train/1ors_A_C.png
+cm_2_chain_1_14/1ors_B_C.png -> cm_2_chain_1_14/train/1ors_B_C.png
+cm_2_chain_1_14/1osp_H_O.png -> cm_2_chain_1_14/train/1osp_H_O.png
+cm_2_chain_1_14/1osp_L_H.png -> cm_2_chain_1_14/train/1osp_L_H.png
+cm_2_chain_1_14/1osp_L_O.png -> cm_2_chain_1_14/train/1osp_L_O.png
+cm_2_chain_1_14/1pm4_A_B.png -> cm_2_chain_1_14/train/1pm4_A_B.png
+cm_2_chain_1_14/1pm4_A_C.png -> cm_2_chain_1_14/train/1pm4_A_C.png
+cm_2_chain_1_14/1pm4_B_C.png -> cm_2_chain_1_14/train/1pm4_B_C.png
+cm_2_chain_1_14/1pqk_A_B.png -> cm_2_chain_1_14/train/1pqk_A_B.png
+cm_2_chain_1_14/1pqk_A_C.png -> cm_2_chain_1_14/train/1pqk_A_C.png
+cm_2_chain_1_14/1pqk_B_C.png -> cm_2_chain_1_14/val/1pqk_B_C.png
+cm_2_chain_1_14/1q5x_A_B.png -> cm_2_chain_1_14/train/1q5x_A_B.png
+cm_2_chain_1_14/1q5x_A_C.png -> cm_2_chain_1_14/train/1q5x_A_C.png
+cm_2_chain_1_14/1q5x_B_C.png -> cm_2_chain_1_14/train/1q5x_B_C.png
+cm_2_chain_1_14/1r5z_A_B.png -> cm_2_chain_1_14/train/1r5z_A_B.png
+cm_2_chain_1_14/1r5z_A_C.png -> cm_2_chain_1_14/train/1r5z_A_C.png
+cm_2_chain_1_14/1r5z_B_C.png -> cm_2_chain_1_14/train/1r5z_B_C.png
+cm_2_chain_1_14/1rgx_A_B.png -> cm_2_chain_1_14/val/1rgx_A_B.png
+cm_2_chain_1_14/1rgx_A_C.png -> cm_2_chain_1_14/train/1rgx_A_C.png
+cm_2_chain_1_14/1rgx_B_C.png -> cm_2_chain_1_14/train/1rgx_B_C.png
+cm_2_chain_1_14/1t2p_A_B.png -> cm_2_chain_1_14/train/1t2p_A_B.png
+cm_2_chain_1_14/1t2p_A_C.png -> cm_2_chain_1_14/train/1t2p_A_C.png
+cm_2_chain_1_14/1t2p_B_C.png -> cm_2_chain_1_14/val/1t2p_B_C.png
+cm_2_chain_1_14/1ty0_A_B.png -> cm_2_chain_1_14/val/1ty0_A_B.png
+cm_2_chain_1_14/1ty0_A_C.png -> cm_2_chain_1_14/train/1ty0_A_C.png
+cm_2_chain_1_14/1ty0_B_C.png -> cm_2_chain_1_14/train/1ty0_B_C.png
+cm_2_chain_1_14/1vfj_A_B.png -> cm_2_chain_1_14/train/1vfj_A_B.png
+cm_2_chain_1_14/1vfj_A_C.png -> cm_2_chain_1_14/train/1vfj_A_C.png
+cm_2_chain_1_14/1vfj_B_C.png -> cm_2_chain_1_14/train/1vfj_B_C.png
+cm_2_chain_1_14/1wdj_A_B.png -> cm_2_chain_1_14/train/1wdj_A_B.png
+cm_2_chain_1_14/1wdj_A_C.png -> cm_2_chain_1_14/val/1wdj_A_C.png
+cm_2_chain_1_14/1wdj_B_C.png -> cm_2_chain_1_14/train/1wdj_B_C.png
+cm_2_chain_1_14/1wt6_A_B.png -> cm_2_chain_1_14/train/1wt6_A_B.png
+cm_2_chain_1_14/1wt6_A_D.png -> cm_2_chain_1_14/val/1wt6_A_D.png
+cm_2_chain_1_14/1wt6_B_D.png -> cm_2_chain_1_14/train/1wt6_B_D.png
+cm_2_chain_1_14/1x1o_A_B.png -> cm_2_chain_1_14/train/1x1o_A_B.png
+cm_2_chain_1_14/1x1o_A_C.png -> cm_2_chain_1_14/train/1x1o_A_C.png
+cm_2_chain_1_14/1x1o_B_C.png -> cm_2_chain_1_14/train/1x1o_B_C.png
+cm_2_chain_1_14/1xs0_A_B.png -> cm_2_chain_1_14/train/1xs0_A_B.png
+cm_2_chain_1_14/1xs0_A_C.png -> cm_2_chain_1_14/train/1xs0_A_C.png
+cm_2_chain_1_14/1xs0_B_C.png -> cm_2_chain_1_14/val/1xs0_B_C.png
+cm_2_chain_1_14/1ynb_A_B.png -> cm_2_chain_1_14/train/1ynb_A_B.png
+cm_2_chain_1_14/1ynb_A_C.png -> cm_2_chain_1_14/train/1ynb_A_C.png
+cm_2_chain_1_14/1ynb_B_C.png -> cm_2_chain_1_14/val/1ynb_B_C.png
+cm_2_chain_1_14/1zoi_A_B.png -> cm_2_chain_1_14/train/1zoi_A_B.png
+cm_2_chain_1_14/1zoi_A_C.png -> cm_2_chain_1_14/train/1zoi_A_C.png
+cm_2_chain_1_14/1zoi_B_C.png -> cm_2_chain_1_14/train/1zoi_B_C.png
+cm_2_chain_1_14/2b4i_A_B.png -> cm_2_chain_1_14/val/2b4i_A_B.png
+cm_2_chain_1_14/2b4i_A_C.png -> cm_2_chain_1_14/train/2b4i_A_C.png
+cm_2_chain_1_14/2b4i_B_C.png -> cm_2_chain_1_14/train/2b4i_B_C.png
+cm_2_chain_1_14/2ba2_A_B.png -> cm_2_chain_1_14/train/2ba2_A_B.png
+cm_2_chain_1_14/2ba2_A_C.png -> cm_2_chain_1_14/train/2ba2_A_C.png
+cm_2_chain_1_14/2ba2_B_C.png -> cm_2_chain_1_14/train/2ba2_B_C.png
+cm_2_chain_1_14/2cu5_A_B.png -> cm_2_chain_1_14/val/2cu5_A_B.png
+cm_2_chain_1_14/2cu5_A_C.png -> cm_2_chain_1_14/val/2cu5_A_C.png
+cm_2_chain_1_14/2cu5_B_C.png -> cm_2_chain_1_14/train/2cu5_B_C.png
+cm_2_chain_1_14/2e4m_A_B.png -> cm_2_chain_1_14/train/2e4m_A_B.png
+cm_2_chain_1_14/2e4m_A_C.png -> cm_2_chain_1_14/train/2e4m_A_C.png
+cm_2_chain_1_14/2e4m_B_C.png -> cm_2_chain_1_14/train/2e4m_B_C.png
+cm_2_chain_1_14/2e7a_A_B.png -> cm_2_chain_1_14/train/2e7a_A_B.png
+cm_2_chain_1_14/2e7a_A_C.png -> cm_2_chain_1_14/val/2e7a_A_C.png
+cm_2_chain_1_14/2e7a_B_C.png -> cm_2_chain_1_14/train/2e7a_B_C.png
+cm_2_chain_1_14/2fb5_A_B.png -> cm_2_chain_1_14/train/2fb5_A_B.png
+cm_2_chain_1_14/2fb5_A_C.png -> cm_2_chain_1_14/train/2fb5_A_C.png
+cm_2_chain_1_14/2fb5_B_C.png -> cm_2_chain_1_14/train/2fb5_B_C.png
+cm_2_chain_1_14/2fnj_A_B.png -> cm_2_chain_1_14/val/2fnj_A_B.png
+cm_2_chain_1_14/2fnj_A_C.png -> cm_2_chain_1_14/val/2fnj_A_C.png
+cm_2_chain_1_14/2fnj_B_C.png -> cm_2_chain_1_14/train/2fnj_B_C.png
+cm_2_chain_1_14/2fvh_A_B.png -> cm_2_chain_1_14/train/2fvh_A_B.png
+cm_2_chain_1_14/2fvh_A_C.png -> cm_2_chain_1_14/train/2fvh_A_C.png
+cm_2_chain_1_14/2fvh_B_C.png -> cm_2_chain_1_14/train/2fvh_B_C.png
+cm_2_chain_1_14/2gdg_A_B.png -> cm_2_chain_1_14/train/2gdg_A_B.png
+cm_2_chain_1_14/2gdg_A_C.png -> cm_2_chain_1_14/train/2gdg_A_C.png
+cm_2_chain_1_14/2gdg_B_C.png -> cm_2_chain_1_14/val/2gdg_B_C.png
+cm_2_chain_1_14/2gkv_A_B.png -> cm_2_chain_1_14/train/2gkv_A_B.png
+cm_2_chain_1_14/2gkv_E_A.png -> cm_2_chain_1_14/val/2gkv_E_A.png
+cm_2_chain_1_14/2gkv_E_B.png -> cm_2_chain_1_14/train/2gkv_E_B.png
+cm_2_chain_1_14/2h0q_A_B.png -> cm_2_chain_1_14/train/2h0q_A_B.png
+cm_2_chain_1_14/2h0q_A_C.png -> cm_2_chain_1_14/train/2h0q_A_C.png
+cm_2_chain_1_14/2h0q_B_C.png -> cm_2_chain_1_14/train/2h0q_B_C.png
+cm_2_chain_1_14/2h64_A_B.png -> cm_2_chain_1_14/train/2h64_A_B.png
+cm_2_chain_1_14/2h64_A_C.png -> cm_2_chain_1_14/train/2h64_A_C.png
+cm_2_chain_1_14/2h64_B_C.png -> cm_2_chain_1_14/val/2h64_B_C.png
+cm_2_chain_1_14/2hy5_A_B.png -> cm_2_chain_1_14/train/2hy5_A_B.png
+cm_2_chain_1_14/2hy5_A_C.png -> cm_2_chain_1_14/train/2hy5_A_C.png
+cm_2_chain_1_14/2hy5_B_C.png -> cm_2_chain_1_14/train/2hy5_B_C.png
+cm_2_chain_1_14/2ic7_A_B.png -> cm_2_chain_1_14/val/2ic7_A_B.png
+cm_2_chain_1_14/2ic7_A_C.png -> cm_2_chain_1_14/train/2ic7_A_C.png
+cm_2_chain_1_14/2ic7_B_C.png -> cm_2_chain_1_14/train/2ic7_B_C.png
+cm_2_chain_1_14/2ig8_A_B.png -> cm_2_chain_1_14/train/2ig8_A_B.png
+cm_2_chain_1_14/2ig8_A_C.png -> cm_2_chain_1_14/val/2ig8_A_C.png
+cm_2_chain_1_14/2ig8_B_C.png -> cm_2_chain_1_14/train/2ig8_B_C.png
+cm_2_chain_1_14/2ijh_A_B.png -> cm_2_chain_1_14/train/2ijh_A_B.png
+cm_2_chain_1_14/2ijh_A_C.png -> cm_2_chain_1_14/train/2ijh_A_C.png
+cm_2_chain_1_14/2ijh_B_C.png -> cm_2_chain_1_14/train/2ijh_B_C.png
+cm_2_chain_1_14/2iln_A_B.png -> cm_2_chain_1_14/train/2iln_A_B.png
+cm_2_chain_1_14/2iln_A_I.png -> cm_2_chain_1_14/train/2iln_A_I.png
+cm_2_chain_1_14/2iln_B_I.png -> cm_2_chain_1_14/train/2iln_B_I.png
+cm_2_chain_1_14/2ium_A_B.png -> cm_2_chain_1_14/val/2ium_A_B.png
+cm_2_chain_1_14/2ium_A_C.png -> cm_2_chain_1_14/train/2ium_A_C.png
+cm_2_chain_1_14/2ium_B_C.png -> cm_2_chain_1_14/train/2ium_B_C.png
+cm_2_chain_1_14/2jgn_A_B.png -> cm_2_chain_1_14/train/2jgn_A_B.png
+cm_2_chain_1_14/2jgn_A_C.png -> cm_2_chain_1_14/train/2jgn_A_C.png
+cm_2_chain_1_14/2jgn_B_C.png -> cm_2_chain_1_14/val/2jgn_B_C.png
+cm_2_chain_1_14/2pbq_A_B.png -> cm_2_chain_1_14/train/2pbq_A_B.png
+cm_2_chain_1_14/2pbq_A_C.png -> cm_2_chain_1_14/train/2pbq_A_C.png
+cm_2_chain_1_14/2pbq_B_C.png -> cm_2_chain_1_14/val/2pbq_B_C.png
+cm_2_chain_1_14/2qy7_A_B.png -> cm_2_chain_1_14/train/2qy7_A_B.png
+cm_2_chain_1_14/2qy7_A_C.png -> cm_2_chain_1_14/train/2qy7_A_C.png
+cm_2_chain_1_14/2qy7_B_C.png -> cm_2_chain_1_14/train/2qy7_B_C.png
+cm_2_chain_1_14/2vl3_A_B.png -> cm_2_chain_1_14/train/2vl3_A_B.png
+cm_2_chain_1_14/2vl3_A_C.png -> cm_2_chain_1_14/train/2vl3_A_C.png
+cm_2_chain_1_14/2vl3_B_C.png -> cm_2_chain_1_14/train/2vl3_B_C.png
+cm_2_chain_1_14/2vxq_A_H.png -> cm_2_chain_1_14/train/2vxq_A_H.png
+cm_2_chain_1_14/2vxq_A_L.png -> cm_2_chain_1_14/val/2vxq_A_L.png
+cm_2_chain_1_14/2vxq_H_L.png -> cm_2_chain_1_14/train/2vxq_H_L.png
+cm_2_chain_1_14/2wfw_A_B.png -> cm_2_chain_1_14/train/2wfw_A_B.png
+cm_2_chain_1_14/2wfw_A_C.png -> cm_2_chain_1_14/val/2wfw_A_C.png
+cm_2_chain_1_14/2wfw_B_C.png -> cm_2_chain_1_14/train/2wfw_B_C.png
+cm_2_chain_1_14/2x78_A_B.png -> cm_2_chain_1_14/train/2x78_A_B.png
+cm_2_chain_1_14/2x78_A_C.png -> cm_2_chain_1_14/val/2x78_A_C.png
+cm_2_chain_1_14/2x78_B_C.png -> cm_2_chain_1_14/train/2x78_B_C.png
+cm_2_chain_1_14/2yny_A_B.png -> cm_2_chain_1_14/val/2yny_A_B.png
+cm_2_chain_1_14/2yny_A_C.png -> cm_2_chain_1_14/train/2yny_A_C.png
+cm_2_chain_1_14/2yny_B_C.png -> cm_2_chain_1_14/train/2yny_B_C.png
+cm_2_chain_1_14/2zhy_A_B.png -> cm_2_chain_1_14/train/2zhy_A_B.png
+cm_2_chain_1_14/2zhy_A_C.png -> cm_2_chain_1_14/val/2zhy_A_C.png
+cm_2_chain_1_14/2zhy_B_C.png -> cm_2_chain_1_14/train/2zhy_B_C.png
+cm_2_chain_1_14/3cc0_A_B.png -> cm_2_chain_1_14/train/3cc0_A_B.png
+cm_2_chain_1_14/3cc0_A_C.png -> cm_2_chain_1_14/train/3cc0_A_C.png
+cm_2_chain_1_14/3cc0_B_C.png -> cm_2_chain_1_14/train/3cc0_B_C.png
+cm_2_chain_1_14/3cgz_A_B.png -> cm_2_chain_1_14/train/3cgz_A_B.png
+cm_2_chain_1_14/3cgz_A_C.png -> cm_2_chain_1_14/val/3cgz_A_C.png
+cm_2_chain_1_14/3cgz_B_C.png -> cm_2_chain_1_14/val/3cgz_B_C.png
+cm_2_chain_1_14/3d1b_A_B.png -> cm_2_chain_1_14/train/3d1b_A_B.png
+cm_2_chain_1_14/3d1b_A_C.png -> cm_2_chain_1_14/train/3d1b_A_C.png
+cm_2_chain_1_14/3d1b_B_C.png -> cm_2_chain_1_14/val/3d1b_B_C.png
+cm_2_chain_1_14/3d9a_C_H.png -> cm_2_chain_1_14/train/3d9a_C_H.png
+cm_2_chain_1_14/3d9a_C_L.png -> cm_2_chain_1_14/train/3d9a_C_L.png
+cm_2_chain_1_14/3d9a_L_H.png -> cm_2_chain_1_14/train/3d9a_L_H.png
+cm_2_chain_1_14/3d9x_A_B.png -> cm_2_chain_1_14/val/3d9x_A_B.png
+cm_2_chain_1_14/3d9x_A_C.png -> cm_2_chain_1_14/train/3d9x_A_C.png
+cm_2_chain_1_14/3d9x_B_C.png -> cm_2_chain_1_14/train/3d9x_B_C.png
+cm_2_chain_1_14/3dvh_A_B.png -> cm_2_chain_1_14/train/3dvh_A_B.png
+cm_2_chain_1_14/3dvh_A_C.png -> cm_2_chain_1_14/train/3dvh_A_C.png
+cm_2_chain_1_14/3dvh_B_C.png -> cm_2_chain_1_14/train/3dvh_B_C.png
+cm_2_chain_1_14/3emf_A_B.png -> cm_2_chain_1_14/train/3emf_A_B.png
+cm_2_chain_1_14/3emf_A_C.png -> cm_2_chain_1_14/val/3emf_A_C.png
+cm_2_chain_1_14/3emf_B_C.png -> cm_2_chain_1_14/train/3emf_B_C.png
+cm_2_chain_1_14/3exw_A_B.png -> cm_2_chain_1_14/train/3exw_A_B.png
+cm_2_chain_1_14/3exw_A_C.png -> cm_2_chain_1_14/train/3exw_A_C.png
+cm_2_chain_1_14/3exw_B_C.png -> cm_2_chain_1_14/train/3exw_B_C.png
+cm_2_chain_1_14/3hkm_A_B.png -> cm_2_chain_1_14/train/3hkm_A_B.png
+cm_2_chain_1_14/3hkm_A_C.png -> cm_2_chain_1_14/val/3hkm_A_C.png
+cm_2_chain_1_14/3hkm_B_C.png -> cm_2_chain_1_14/train/3hkm_B_C.png
+cm_2_chain_1_14/3kdh_A_B.png -> cm_2_chain_1_14/train/3kdh_A_B.png
+cm_2_chain_1_14/3kdh_A_C.png -> cm_2_chain_1_14/train/3kdh_A_C.png
+cm_2_chain_1_14/3kdh_B_C.png -> cm_2_chain_1_14/train/3kdh_B_C.png
+cm_2_chain_1_14/3lfg_A_B.png -> cm_2_chain_1_14/train/3lfg_A_B.png
+cm_2_chain_1_14/3lfg_A_C.png -> cm_2_chain_1_14/train/3lfg_A_C.png
+cm_2_chain_1_14/3lfg_B_C.png -> cm_2_chain_1_14/train/3lfg_B_C.png
+cm_2_chain_1_14/3m6n_A_B.png -> cm_2_chain_1_14/val/3m6n_A_B.png
+cm_2_chain_1_14/3m6n_A_C.png -> cm_2_chain_1_14/train/3m6n_A_C.png
+cm_2_chain_1_14/3m6n_B_C.png -> cm_2_chain_1_14/val/3m6n_B_C.png
+cm_2_chain_1_14/3o1q_A_B.png -> cm_2_chain_1_14/val/3o1q_A_B.png
+cm_2_chain_1_14/3o1q_A_C.png -> cm_2_chain_1_14/val/3o1q_A_C.png
+cm_2_chain_1_14/3o1q_B_C.png -> cm_2_chain_1_14/train/3o1q_B_C.png
+cm_2_chain_1_14/3pct_A_B.png -> cm_2_chain_1_14/train/3pct_A_B.png
+cm_2_chain_1_14/3pct_A_C.png -> cm_2_chain_1_14/train/3pct_A_C.png
+cm_2_chain_1_14/3pct_B_C.png -> cm_2_chain_1_14/train/3pct_B_C.png
+cm_2_chain_1_14/3r1w_A_B.png -> cm_2_chain_1_14/train/3r1w_A_B.png
+cm_2_chain_1_14/3r1w_A_C.png -> cm_2_chain_1_14/train/3r1w_A_C.png
+cm_2_chain_1_14/3r1w_B_C.png -> cm_2_chain_1_14/val/3r1w_B_C.png
+cm_2_chain_1_14/3rpp_A_B.png -> cm_2_chain_1_14/train/3rpp_A_B.png
+cm_2_chain_1_14/3rpp_A_C.png -> cm_2_chain_1_14/val/3rpp_A_C.png
+cm_2_chain_1_14/3rpp_B_C.png -> cm_2_chain_1_14/train/3rpp_B_C.png
+cm_2_chain_1_14/3sht_A_B.png -> cm_2_chain_1_14/train/3sht_A_B.png
+cm_2_chain_1_14/3sht_A_C.png -> cm_2_chain_1_14/train/3sht_A_C.png
+cm_2_chain_1_14/3sht_B_C.png -> cm_2_chain_1_14/train/3sht_B_C.png
+cm_2_chain_1_14/3vk0_A_B.png -> cm_2_chain_1_14/train/3vk0_A_B.png
+cm_2_chain_1_14/3vk0_A_C.png -> cm_2_chain_1_14/train/3vk0_A_C.png
+cm_2_chain_1_14/3vk0_B_C.png -> cm_2_chain_1_14/train/3vk0_B_C.png
+cm_2_chain_1_14/3wpy_A_B.png -> cm_2_chain_1_14/train/3wpy_A_B.png
+cm_2_chain_1_14/3wpy_A_C.png -> cm_2_chain_1_14/train/3wpy_A_C.png
+cm_2_chain_1_14/3wpy_B_C.png -> cm_2_chain_1_14/val/3wpy_B_C.png
+cm_2_chain_1_14/3wwf_A_B.png -> cm_2_chain_1_14/train/3wwf_A_B.png
+cm_2_chain_1_14/3wwf_A_C.png -> cm_2_chain_1_14/train/3wwf_A_C.png
+cm_2_chain_1_14/3wwf_B_C.png -> cm_2_chain_1_14/val/3wwf_B_C.png
+cm_2_chain_1_14/3wx8_A_B.png -> cm_2_chain_1_14/val/3wx8_A_B.png
+cm_2_chain_1_14/3wx8_A_C.png -> cm_2_chain_1_14/train/3wx8_A_C.png
+cm_2_chain_1_14/3wx8_B_C.png -> cm_2_chain_1_14/train/3wx8_B_C.png
+cm_2_chain_1_14/4b0m_A_B.png -> cm_2_chain_1_14/train/4b0m_A_B.png
+cm_2_chain_1_14/4b0m_A_M.png -> cm_2_chain_1_14/train/4b0m_A_M.png
+cm_2_chain_1_14/4b0m_B_M.png -> cm_2_chain_1_14/train/4b0m_B_M.png
+cm_2_chain_1_14/4d0k_A_B.png -> cm_2_chain_1_14/train/4d0k_A_B.png
+cm_2_chain_1_14/4d0k_A_C.png -> cm_2_chain_1_14/train/4d0k_A_C.png
+cm_2_chain_1_14/4d0k_B_C.png -> cm_2_chain_1_14/train/4d0k_B_C.png
+cm_2_chain_1_14/4fml_A_B.png -> cm_2_chain_1_14/train/4fml_A_B.png
+cm_2_chain_1_14/4fml_A_C.png -> cm_2_chain_1_14/train/4fml_A_C.png
+cm_2_chain_1_14/4fml_B_C.png -> cm_2_chain_1_14/val/4fml_B_C.png
+cm_2_chain_1_14/4fxu_A_B.png -> cm_2_chain_1_14/val/4fxu_A_B.png
+cm_2_chain_1_14/4fxu_A_C.png -> cm_2_chain_1_14/val/4fxu_A_C.png
+cm_2_chain_1_14/4fxu_B_C.png -> cm_2_chain_1_14/train/4fxu_B_C.png
+cm_2_chain_1_14/4g6m_A_H.png -> cm_2_chain_1_14/train/4g6m_A_H.png
+cm_2_chain_1_14/4g6m_A_L.png -> cm_2_chain_1_14/train/4g6m_A_L.png
+cm_2_chain_1_14/4g6m_H_L.png -> cm_2_chain_1_14/train/4g6m_H_L.png
+cm_2_chain_1_14/4hh3_A_B.png -> cm_2_chain_1_14/train/4hh3_A_B.png
+cm_2_chain_1_14/4hh3_A_C.png -> cm_2_chain_1_14/train/4hh3_A_C.png
+cm_2_chain_1_14/4hh3_B_C.png -> cm_2_chain_1_14/train/4hh3_B_C.png
+cm_2_chain_1_14/4i77_H_L.png -> cm_2_chain_1_14/train/4i77_H_L.png
+cm_2_chain_1_14/4i77_H_Z.png -> cm_2_chain_1_14/train/4i77_H_Z.png
+cm_2_chain_1_14/4i77_L_Z.png -> cm_2_chain_1_14/train/4i77_L_Z.png
+cm_2_chain_1_14/4ic6_A_B.png -> cm_2_chain_1_14/val/4ic6_A_B.png
+cm_2_chain_1_14/4ic6_A_C.png -> cm_2_chain_1_14/train/4ic6_A_C.png
+cm_2_chain_1_14/4ic6_B_C.png -> cm_2_chain_1_14/train/4ic6_B_C.png
+cm_2_chain_1_14/4jrk_A_B.png -> cm_2_chain_1_14/train/4jrk_A_B.png
+cm_2_chain_1_14/4jrk_A_C.png -> cm_2_chain_1_14/train/4jrk_A_C.png
+cm_2_chain_1_14/4jrk_B_C.png -> cm_2_chain_1_14/train/4jrk_B_C.png
+cm_2_chain_1_14/4ng0_A_B.png -> cm_2_chain_1_14/train/4ng0_A_B.png
+cm_2_chain_1_14/4ng0_A_C.png -> cm_2_chain_1_14/train/4ng0_A_C.png
+cm_2_chain_1_14/4ng0_B_C.png -> cm_2_chain_1_14/val/4ng0_B_C.png
+cm_2_chain_1_14/4orz_A_B.png -> cm_2_chain_1_14/val/4orz_A_B.png
+cm_2_chain_1_14/4orz_A_C.png -> cm_2_chain_1_14/train/4orz_A_C.png
+cm_2_chain_1_14/4orz_B_C.png -> cm_2_chain_1_14/train/4orz_B_C.png
+cm_2_chain_1_14/4q5e_A_B.png -> cm_2_chain_1_14/val/4q5e_A_B.png
+cm_2_chain_1_14/4q5e_A_C.png -> cm_2_chain_1_14/val/4q5e_A_C.png
+cm_2_chain_1_14/4q5e_B_C.png -> cm_2_chain_1_14/train/4q5e_B_C.png
+cm_2_chain_1_14/4tx1_A_B.png -> cm_2_chain_1_14/train/4tx1_A_B.png
+cm_2_chain_1_14/4tx1_A_C.png -> cm_2_chain_1_14/train/4tx1_A_C.png
+cm_2_chain_1_14/4tx1_B_C.png -> cm_2_chain_1_14/train/4tx1_B_C.png
+cm_2_chain_1_14/4uey_A_B.png -> cm_2_chain_1_14/train/4uey_A_B.png
+cm_2_chain_1_14/4uey_A_C.png -> cm_2_chain_1_14/train/4uey_A_C.png
+cm_2_chain_1_14/4uey_B_C.png -> cm_2_chain_1_14/train/4uey_B_C.png
+cm_2_chain_1_14/4wft_A_B.png -> cm_2_chain_1_14/train/4wft_A_B.png
+cm_2_chain_1_14/4wft_C_A.png -> cm_2_chain_1_14/train/4wft_C_A.png
+cm_2_chain_1_14/4wft_C_B.png -> cm_2_chain_1_14/train/4wft_C_B.png
+cm_2_chain_1_14/4wlr_A_B.png -> cm_2_chain_1_14/val/4wlr_A_B.png
+cm_2_chain_1_14/4wlr_A_C.png -> cm_2_chain_1_14/train/4wlr_A_C.png
+cm_2_chain_1_14/4wlr_B_C.png -> cm_2_chain_1_14/train/4wlr_B_C.png
+cm_2_chain_1_14/4y65_A_B.png -> cm_2_chain_1_14/train/4y65_A_B.png
+cm_2_chain_1_14/4y65_A_C.png -> cm_2_chain_1_14/train/4y65_A_C.png
+cm_2_chain_1_14/4y65_B_C.png -> cm_2_chain_1_14/train/4y65_B_C.png
+cm_2_chain_1_14/5apt_A_B.png -> cm_2_chain_1_14/train/5apt_A_B.png
+cm_2_chain_1_14/5apt_A_C.png -> cm_2_chain_1_14/train/5apt_A_C.png
+cm_2_chain_1_14/5apt_B_C.png -> cm_2_chain_1_14/train/5apt_B_C.png
+cm_2_chain_1_14/5dik_A_B.png -> cm_2_chain_1_14/train/5dik_A_B.png
+cm_2_chain_1_14/5dik_A_C.png -> cm_2_chain_1_14/train/5dik_A_C.png
+cm_2_chain_1_14/5dik_B_C.png -> cm_2_chain_1_14/train/5dik_B_C.png
+cm_2_chain_1_14/5dps_A_B.png -> cm_2_chain_1_14/train/5dps_A_B.png
+cm_2_chain_1_14/5dps_A_C.png -> cm_2_chain_1_14/train/5dps_A_C.png
+cm_2_chain_1_14/5dps_B_C.png -> cm_2_chain_1_14/val/5dps_B_C.png
+cm_2_chain_1_14/5dtp_A_B.png -> cm_2_chain_1_14/train/5dtp_A_B.png
+cm_2_chain_1_14/5dtp_A_C.png -> cm_2_chain_1_14/train/5dtp_A_C.png
+cm_2_chain_1_14/5dtp_B_C.png -> cm_2_chain_1_14/train/5dtp_B_C.png
+cm_2_chain_1_14/5eo4_A_B.png -> cm_2_chain_1_14/train/5eo4_A_B.png
+cm_2_chain_1_14/5eo4_A_C.png -> cm_2_chain_1_14/val/5eo4_A_C.png
+cm_2_chain_1_14/5eo4_B_C.png -> cm_2_chain_1_14/val/5eo4_B_C.png
+cm_2_chain_1_14/5ggv_H_Y.png -> cm_2_chain_1_14/train/5ggv_H_Y.png
+cm_2_chain_1_14/5ggv_L_H.png -> cm_2_chain_1_14/train/5ggv_L_H.png
+cm_2_chain_1_14/5ggv_L_Y.png -> cm_2_chain_1_14/train/5ggv_L_Y.png
+cm_2_chain_1_14/5gru_A_H.png -> cm_2_chain_1_14/train/5gru_A_H.png
+cm_2_chain_1_14/5gru_A_L.png -> cm_2_chain_1_14/train/5gru_A_L.png
+cm_2_chain_1_14/5gru_H_L.png -> cm_2_chain_1_14/val/5gru_H_L.png
+cm_2_chain_1_14/5hea_A_B.png -> cm_2_chain_1_14/train/5hea_A_B.png
+cm_2_chain_1_14/5hea_A_C.png -> cm_2_chain_1_14/train/5hea_A_C.png
+cm_2_chain_1_14/5hea_B_C.png -> cm_2_chain_1_14/train/5hea_B_C.png
+cm_2_chain_1_14/5hxk_A_B.png -> cm_2_chain_1_14/train/5hxk_A_B.png
+cm_2_chain_1_14/5hxk_A_C.png -> cm_2_chain_1_14/train/5hxk_A_C.png
+cm_2_chain_1_14/5hxk_B_C.png -> cm_2_chain_1_14/train/5hxk_B_C.png
+cm_2_chain_1_14/5jqm_A_B.png -> cm_2_chain_1_14/val/5jqm_A_B.png
+cm_2_chain_1_14/5jqm_A_C.png -> cm_2_chain_1_14/val/5jqm_A_C.png
+cm_2_chain_1_14/5jqm_B_C.png -> cm_2_chain_1_14/train/5jqm_B_C.png
+cm_2_chain_1_14/5ka6_A_B.png -> cm_2_chain_1_14/val/5ka6_A_B.png
+cm_2_chain_1_14/5ka6_A_C.png -> cm_2_chain_1_14/train/5ka6_A_C.png
+cm_2_chain_1_14/5ka6_B_C.png -> cm_2_chain_1_14/val/5ka6_B_C.png
+cm_2_chain_1_14/5n8q_A_B.png -> cm_2_chain_1_14/train/5n8q_A_B.png
+cm_2_chain_1_14/5n8q_A_C.png -> cm_2_chain_1_14/train/5n8q_A_C.png
+cm_2_chain_1_14/5n8q_B_C.png -> cm_2_chain_1_14/train/5n8q_B_C.png
+cm_2_chain_1_14/5ngk_A_B.png -> cm_2_chain_1_14/train/5ngk_A_B.png
+cm_2_chain_1_14/5ngk_A_C.png -> cm_2_chain_1_14/val/5ngk_A_C.png
+cm_2_chain_1_14/5ngk_B_C.png -> cm_2_chain_1_14/train/5ngk_B_C.png
+cm_2_chain_1_14/5ucb_H_B.png -> cm_2_chain_1_14/train/5ucb_H_B.png
+cm_2_chain_1_14/5ucb_H_L.png -> cm_2_chain_1_14/train/5ucb_H_L.png
+cm_2_chain_1_14/5ucb_L_B.png -> cm_2_chain_1_14/train/5ucb_L_B.png
+cm_2_chain_1_14/5woq_A_B.png -> cm_2_chain_1_14/train/5woq_A_B.png
+cm_2_chain_1_14/5woq_A_C.png -> cm_2_chain_1_14/train/5woq_A_C.png
+cm_2_chain_1_14/5woq_B_C.png -> cm_2_chain_1_14/train/5woq_B_C.png
+cm_2_chain_1_14/6blm_A_B.png -> cm_2_chain_1_14/train/6blm_A_B.png
+cm_2_chain_1_14/6blm_A_C.png -> cm_2_chain_1_14/train/6blm_A_C.png
+cm_2_chain_1_14/6blm_B_C.png -> cm_2_chain_1_14/train/6blm_B_C.png
+2019-01-14 22:30:25.487727: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-01-14 22:30:27.548125: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1432] Found device 0 with properties: 
+name: GeForce GTX 1080 Ti major: 6 minor: 1 memoryClockRate(GHz): 1.62
+pciBusID: 0000:82:00.0
+totalMemory: 10.92GiB freeMemory: 10.76GiB
+2019-01-14 22:30:27.548238: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1511] Adding visible gpu devices: 0
+2019-01-14 22:30:27.907706: I tensorflow/core/common_runtime/gpu/gpu_device.cc:982] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019-01-14 22:30:27.907760: I tensorflow/core/common_runtime/gpu/gpu_device.cc:988]      0 
+2019-01-14 22:30:27.907769: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1001] 0:   N 
+2019-01-14 22:30:27.908088: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 3353 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080 Ti, pci bus id: 0000:82:00.0, compute capability: 6.1)
+WARNING:tensorflow:From wpix2pix.py:262: string_input_producer (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.from_tensor_slices(string_tensor).shuffle(tf.shape(input_tensor, out_type=tf.int64)[0]).repeat(num_epochs)`. If `shuffle=False`, omit the `.shuffle(...)`.
+WARNING:tensorflow:From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:276: input_producer (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.from_tensor_slices(input_tensor).shuffle(tf.shape(input_tensor, out_type=tf.int64)[0]).repeat(num_epochs)`. If `shuffle=False`, omit the `.shuffle(...)`.
+WARNING:tensorflow:From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:188: limit_epochs (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.from_tensors(tensor).repeat(num_epochs)`.
+WARNING:tensorflow:From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:197: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING:tensorflow:From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:197: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING:tensorflow:From wpix2pix.py:263: WholeFileReader.__init__ (from tensorflow.python.ops.io_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.map(tf.read_file)`.
+WARNING:tensorflow:From wpix2pix.py:318: batch (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.batch(batch_size)` (or `padded_batch(...)` if `dynamic_pad=True`).
+WARNING:tensorflow:From wpix2pix.py:724: Supervisor.__init__ (from tensorflow.python.training.supervisor) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.MonitoredTrainingSession
+2019-01-14 22:30:33.260682: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1511] Adding visible gpu devices: 0
+2019-01-14 22:30:33.260813: I tensorflow/core/common_runtime/gpu/gpu_device.cc:982] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019-01-14 22:30:33.261658: I tensorflow/core/common_runtime/gpu/gpu_device.cc:988]      0 
+2019-01-14 22:30:33.261719: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1001] 0:   N 
+2019-01-14 22:30:33.262761: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 3353 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080 Ti, pci bus id: 0000:82:00.0, compute capability: 6.1)
+2019-01-14 22:30:44.755464: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.13GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019-01-14 22:30:44.756826: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.13GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019-01-14 22:30:44.758388: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.13GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019-01-14 22:30:44.761049: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.14GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019-01-14 22:30:45.177293: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.14GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019-01-14 22:30:45.196134: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.13GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019-01-14 22:30:45.210450: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.13GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+2019-01-14 22:30:45.222838: W tensorflow/core/common_runtime/bfc_allocator.cc:211] Allocator (GPU_0_bfc) ran out of memory trying to allocate 2.13GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+aspect_ratio = 1.0
+batch_size = 1
+beta1 = 0.9
+checkpoint = None
+display_freq = 0
+flip = True
+gan_weight = 1.0
+input_dir = cm_2_chain_1_14/train/
+l1_weight = 100.0
+lab_colorization = False
+lr = 0.001
+max_epochs = 100
+max_steps = None
+mode = train
+ndf = 64
+ngf = 64
+output_dir = OUT.1.14
+output_filetype = png
+progress_freq = 50
+save_freq = 5000
+scale_size = 586
+seed = 20344293
+separable_conv = False
+summary_freq = 100
+trace_freq = 0
+which_direction = AtoB
+examples count = 268
+parameter_count = 69776068
+progress  epoch 1  step 49  image/sec 4.3  remaining 103m
+discrim_loss 0.50939494
+gen_loss_GAN 0.023382515
+gen_loss_L1 0.080213524
+recording summary
+progress  epoch 1  step 99  image/sec 4.9  remaining 91m
+discrim_loss 0.80854553
+gen_loss_GAN 0.012838219
+gen_loss_L1 0.05876937
+progress  epoch 1  step 149  image/sec 5.5  remaining 80m
+discrim_loss 1.0989151
+gen_loss_GAN 0.0077090464
+gen_loss_L1 0.03870397
+recording summary
+progress  epoch 1  step 199  image/sec 5.8  remaining 76m
+discrim_loss 1.080361
+gen_loss_GAN 0.0036530315
+gen_loss_L1 0.029454054
+progress  epoch 1  step 249  image/sec 6.1  remaining 73m
+discrim_loss 1.0660962
+gen_loss_GAN 0.0017200124
+gen_loss_L1 0.02360231
+recording summary
+progress  epoch 2  step 31  image/sec 6.1  remaining 71m
+discrim_loss 1.0663638
+gen_loss_GAN 0.00093968905
+gen_loss_L1 0.020115381
+progress  epoch 2  step 81  image/sec 6.3  remaining 69m
+discrim_loss 1.0821197
+gen_loss_GAN 0.0005500391
+gen_loss_L1 0.01828805
+recording summary
+progress  epoch 2  step 131  image/sec 6.3  remaining 69m
+discrim_loss 1.0669547
+gen_loss_GAN 0.00025834938
+gen_loss_L1 0.015865127
+progress  epoch 2  step 181  image/sec 6.5  remaining 68m
+discrim_loss 1.1060057
+gen_loss_GAN 0.0057249633
+gen_loss_L1 0.014931543
+recording summary
+progress  epoch 2  step 231  image/sec 6.5  remaining 67m
+discrim_loss 1.0538232
+gen_loss_GAN 0.005235148
+gen_loss_L1 0.014643379
+progress  epoch 3  step 13  image/sec 6.6  remaining 66m
+discrim_loss 0.9621477
+gen_loss_GAN 0.004804536
+gen_loss_L1 0.01394172
+recording summary
+progress  epoch 3  step 63  image/sec 6.6  remaining 66m
+discrim_loss 0.85203904
+gen_loss_GAN 0.003696621
+gen_loss_L1 0.013812185
+progress  epoch 3  step 113  image/sec 6.6  remaining 65m
+discrim_loss 0.7767573
+gen_loss_GAN 0.0021510315
+gen_loss_L1 0.013362519
+recording summary
+progress  epoch 3  step 163  image/sec 6.6  remaining 65m
+discrim_loss 0.7281842
+gen_loss_GAN 0.0013582472
+gen_loss_L1 0.012562133
+progress  epoch 3  step 213  image/sec 6.7  remaining 65m
+discrim_loss 0.6652607
+gen_loss_GAN 0.00093122094
+gen_loss_L1 0.012408618
+recording summary
+progress  epoch 3  step 264  image/sec 6.7  remaining 64m
+discrim_loss 0.6286865
+gen_loss_GAN 0.00088838144
+gen_loss_L1 0.01326132
+progress  epoch 4  step 45  image/sec 6.7  remaining 64m
+discrim_loss 0.6166232
+gen_loss_GAN 0.0009026691
+gen_loss_L1 0.012039665
+recording summary
+progress  epoch 4  step 95  image/sec 6.7  remaining 64m
+discrim_loss 0.59946305
+gen_loss_GAN 0.0014385927
+gen_loss_L1 0.012571251
+progress  epoch 4  step 145  image/sec 6.7  remaining 63m
+discrim_loss 0.5902609
+gen_loss_GAN 0.0014962226
+gen_loss_L1 0.012235977
+recording summary
+progress  epoch 4  step 195  image/sec 6.7  remaining 63m
+discrim_loss 0.5816673
+gen_loss_GAN 0.0010767798
+gen_loss_L1 0.011366252
+progress  epoch 4  step 245  image/sec 6.8  remaining 63m
+discrim_loss 0.575293
+gen_loss_GAN 0.0012331582
+gen_loss_L1 0.011863863
+recording summary
+progress  epoch 5  step 27  image/sec 6.8  remaining 63m
+discrim_loss 0.57106614
+gen_loss_GAN 0.0010427743
+gen_loss_L1 0.011119794
+progress  epoch 5  step 77  image/sec 6.8  remaining 62m
+discrim_loss 0.59055835
+gen_loss_GAN 0.0016397837
+gen_loss_L1 0.010839262
+recording summary
+progress  epoch 5  step 127  image/sec 6.8  remaining 62m
+discrim_loss 0.5737769
+gen_loss_GAN 0.0019127192
+gen_loss_L1 0.011099852
+progress  epoch 5  step 177  image/sec 6.8  remaining 62m
+discrim_loss 0.56831044
+gen_loss_GAN 0.0019168349
+gen_loss_L1 0.010561012
+recording summary
+progress  epoch 5  step 227  image/sec 6.8  remaining 62m
+discrim_loss 0.56524307
+gen_loss_GAN 0.003352384
+gen_loss_L1 0.011085169
+progress  epoch 6  step 9  image/sec 6.8  remaining 62m
+discrim_loss 0.5504571
+gen_loss_GAN 0.005079436
+gen_loss_L1 0.010494601
+recording summary
+progress  epoch 6  step 59  image/sec 6.8  remaining 62m
+discrim_loss 0.54835004
+gen_loss_GAN 0.0043967036
+gen_loss_L1 0.010181927
+progress  epoch 6  step 109  image/sec 6.8  remaining 61m
+discrim_loss 0.5715484
+gen_loss_GAN 0.006192239
+gen_loss_L1 0.010224445
+recording summary
+progress  epoch 6  step 159  image/sec 6.8  remaining 61m
+discrim_loss 0.5514054
+gen_loss_GAN 0.0069417744
+gen_loss_L1 0.010480894
+progress  epoch 6  step 209  image/sec 6.8  remaining 61m
+discrim_loss 0.5512241
+gen_loss_GAN 0.006282322
+gen_loss_L1 0.010028231
+recording summary
+progress  epoch 6  step 259  image/sec 6.8  remaining 61m
+discrim_loss 0.53604245
+gen_loss_GAN 0.010164052
+gen_loss_L1 0.010623635
+progress  epoch 7  step 41  image/sec 6.9  remaining 61m
+discrim_loss 0.5348308
+gen_loss_GAN 0.009969266
+gen_loss_L1 0.010212256
+recording summary
+progress  epoch 7  step 91  image/sec 6.9  remaining 61m
+discrim_loss 0.53273916
+gen_loss_GAN 0.011296234
+gen_loss_L1 0.0102592185
+progress  epoch 7  step 141  image/sec 6.9  remaining 60m
+discrim_loss 0.5210755
+gen_loss_GAN 0.012339248
+gen_loss_L1 0.009697281
+recording summary
+progress  epoch 7  step 191  image/sec 6.9  remaining 60m
+discrim_loss 0.52537596
+gen_loss_GAN 0.00986602
+gen_loss_L1 0.009156148
+progress  epoch 7  step 241  image/sec 6.9  remaining 60m
+discrim_loss 0.53294176
+gen_loss_GAN 0.013076069
+gen_loss_L1 0.009753636
+recording summary
+progress  epoch 8  step 23  image/sec 6.9  remaining 60m
+discrim_loss 0.53614175
+gen_loss_GAN 0.010378396
+gen_loss_L1 0.008530728
+progress  epoch 8  step 73  image/sec 6.9  remaining 60m
+discrim_loss 0.5231922
+gen_loss_GAN 0.014229386
+gen_loss_L1 0.009106286
+recording summary
+progress  epoch 8  step 123  image/sec 6.9  remaining 60m
+discrim_loss 0.5132305
+gen_loss_GAN 0.025020668
+gen_loss_L1 0.010021098
+progress  epoch 8  step 173  image/sec 6.9  remaining 59m
+discrim_loss 0.50612307
+gen_loss_GAN 0.023581455
+gen_loss_L1 0.009679149
+recording summary
+progress  epoch 8  step 223  image/sec 6.9  remaining 59m
+discrim_loss 0.5126282
+gen_loss_GAN 0.020169018
+gen_loss_L1 0.0095041115
+progress  epoch 9  step 5  image/sec 6.9  remaining 59m
+discrim_loss 0.51813173
+gen_loss_GAN 0.017858306
+gen_loss_L1 0.0083795795
+recording summary
+progress  epoch 9  step 55  image/sec 6.9  remaining 59m
+discrim_loss 0.5142367
+gen_loss_GAN 0.01822812
+gen_loss_L1 0.008267037
+progress  epoch 9  step 105  image/sec 6.9  remaining 59m
+discrim_loss 0.50198644
+gen_loss_GAN 0.02687435
+gen_loss_L1 0.009084085
+recording summary
+progress  epoch 9  step 155  image/sec 6.9  remaining 59m
+discrim_loss 0.503632
+gen_loss_GAN 0.024841802
+gen_loss_L1 0.008979366
+progress  epoch 9  step 205  image/sec 6.9  remaining 59m
+discrim_loss 0.50272214
+gen_loss_GAN 0.02167197
+gen_loss_L1 0.008337148
+recording summary
+progress  epoch 9  step 255  image/sec 6.9  remaining 59m
+discrim_loss 0.5061104
+gen_loss_GAN 0.023440018
+gen_loss_L1 0.009276516
+progress  epoch 10  step 37  image/sec 6.9  remaining 58m
+discrim_loss 0.50122476
+gen_loss_GAN 0.025659662
+gen_loss_L1 0.009027098
+recording summary
+progress  epoch 10  step 87  image/sec 6.9  remaining 58m
+discrim_loss 0.48991895
+gen_loss_GAN 0.033603754
+gen_loss_L1 0.008970548
+progress  epoch 10  step 137  image/sec 6.9  remaining 58m
+discrim_loss 0.49565423
+gen_loss_GAN 0.034091007
+gen_loss_L1 0.008752387
+recording summary
+progress  epoch 10  step 187  image/sec 6.9  remaining 58m
+discrim_loss 0.48730654
+gen_loss_GAN 0.036609165
+gen_loss_L1 0.0087232785
+progress  epoch 10  step 237  image/sec 6.9  remaining 58m
+discrim_loss 0.48130465
+gen_loss_GAN 0.039643392
+gen_loss_L1 0.008489454
+recording summary
+progress  epoch 11  step 19  image/sec 6.9  remaining 58m
+discrim_loss 0.49414834
+gen_loss_GAN 0.031579986
+gen_loss_L1 0.007861603
+progress  epoch 11  step 69  image/sec 6.9  remaining 57m
+discrim_loss 0.4931574
+gen_loss_GAN 0.033048455
+gen_loss_L1 0.0085266465
+recording summary
+progress  epoch 11  step 119  image/sec 6.9  remaining 57m
+discrim_loss 0.48357198
+gen_loss_GAN 0.034964297
+gen_loss_L1 0.008612448
+progress  epoch 11  step 169  image/sec 6.9  remaining 57m
+discrim_loss 0.47953278
+gen_loss_GAN 0.037690323
+gen_loss_L1 0.008157526
+recording summary
+progress  epoch 11  step 219  image/sec 6.9  remaining 57m
+discrim_loss 0.47906727
+gen_loss_GAN 0.04527304
+gen_loss_L1 0.008360676
+progress  epoch 12  step 1  image/sec 6.9  remaining 57m
+discrim_loss 0.47649807
+gen_loss_GAN 0.045276754
+gen_loss_L1 0.008303098
+recording summary
+progress  epoch 12  step 51  image/sec 6.9  remaining 57m
+discrim_loss 0.47058034
+gen_loss_GAN 0.050349854
+gen_loss_L1 0.008447959
+progress  epoch 12  step 101  image/sec 6.9  remaining 57m
+discrim_loss 0.4704683
+gen_loss_GAN 0.053785466
+gen_loss_L1 0.0075869155
+recording summary
+progress  epoch 12  step 151  image/sec 6.9  remaining 57m
+discrim_loss 0.46438342
+gen_loss_GAN 0.05498263
+gen_loss_L1 0.0079501085
+progress  epoch 12  step 201  image/sec 6.9  remaining 56m
+discrim_loss 0.4630483
+gen_loss_GAN 0.06058733
+gen_loss_L1 0.0080033075
+recording summary
+progress  epoch 12  step 251  image/sec 6.9  remaining 56m
+discrim_loss 0.46263248
+gen_loss_GAN 0.062347986
+gen_loss_L1 0.008394903
+progress  epoch 13  step 33  image/sec 6.9  remaining 56m
+discrim_loss 0.46045423
+gen_loss_GAN 0.06937097
+gen_loss_L1 0.008898322
+recording summary
+progress  epoch 13  step 83  image/sec 6.9  remaining 56m
+discrim_loss 0.4608958
+gen_loss_GAN 0.07305114
+gen_loss_L1 0.00927803
+progress  epoch 13  step 133  image/sec 6.9  remaining 56m
+discrim_loss 0.45071033
+gen_loss_GAN 0.08150535
+gen_loss_L1 0.00854928
+recording summary
+progress  epoch 13  step 183  image/sec 6.9  remaining 56m
+discrim_loss 0.45012975
+gen_loss_GAN 0.07364656
+gen_loss_L1 0.008450078
+progress  epoch 13  step 233  image/sec 6.9  remaining 56m
+discrim_loss 0.45890453
+gen_loss_GAN 0.0688179
+gen_loss_L1 0.007577562
+recording summary
+progress  epoch 14  step 15  image/sec 6.9  remaining 56m
+discrim_loss 0.45995355
+gen_loss_GAN 0.07273141
+gen_loss_L1 0.0076127793
+progress  epoch 14  step 65  image/sec 6.9  remaining 55m
+discrim_loss 0.45884278
+gen_loss_GAN 0.07399135
+gen_loss_L1 0.008049387
+recording summary
+progress  epoch 14  step 115  image/sec 6.9  remaining 55m
+discrim_loss 0.4438544
+gen_loss_GAN 0.08511732
+gen_loss_L1 0.007820139
+progress  epoch 14  step 165  image/sec 6.9  remaining 55m
+discrim_loss 0.4533222
+gen_loss_GAN 0.078457996
+gen_loss_L1 0.0077457586
+recording summary
+progress  epoch 14  step 215  image/sec 6.9  remaining 55m
+discrim_loss 0.44694498
+gen_loss_GAN 0.0822856
+gen_loss_L1 0.007833483
+progress  epoch 14  step 265  image/sec 6.9  remaining 55m
+discrim_loss 0.43255737
+gen_loss_GAN 0.09229571
+gen_loss_L1 0.007550939
+recording summary
+progress  epoch 15  step 47  image/sec 6.9  remaining 55m
+discrim_loss 0.43409103
+gen_loss_GAN 0.10236075
+gen_loss_L1 0.0077895788
+progress  epoch 15  step 97  image/sec 6.9  remaining 55m
+discrim_loss 0.42476967
+gen_loss_GAN 0.114347026
+gen_loss_L1 0.008553832
+recording summary
+progress  epoch 15  step 147  image/sec 6.9  remaining 55m
+discrim_loss 0.43694746
+gen_loss_GAN 0.10389844
+gen_loss_L1 0.008128282
+progress  epoch 15  step 197  image/sec 6.9  remaining 54m
+discrim_loss 0.4303902
+gen_loss_GAN 0.0974506
+gen_loss_L1 0.0073216734
+recording summary
+progress  epoch 15  step 247  image/sec 6.9  remaining 54m
+discrim_loss 0.43707764
+gen_loss_GAN 0.09225093
+gen_loss_L1 0.0074056126
+progress  epoch 16  step 29  image/sec 6.9  remaining 54m
+discrim_loss 0.43287575
+gen_loss_GAN 0.10432515
+gen_loss_L1 0.008115519
+recording summary
+progress  epoch 16  step 79  image/sec 6.9  remaining 54m
+discrim_loss 0.4381063
+gen_loss_GAN 0.095395006
+gen_loss_L1 0.0072503565
+progress  epoch 16  step 129  image/sec 6.9  remaining 54m
+discrim_loss 0.44913593
+gen_loss_GAN 0.09192067
+gen_loss_L1 0.0075425417
+recording summary
+progress  epoch 16  step 180  image/sec 6.9  remaining 54m
+discrim_loss 0.4317581
+gen_loss_GAN 0.09769477
+gen_loss_L1 0.0074208197
+progress  epoch 16  step 229  image/sec 6.9  remaining 54m
+discrim_loss 0.4299605
+gen_loss_GAN 0.08974169
+gen_loss_L1 0.006879647
+recording summary
+progress  epoch 17  step 11  image/sec 6.9  remaining 54m
+discrim_loss 0.4225092
+gen_loss_GAN 0.11433066
+gen_loss_L1 0.008114672
+progress  epoch 17  step 61  image/sec 6.9  remaining 53m
+discrim_loss 0.42083386
+gen_loss_GAN 0.123886295
+gen_loss_L1 0.0076670693
+recording summary
+progress  epoch 17  step 111  image/sec 6.9  remaining 53m
+discrim_loss 0.41749722
+gen_loss_GAN 0.12616573
+gen_loss_L1 0.0074516223
+progress  epoch 17  step 161  image/sec 7.0  remaining 53m
+discrim_loss 0.4159452
+gen_loss_GAN 0.12947983
+gen_loss_L1 0.007701112
+recording summary
+progress  epoch 17  step 211  image/sec 6.9  remaining 53m
+discrim_loss 0.42207563
+gen_loss_GAN 0.11624942
+gen_loss_L1 0.007452939
+progress  epoch 17  step 261  image/sec 7.0  remaining 53m
+discrim_loss 0.4131554
+gen_loss_GAN 0.12657145
+gen_loss_L1 0.0076753176
+recording summary
+progress  epoch 18  step 43  image/sec 6.9  remaining 53m
+discrim_loss 0.40445682
+gen_loss_GAN 0.14461905
+gen_loss_L1 0.007513348
+progress  epoch 18  step 93  image/sec 7.0  remaining 53m
+discrim_loss 0.42268124
+gen_loss_GAN 0.12974365
+gen_loss_L1 0.007407869
+recording summary
+progress  epoch 18  step 143  image/sec 6.9  remaining 53m
+discrim_loss 0.42276412
+gen_loss_GAN 0.12490195
+gen_loss_L1 0.007369515
+progress  epoch 18  step 193  image/sec 7.0  remaining 52m
+discrim_loss 0.41479716
+gen_loss_GAN 0.11407627
+gen_loss_L1 0.0076969503
+recording summary
+progress  epoch 18  step 243  image/sec 7.0  remaining 52m
+discrim_loss 0.4347208
+gen_loss_GAN 0.11261715
+gen_loss_L1 0.007647613
+progress  epoch 19  step 25  image/sec 7.0  remaining 52m
+discrim_loss 0.4429907
+gen_loss_GAN 0.0970409
+gen_loss_L1 0.0071860584
+recording summary
+progress  epoch 19  step 75  image/sec 7.0  remaining 52m
+discrim_loss 0.42457557
+gen_loss_GAN 0.11135207
+gen_loss_L1 0.007640947
+progress  epoch 19  step 125  image/sec 7.0  remaining 52m
+discrim_loss 0.42594185
+gen_loss_GAN 0.11262032
+gen_loss_L1 0.0076703867
+recording summary
+progress  epoch 19  step 175  image/sec 7.0  remaining 52m
+discrim_loss 0.4199904
+gen_loss_GAN 0.11760662
+gen_loss_L1 0.007785939
+saving model
+progress  epoch 19  step 225  image/sec 6.9  remaining 52m
+discrim_loss 0.41748634
+gen_loss_GAN 0.120455995
+gen_loss_L1 0.007805502
+recording summary
+progress  epoch 20  step 7  image/sec 6.9  remaining 52m
+discrim_loss 0.43421113
+gen_loss_GAN 0.12154798
+gen_loss_L1 0.007884391
+progress  epoch 20  step 57  image/sec 6.9  remaining 52m
+discrim_loss 0.43572983
+gen_loss_GAN 0.1146085
+gen_loss_L1 0.00801341
+recording summary
+progress  epoch 20  step 107  image/sec 6.9  remaining 51m
+discrim_loss 0.4317259
+gen_loss_GAN 0.111703135
+gen_loss_L1 0.00733478
+progress  epoch 20  step 157  image/sec 6.9  remaining 51m
+discrim_loss 0.42404127
+gen_loss_GAN 0.11051035
+gen_loss_L1 0.007858116
+recording summary
+progress  epoch 20  step 207  image/sec 6.9  remaining 51m
+discrim_loss 0.42393407
+gen_loss_GAN 0.10811494
+gen_loss_L1 0.007337602
+progress  epoch 20  step 257  image/sec 6.9  remaining 51m
+discrim_loss 0.43553454
+gen_loss_GAN 0.12533815
+gen_loss_L1 0.0076806983
+recording summary
+progress  epoch 21  step 39  image/sec 6.9  remaining 51m
+discrim_loss 0.43631613
+gen_loss_GAN 0.11570577
+gen_loss_L1 0.007563248
+progress  epoch 21  step 89  image/sec 6.9  remaining 51m
+discrim_loss 0.43624535
+gen_loss_GAN 0.11769127
+gen_loss_L1 0.00787507
+recording summary
+progress  epoch 21  step 139  image/sec 6.9  remaining 51m
+discrim_loss 0.42633325
+gen_loss_GAN 0.110498026
+gen_loss_L1 0.0077376748
+progress  epoch 21  step 189  image/sec 6.9  remaining 51m
+discrim_loss 0.44185704
+gen_loss_GAN 0.09528449
+gen_loss_L1 0.0069435593
+recording summary
+progress  epoch 21  step 239  image/sec 6.9  remaining 50m
+discrim_loss 0.43164676
+gen_loss_GAN 0.10658865
+gen_loss_L1 0.0073029213
+progress  epoch 22  step 21  image/sec 6.9  remaining 50m
+discrim_loss 0.42532983
+gen_loss_GAN 0.105274044
+gen_loss_L1 0.0071509625
+recording summary
+progress  epoch 22  step 71  image/sec 6.9  remaining 50m
+discrim_loss 0.4405739
+gen_loss_GAN 0.09042393
+gen_loss_L1 0.0063543683
+progress  epoch 22  step 121  image/sec 6.9  remaining 50m
+discrim_loss 0.42174122
+gen_loss_GAN 0.104931
+gen_loss_L1 0.006865989
+recording summary
+progress  epoch 22  step 171  image/sec 6.9  remaining 50m
+discrim_loss 0.41997015
+gen_loss_GAN 0.10635728
+gen_loss_L1 0.0073619904
+progress  epoch 22  step 221  image/sec 6.9  remaining 50m
+discrim_loss 0.41177267
+gen_loss_GAN 0.11176327
+gen_loss_L1 0.0072931214
+recording summary
+progress  epoch 23  step 3  image/sec 6.9  remaining 50m
+discrim_loss 0.40961334
+gen_loss_GAN 0.13260116
+gen_loss_L1 0.008727863
+progress  epoch 23  step 53  image/sec 6.9  remaining 50m
+discrim_loss 0.41820443
+gen_loss_GAN 0.12104008
+gen_loss_L1 0.0079388665
+recording summary
+progress  epoch 23  step 103  image/sec 6.9  remaining 49m
+discrim_loss 0.42161334
+gen_loss_GAN 0.11995218
+gen_loss_L1 0.007956429
+progress  epoch 23  step 153  image/sec 7.0  remaining 49m
+discrim_loss 0.4180525
+gen_loss_GAN 0.11175882
+gen_loss_L1 0.007835894
+recording summary
+progress  epoch 23  step 203  image/sec 6.9  remaining 49m
+discrim_loss 0.42941764
+gen_loss_GAN 0.11145751
+gen_loss_L1 0.007353467
+progress  epoch 23  step 253  image/sec 7.0  remaining 49m
+discrim_loss 0.41959792
+gen_loss_GAN 0.11294316
+gen_loss_L1 0.0076663154
+recording summary
+progress  epoch 24  step 35  image/sec 6.9  remaining 49m
+discrim_loss 0.41859445
+gen_loss_GAN 0.11519635
+gen_loss_L1 0.007754485
+progress  epoch 24  step 85  image/sec 7.0  remaining 49m
+discrim_loss 0.41766074
+gen_loss_GAN 0.1145617
+gen_loss_L1 0.007784581
+recording summary
+progress  epoch 24  step 135  image/sec 7.0  remaining 49m
+discrim_loss 0.42618296
+gen_loss_GAN 0.108498715
+gen_loss_L1 0.007293313
+progress  epoch 24  step 185  image/sec 7.0  remaining 49m
+discrim_loss 0.42460275
+gen_loss_GAN 0.10658953
+gen_loss_L1 0.007271344
+recording summary
+progress  epoch 24  step 235  image/sec 7.0  remaining 48m
+discrim_loss 0.41501194
+gen_loss_GAN 0.11598238
+gen_loss_L1 0.0074999714
+progress  epoch 25  step 17  image/sec 7.0  remaining 48m
+discrim_loss 0.41890633
+gen_loss_GAN 0.11477485
+gen_loss_L1 0.0065462627
+recording summary
+progress  epoch 25  step 67  image/sec 7.0  remaining 48m
+discrim_loss 0.41892526
+gen_loss_GAN 0.10610553
+gen_loss_L1 0.0068835565
+progress  epoch 25  step 117  image/sec 7.0  remaining 48m
+discrim_loss 0.4021584
+gen_loss_GAN 0.13103803
+gen_loss_L1 0.007806688
+recording summary
+progress  epoch 25  step 167  image/sec 7.0  remaining 48m
+discrim_loss 0.42303035
+gen_loss_GAN 0.1168312
+gen_loss_L1 0.007512343
+progress  epoch 25  step 217  image/sec 7.0  remaining 48m
+discrim_loss 0.40661582
+gen_loss_GAN 0.12273152
+gen_loss_L1 0.0076941065
+recording summary
+progress  epoch 25  step 267  image/sec 7.0  remaining 48m
+discrim_loss 0.4048636
+gen_loss_GAN 0.11114725
+gen_loss_L1 0.007146694
+progress  epoch 26  step 49  image/sec 7.0  remaining 48m
+discrim_loss 0.404449
+gen_loss_GAN 0.11213702
+gen_loss_L1 0.006944276
+recording summary
+progress  epoch 26  step 99  image/sec 7.0  remaining 47m
+discrim_loss 0.41236386
+gen_loss_GAN 0.11172289
+gen_loss_L1 0.006998684
+progress  epoch 26  step 149  image/sec 7.0  remaining 47m
+discrim_loss 0.41343805
+gen_loss_GAN 0.10865872
+gen_loss_L1 0.006674741
+recording summary
+progress  epoch 26  step 199  image/sec 7.0  remaining 47m
+discrim_loss 0.39985603
+gen_loss_GAN 0.122118056
+gen_loss_L1 0.007088707
+progress  epoch 26  step 249  image/sec 7.0  remaining 47m
+discrim_loss 0.3956398
+gen_loss_GAN 0.12935854
+gen_loss_L1 0.008028566
+recording summary
+progress  epoch 27  step 31  image/sec 7.0  remaining 47m
+discrim_loss 0.40170562
+gen_loss_GAN 0.13309631
+gen_loss_L1 0.007890914
+progress  epoch 27  step 81  image/sec 7.0  remaining 47m
+discrim_loss 0.40227193
+gen_loss_GAN 0.12881134
+gen_loss_L1 0.0072193947
+recording summary
+progress  epoch 27  step 131  image/sec 7.0  remaining 47m
+discrim_loss 0.39334166
+gen_loss_GAN 0.13298032
+gen_loss_L1 0.0077983625
+progress  epoch 27  step 181  image/sec 7.0  remaining 47m
+discrim_loss 0.39257652
+gen_loss_GAN 0.12558721
+gen_loss_L1 0.007336939
+recording summary
+progress  epoch 27  step 231  image/sec 7.0  remaining 46m
+discrim_loss 0.3918124
+gen_loss_GAN 0.12987804
+gen_loss_L1 0.007313902
+progress  epoch 28  step 13  image/sec 7.0  remaining 46m
+discrim_loss 0.41276237
+gen_loss_GAN 0.12684147
+gen_loss_L1 0.007271678
+recording summary
+progress  epoch 28  step 63  image/sec 7.0  remaining 46m
+discrim_loss 0.40418363
+gen_loss_GAN 0.12627359
+gen_loss_L1 0.0071956264
+progress  epoch 28  step 113  image/sec 7.0  remaining 46m
+discrim_loss 0.40149853
+gen_loss_GAN 0.12905554
+gen_loss_L1 0.0075212433
+recording summary
+progress  epoch 28  step 163  image/sec 7.0  remaining 46m
+discrim_loss 0.4185952
+gen_loss_GAN 0.121071145
+gen_loss_L1 0.0067732604
+progress  epoch 28  step 213  image/sec 7.0  remaining 46m
+discrim_loss 0.40285087
+gen_loss_GAN 0.12983745
+gen_loss_L1 0.008131423
+recording summary
+progress  epoch 28  step 263  image/sec 7.0  remaining 46m
+discrim_loss 0.4049544
+gen_loss_GAN 0.13201015
+gen_loss_L1 0.007744019
+progress  epoch 29  step 45  image/sec 7.0  remaining 46m
+discrim_loss 0.39322662
+gen_loss_GAN 0.13299464
+gen_loss_L1 0.007658581
+recording summary
+progress  epoch 29  step 95  image/sec 7.0  remaining 45m
+discrim_loss 0.39842686
+gen_loss_GAN 0.122947946
+gen_loss_L1 0.0073810956
+progress  epoch 29  step 145  image/sec 7.0  remaining 45m
+discrim_loss 0.39931998
+gen_loss_GAN 0.11326732
+gen_loss_L1 0.0075937374
+recording summary
+progress  epoch 29  step 195  image/sec 7.0  remaining 45m
+discrim_loss 0.39065072
+gen_loss_GAN 0.12499679
+gen_loss_L1 0.0073312414
+progress  epoch 29  step 245  image/sec 7.0  remaining 45m
+discrim_loss 0.40752593
+gen_loss_GAN 0.112548806
+gen_loss_L1 0.0066919965
+recording summary
+progress  epoch 30  step 28  image/sec 7.0  remaining 45m
+discrim_loss 0.41251582
+gen_loss_GAN 0.11635795
+gen_loss_L1 0.006893001
+progress  epoch 30  step 77  image/sec 7.0  remaining 45m
+discrim_loss 0.40154165
+gen_loss_GAN 0.12898424
+gen_loss_L1 0.0073121674
+recording summary
+progress  epoch 30  step 127  image/sec 7.0  remaining 45m
+discrim_loss 0.3969241
+gen_loss_GAN 0.13616787
+gen_loss_L1 0.007327079
+progress  epoch 30  step 177  image/sec 7.0  remaining 45m
+discrim_loss 0.39044228
+gen_loss_GAN 0.12407451
+gen_loss_L1 0.0073270146
+recording summary
+progress  epoch 30  step 227  image/sec 7.0  remaining 44m
+discrim_loss 0.4025108
+gen_loss_GAN 0.13234746
+gen_loss_L1 0.0074522644
+progress  epoch 31  step 9  image/sec 7.0  remaining 44m
+discrim_loss 0.38943768
+gen_loss_GAN 0.14557602
+gen_loss_L1 0.007440158
+recording summary
+progress  epoch 31  step 59  image/sec 7.0  remaining 44m
+discrim_loss 0.38767165
+gen_loss_GAN 0.14499044
+gen_loss_L1 0.007648013
+progress  epoch 31  step 109  image/sec 7.0  remaining 44m
+discrim_loss 0.38904187
+gen_loss_GAN 0.12882389
+gen_loss_L1 0.007251147
+recording summary
+progress  epoch 31  step 159  image/sec 7.0  remaining 44m
+discrim_loss 0.40638307
+gen_loss_GAN 0.1144178
+gen_loss_L1 0.006448768
+progress  epoch 31  step 209  image/sec 7.0  remaining 44m
+discrim_loss 0.40578616
+gen_loss_GAN 0.111025
+gen_loss_L1 0.006501569
+recording summary
+progress  epoch 31  step 259  image/sec 7.0  remaining 44m
+discrim_loss 0.39801595
+gen_loss_GAN 0.114696585
+gen_loss_L1 0.0071568624
+progress  epoch 32  step 41  image/sec 7.0  remaining 44m
+discrim_loss 0.3941605
+gen_loss_GAN 0.12359423
+gen_loss_L1 0.0071774637
+recording summary
+progress  epoch 32  step 91  image/sec 7.0  remaining 43m
+discrim_loss 0.38512513
+gen_loss_GAN 0.12123942
+gen_loss_L1 0.007452526
+progress  epoch 32  step 141  image/sec 7.0  remaining 43m
+discrim_loss 0.40207744
+gen_loss_GAN 0.10839672
+gen_loss_L1 0.006188582
+recording summary
+progress  epoch 32  step 191  image/sec 7.0  remaining 43m
+discrim_loss 0.4014774
+gen_loss_GAN 0.119286284
+gen_loss_L1 0.006987957
+progress  epoch 32  step 241  image/sec 7.0  remaining 43m
+discrim_loss 0.3937966
+gen_loss_GAN 0.11685786
+gen_loss_L1 0.006707222
+recording summary
+progress  epoch 33  step 23  image/sec 7.0  remaining 43m
+discrim_loss 0.3895911
+gen_loss_GAN 0.1206621
+gen_loss_L1 0.0077128336
+progress  epoch 33  step 73  image/sec 7.0  remaining 43m
+discrim_loss 0.39211363
+gen_loss_GAN 0.11530757
+gen_loss_L1 0.0072935116
+recording summary
+progress  epoch 33  step 123  image/sec 7.0  remaining 43m
+discrim_loss 0.39592898
+gen_loss_GAN 0.105288506
+gen_loss_L1 0.006401369
+progress  epoch 33  step 173  image/sec 7.0  remaining 43m
+discrim_loss 0.39427242
+gen_loss_GAN 0.12553672
+gen_loss_L1 0.007490319
+recording summary
+progress  epoch 33  step 223  image/sec 7.0  remaining 43m
+discrim_loss 0.3887945
+gen_loss_GAN 0.1342266
+gen_loss_L1 0.007898161
+progress  epoch 34  step 5  image/sec 7.0  remaining 42m
+discrim_loss 0.4027912
+gen_loss_GAN 0.12590106
+gen_loss_L1 0.007187548
+recording summary
+progress  epoch 34  step 55  image/sec 7.0  remaining 42m
+discrim_loss 0.40105167
+gen_loss_GAN 0.12509283
+gen_loss_L1 0.006674089
+progress  epoch 34  step 105  image/sec 7.0  remaining 42m
+discrim_loss 0.38553777
+gen_loss_GAN 0.13250315
+gen_loss_L1 0.007275919
+recording summary
+progress  epoch 34  step 155  image/sec 7.0  remaining 42m
+discrim_loss 0.3915157
+gen_loss_GAN 0.11163434
+gen_loss_L1 0.007090002
+progress  epoch 34  step 205  image/sec 7.0  remaining 42m
+discrim_loss 0.37640512
+gen_loss_GAN 0.12477423
+gen_loss_L1 0.007771253
+recording summary
+progress  epoch 34  step 255  image/sec 7.0  remaining 42m
+discrim_loss 0.38025585
+gen_loss_GAN 0.12532179
+gen_loss_L1 0.0076765157
+progress  epoch 35  step 37  image/sec 7.0  remaining 42m
+discrim_loss 0.39038008
+gen_loss_GAN 0.11302155
+gen_loss_L1 0.0072165816
+recording summary
+progress  epoch 35  step 87  image/sec 7.0  remaining 42m
+discrim_loss 0.3908371
+gen_loss_GAN 0.11664818
+gen_loss_L1 0.0074339206
+progress  epoch 35  step 137  image/sec 7.0  remaining 41m
+discrim_loss 0.3757036
+gen_loss_GAN 0.12031688
+gen_loss_L1 0.0069208457
+recording summary
+progress  epoch 35  step 187  image/sec 7.0  remaining 41m
+discrim_loss 0.3908854
+gen_loss_GAN 0.104883395
+gen_loss_L1 0.0061973636
+progress  epoch 35  step 237  image/sec 7.0  remaining 41m
+discrim_loss 0.38181728
+gen_loss_GAN 0.12749198
+gen_loss_L1 0.0069933822
+recording summary
+progress  epoch 36  step 19  image/sec 7.0  remaining 41m
+discrim_loss 0.39177597
+gen_loss_GAN 0.12606078
+gen_loss_L1 0.007170322
+progress  epoch 36  step 69  image/sec 7.0  remaining 41m
+discrim_loss 0.36808288
+gen_loss_GAN 0.1425128
+gen_loss_L1 0.0071594333
+recording summary
+progress  epoch 36  step 119  image/sec 7.0  remaining 41m
+discrim_loss 0.37065694
+gen_loss_GAN 0.12795426
+gen_loss_L1 0.0067061526
+progress  epoch 36  step 169  image/sec 7.0  remaining 41m
+discrim_loss 0.38344583
+gen_loss_GAN 0.12092493
+gen_loss_L1 0.0070032584
+recording summary
+progress  epoch 36  step 219  image/sec 7.0  remaining 41m
+discrim_loss 0.38316983
+gen_loss_GAN 0.12483586
+gen_loss_L1 0.00783974
+progress  epoch 37  step 1  image/sec 7.0  remaining 40m
+discrim_loss 0.38053775
+gen_loss_GAN 0.12661542
+gen_loss_L1 0.007548663
+recording summary
+progress  epoch 37  step 51  image/sec 7.0  remaining 40m
+discrim_loss 0.3778116
+gen_loss_GAN 0.1326822
+gen_loss_L1 0.007453949
+progress  epoch 37  step 101  image/sec 7.0  remaining 40m
+discrim_loss 0.37657127
+gen_loss_GAN 0.122080415
+gen_loss_L1 0.0074208044
+recording summary
+progress  epoch 37  step 152  image/sec 7.0  remaining 40m
+discrim_loss 0.39002073
+gen_loss_GAN 0.114827715
+gen_loss_L1 0.0068490477
+progress  epoch 37  step 201  image/sec 7.0  remaining 40m
+discrim_loss 0.3772303
+gen_loss_GAN 0.123514175
+gen_loss_L1 0.007469727
+recording summary
+progress  epoch 37  step 251  image/sec 7.0  remaining 40m
+discrim_loss 0.37439242
+gen_loss_GAN 0.114354566
+gen_loss_L1 0.0070407665
+progress  epoch 38  step 33  image/sec 7.0  remaining 40m
+discrim_loss 0.37853807
+gen_loss_GAN 0.11662582
+gen_loss_L1 0.0067802486
+recording summary
+progress  epoch 38  step 83  image/sec 7.0  remaining 40m
+discrim_loss 0.38304612
+gen_loss_GAN 0.118583694
+gen_loss_L1 0.006740031
+saving model
+progress  epoch 38  step 133  image/sec 7.0  remaining 40m
+discrim_loss 0.37279475
+gen_loss_GAN 0.11856178
+gen_loss_L1 0.0071169916
+recording summary
+progress  epoch 38  step 183  image/sec 7.0  remaining 39m
+discrim_loss 0.37607354
+gen_loss_GAN 0.11369641
+gen_loss_L1 0.0068253246
+progress  epoch 38  step 233  image/sec 7.0  remaining 39m
+discrim_loss 0.38304293
+gen_loss_GAN 0.12287347
+gen_loss_L1 0.0070827496
+recording summary
+progress  epoch 39  step 15  image/sec 7.0  remaining 39m
+discrim_loss 0.38231248
+gen_loss_GAN 0.13343285
+gen_loss_L1 0.0075421403
+progress  epoch 39  step 65  image/sec 7.0  remaining 39m
+discrim_loss 0.37635225
+gen_loss_GAN 0.13077313
+gen_loss_L1 0.007442027
+recording summary
+progress  epoch 39  step 115  image/sec 7.0  remaining 39m
+discrim_loss 0.38473216
+gen_loss_GAN 0.11151762
+gen_loss_L1 0.006598024
+progress  epoch 39  step 165  image/sec 7.0  remaining 39m
+discrim_loss 0.37307182
+gen_loss_GAN 0.11691187
+gen_loss_L1 0.006726963
+recording summary
+progress  epoch 39  step 215  image/sec 7.0  remaining 39m
+discrim_loss 0.37459746
+gen_loss_GAN 0.12558001
+gen_loss_L1 0.0067569097
+progress  epoch 39  step 265  image/sec 7.0  remaining 39m
+discrim_loss 0.38068116
+gen_loss_GAN 0.13103518
+gen_loss_L1 0.0077427914
+recording summary
+progress  epoch 40  step 47  image/sec 7.0  remaining 38m
+discrim_loss 0.3687781
+gen_loss_GAN 0.13391703
+gen_loss_L1 0.0077057234
+progress  epoch 40  step 97  image/sec 7.0  remaining 38m
+discrim_loss 0.37840316
+gen_loss_GAN 0.123497926
+gen_loss_L1 0.0071388353
+recording summary
+progress  epoch 40  step 147  image/sec 7.0  remaining 38m
+discrim_loss 0.3887762
+gen_loss_GAN 0.10955296
+gen_loss_L1 0.006479509
+progress  epoch 40  step 197  image/sec 7.0  remaining 38m
+discrim_loss 0.36203134
+gen_loss_GAN 0.13403255
+gen_loss_L1 0.0069775875
+recording summary
+progress  epoch 40  step 247  image/sec 7.0  remaining 38m
+discrim_loss 0.37109447
+gen_loss_GAN 0.12929498
+gen_loss_L1 0.007819995
+progress  epoch 41  step 29  image/sec 7.0  remaining 38m
+discrim_loss 0.35447243
+gen_loss_GAN 0.1274196
+gen_loss_L1 0.007607242
+recording summary
+progress  epoch 41  step 79  image/sec 7.0  remaining 38m
+discrim_loss 0.37587294
+gen_loss_GAN 0.12109033
+gen_loss_L1 0.0073688156
+progress  epoch 41  step 129  image/sec 7.0  remaining 38m
+discrim_loss 0.3700762
+gen_loss_GAN 0.1422807
+gen_loss_L1 0.0073497854
+recording summary
+progress  epoch 41  step 179  image/sec 7.0  remaining 37m
+discrim_loss 0.35921323
+gen_loss_GAN 0.13142356
+gen_loss_L1 0.007716189
+progress  epoch 41  step 229  image/sec 7.0  remaining 37m
+discrim_loss 0.3800479
+gen_loss_GAN 0.108587444
+gen_loss_L1 0.006478994
+recording summary
+progress  epoch 42  step 11  image/sec 7.0  remaining 37m
+discrim_loss 0.36807582
+gen_loss_GAN 0.114471115
+gen_loss_L1 0.0069968146
+progress  epoch 42  step 61  image/sec 7.0  remaining 37m
+discrim_loss 0.36617446
+gen_loss_GAN 0.11968597
+gen_loss_L1 0.0070149247
+recording summary
+progress  epoch 42  step 111  image/sec 7.0  remaining 37m
+discrim_loss 0.3752245
+gen_loss_GAN 0.113045014
+gen_loss_L1 0.0068035503
+progress  epoch 42  step 161  image/sec 7.0  remaining 37m
+discrim_loss 0.37177646
+gen_loss_GAN 0.12019725
+gen_loss_L1 0.007828376
+recording summary
+progress  epoch 42  step 211  image/sec 7.0  remaining 37m
+discrim_loss 0.3672672
+gen_loss_GAN 0.110522896
+gen_loss_L1 0.0071733673
+progress  epoch 42  step 261  image/sec 7.0  remaining 37m
+discrim_loss 0.38244325
+gen_loss_GAN 0.102716796
+gen_loss_L1 0.00662463
+recording summary
+progress  epoch 43  step 43  image/sec 7.0  remaining 36m
+discrim_loss 0.37171096
+gen_loss_GAN 0.11115738
+gen_loss_L1 0.006700304
+progress  epoch 43  step 93  image/sec 7.0  remaining 36m
+discrim_loss 0.368716
+gen_loss_GAN 0.12085327
+gen_loss_L1 0.006627358
+recording summary
+progress  epoch 43  step 143  image/sec 7.0  remaining 36m
+discrim_loss 0.37209207
+gen_loss_GAN 0.11647329
+gen_loss_L1 0.0067534815
+progress  epoch 43  step 193  image/sec 7.0  remaining 36m
+discrim_loss 0.36948967
+gen_loss_GAN 0.11498639
+gen_loss_L1 0.0066297515
+recording summary
+progress  epoch 43  step 243  image/sec 7.0  remaining 36m
+discrim_loss 0.35156026
+gen_loss_GAN 0.12727225
+gen_loss_L1 0.007287447
+progress  epoch 44  step 25  image/sec 7.0  remaining 36m
+discrim_loss 0.3594719
+gen_loss_GAN 0.11565422
+gen_loss_L1 0.007250824
+recording summary
+progress  epoch 44  step 75  image/sec 7.0  remaining 36m
+discrim_loss 0.3528807
+gen_loss_GAN 0.12285664
+gen_loss_L1 0.006985739
+progress  epoch 44  step 125  image/sec 7.0  remaining 36m
+discrim_loss 0.36934912
+gen_loss_GAN 0.1162557
+gen_loss_L1 0.006840232
+recording summary
+progress  epoch 44  step 175  image/sec 7.0  remaining 36m
+discrim_loss 0.36848405
+gen_loss_GAN 0.109682456
+gen_loss_L1 0.006805538
+progress  epoch 44  step 225  image/sec 7.0  remaining 35m
+discrim_loss 0.35514557
+gen_loss_GAN 0.13484167
+gen_loss_L1 0.007760223
+recording summary
+progress  epoch 45  step 7  image/sec 7.0  remaining 35m
+discrim_loss 0.36755413
+gen_loss_GAN 0.1244733
+gen_loss_L1 0.0072140377
+progress  epoch 45  step 57  image/sec 7.0  remaining 35m
+discrim_loss 0.3626568
+gen_loss_GAN 0.12310654
+gen_loss_L1 0.007345685
+recording summary
+progress  epoch 45  step 107  image/sec 7.0  remaining 35m
+discrim_loss 0.35081056
+gen_loss_GAN 0.12436273
+gen_loss_L1 0.00746462
+progress  epoch 45  step 157  image/sec 7.0  remaining 35m
+discrim_loss 0.36583745
+gen_loss_GAN 0.12730102
+gen_loss_L1 0.0075453143
+recording summary
+progress  epoch 45  step 207  image/sec 7.0  remaining 35m
+discrim_loss 0.36035734
+gen_loss_GAN 0.12436116
+gen_loss_L1 0.006936073
+progress  epoch 45  step 257  image/sec 7.0  remaining 35m
+discrim_loss 0.3599837
+gen_loss_GAN 0.11821898
+gen_loss_L1 0.0069216033
+recording summary
+progress  epoch 46  step 39  image/sec 7.0  remaining 35m
+discrim_loss 0.37055156
+gen_loss_GAN 0.12087879
+gen_loss_L1 0.0067695603
+progress  epoch 46  step 89  image/sec 7.0  remaining 34m
+discrim_loss 0.36099324
+gen_loss_GAN 0.119836316
+gen_loss_L1 0.0072052255
+recording summary
+progress  epoch 46  step 139  image/sec 7.0  remaining 34m
+discrim_loss 0.35535672
+gen_loss_GAN 0.12766254
+gen_loss_L1 0.0074059996
+progress  epoch 46  step 189  image/sec 7.0  remaining 34m
+discrim_loss 0.35784137
+gen_loss_GAN 0.12655935
+gen_loss_L1 0.007121602
+recording summary
+progress  epoch 46  step 239  image/sec 7.0  remaining 34m
+discrim_loss 0.36012197
+gen_loss_GAN 0.11973317
+gen_loss_L1 0.006783329
+progress  epoch 47  step 21  image/sec 7.0  remaining 34m
+discrim_loss 0.35948882
+gen_loss_GAN 0.12915385
+gen_loss_L1 0.007201237
+recording summary
+progress  epoch 47  step 71  image/sec 7.0  remaining 34m
+discrim_loss 0.36541635
+gen_loss_GAN 0.11998535
+gen_loss_L1 0.006323955
+progress  epoch 47  step 121  image/sec 7.0  remaining 34m
+discrim_loss 0.36024123
+gen_loss_GAN 0.11690534
+gen_loss_L1 0.0068073524
+recording summary
+progress  epoch 47  step 171  image/sec 7.0  remaining 34m
+discrim_loss 0.3716026
+gen_loss_GAN 0.111443676
+gen_loss_L1 0.0064992006
+progress  epoch 47  step 221  image/sec 7.0  remaining 33m
+discrim_loss 0.36094096
+gen_loss_GAN 0.11345129
+gen_loss_L1 0.0065823775
+recording summary
+progress  epoch 48  step 3  image/sec 7.0  remaining 33m
+discrim_loss 0.34667927
+gen_loss_GAN 0.12603298
+gen_loss_L1 0.007654825
+progress  epoch 48  step 53  image/sec 7.0  remaining 33m
+discrim_loss 0.34477833
+gen_loss_GAN 0.12783772
+gen_loss_L1 0.0072068796
+recording summary
+progress  epoch 48  step 103  image/sec 7.0  remaining 33m
+discrim_loss 0.34684756
+gen_loss_GAN 0.13236038
+gen_loss_L1 0.007380544
+progress  epoch 48  step 153  image/sec 7.0  remaining 33m
+discrim_loss 0.3615618
+gen_loss_GAN 0.11605686
+gen_loss_L1 0.0065363036
+recording summary
+progress  epoch 48  step 203  image/sec 7.0  remaining 33m
+discrim_loss 0.34850705
+gen_loss_GAN 0.13879508
+gen_loss_L1 0.007470899
+progress  epoch 48  step 253  image/sec 7.0  remaining 33m
+discrim_loss 0.3471035
+gen_loss_GAN 0.13596629
+gen_loss_L1 0.0071500028
+recording summary
+progress  epoch 49  step 35  image/sec 7.0  remaining 33m
+discrim_loss 0.3710723
+gen_loss_GAN 0.124832824
+gen_loss_L1 0.006376115
+progress  epoch 49  step 85  image/sec 7.0  remaining 33m
+discrim_loss 0.3637542
+gen_loss_GAN 0.12621535
+gen_loss_L1 0.006721819
+recording summary
+progress  epoch 49  step 135  image/sec 7.0  remaining 32m
+discrim_loss 0.35549265
+gen_loss_GAN 0.123344466
+gen_loss_L1 0.0066829147
+progress  epoch 49  step 185  image/sec 7.0  remaining 32m
+discrim_loss 0.3438614
+gen_loss_GAN 0.13611817
+gen_loss_L1 0.007370322
+recording summary
+progress  epoch 49  step 235  image/sec 7.0  remaining 32m
+discrim_loss 0.3562924
+gen_loss_GAN 0.13159506
+gen_loss_L1 0.0069700084
+progress  epoch 50  step 17  image/sec 7.0  remaining 32m
+discrim_loss 0.34984195
+gen_loss_GAN 0.13839243
+gen_loss_L1 0.007062969
+recording summary
+progress  epoch 50  step 67  image/sec 7.0  remaining 32m
+discrim_loss 0.35364863
+gen_loss_GAN 0.13900916
+gen_loss_L1 0.0072078668
+progress  epoch 50  step 117  image/sec 7.0  remaining 32m
+discrim_loss 0.3420732
+gen_loss_GAN 0.13249035
+gen_loss_L1 0.007456449
+recording summary
+progress  epoch 50  step 167  image/sec 7.0  remaining 32m
+discrim_loss 0.34491515
+gen_loss_GAN 0.13360797
+gen_loss_L1 0.007345344
+progress  epoch 50  step 217  image/sec 7.0  remaining 32m
+discrim_loss 0.3555605
+gen_loss_GAN 0.12721583
+gen_loss_L1 0.0068751643
+recording summary
+progress  epoch 50  step 267  image/sec 7.0  remaining 31m
+discrim_loss 0.35304135
+gen_loss_GAN 0.13324746
+gen_loss_L1 0.006909171
+progress  epoch 51  step 49  image/sec 7.0  remaining 31m
+discrim_loss 0.35761368
+gen_loss_GAN 0.118845455
+gen_loss_L1 0.006895266
+recording summary
+progress  epoch 51  step 99  image/sec 7.0  remaining 31m
+discrim_loss 0.34925085
+gen_loss_GAN 0.13518243
+gen_loss_L1 0.0070201866
+progress  epoch 51  step 149  image/sec 7.0  remaining 31m
+discrim_loss 0.35552558
+gen_loss_GAN 0.13570224
+gen_loss_L1 0.008271169
+recording summary
+progress  epoch 51  step 199  image/sec 7.0  remaining 31m
+discrim_loss 0.3490195
+gen_loss_GAN 0.14037058
+gen_loss_L1 0.007523377
+progress  epoch 51  step 249  image/sec 7.0  remaining 31m
+discrim_loss 0.3509995
+gen_loss_GAN 0.130672
+gen_loss_L1 0.007034236
+recording summary
+progress  epoch 52  step 31  image/sec 7.0  remaining 31m
+discrim_loss 0.34243074
+gen_loss_GAN 0.13839787
+gen_loss_L1 0.0069361245
+progress  epoch 52  step 81  image/sec 7.0  remaining 31m
+discrim_loss 0.35522753
+gen_loss_GAN 0.12636276
+gen_loss_L1 0.0064996406
+recording summary
+progress  epoch 52  step 131  image/sec 7.0  remaining 30m
+discrim_loss 0.34046805
+gen_loss_GAN 0.1374947
+gen_loss_L1 0.006917423
+progress  epoch 52  step 181  image/sec 7.0  remaining 30m
+discrim_loss 0.33272988
+gen_loss_GAN 0.14325412
+gen_loss_L1 0.00774041
+recording summary
+progress  epoch 52  step 231  image/sec 7.0  remaining 30m
+discrim_loss 0.3503831
+gen_loss_GAN 0.13305947
+gen_loss_L1 0.006908612
+progress  epoch 53  step 13  image/sec 7.0  remaining 30m
+discrim_loss 0.34918272
+gen_loss_GAN 0.13288784
+gen_loss_L1 0.006844256
+recording summary
+progress  epoch 53  step 63  image/sec 7.0  remaining 30m
+discrim_loss 0.34007695
+gen_loss_GAN 0.14156365
+gen_loss_L1 0.007938653
+progress  epoch 53  step 113  image/sec 7.0  remaining 30m
+discrim_loss 0.35910717
+gen_loss_GAN 0.12815058
+gen_loss_L1 0.006556806
+recording summary
+progress  epoch 53  step 163  image/sec 7.0  remaining 30m
+discrim_loss 0.3682364
+gen_loss_GAN 0.118090294
+gen_loss_L1 0.0062303413
+progress  epoch 53  step 213  image/sec 7.0  remaining 30m
+discrim_loss 0.345432
+gen_loss_GAN 0.12705871
+gen_loss_L1 0.0064254724
+recording summary
+progress  epoch 53  step 263  image/sec 7.0  remaining 30m
+discrim_loss 0.34075212
+gen_loss_GAN 0.15483025
+gen_loss_L1 0.008241337
+progress  epoch 54  step 45  image/sec 7.0  remaining 29m
+discrim_loss 0.3303274
+gen_loss_GAN 0.15961917
+gen_loss_L1 0.008615715
+recording summary
+progress  epoch 54  step 95  image/sec 7.0  remaining 29m
+discrim_loss 0.34572938
+gen_loss_GAN 0.13545682
+gen_loss_L1 0.007586455
+progress  epoch 54  step 145  image/sec 7.0  remaining 29m
+discrim_loss 0.34146267
+gen_loss_GAN 0.12470187
+gen_loss_L1 0.007051208
+recording summary
+progress  epoch 54  step 195  image/sec 7.0  remaining 29m
+discrim_loss 0.34638143
+gen_loss_GAN 0.14087296
+gen_loss_L1 0.0067055263
+progress  epoch 54  step 245  image/sec 7.0  remaining 29m
+discrim_loss 0.35394254
+gen_loss_GAN 0.12461146
+gen_loss_L1 0.006369746
+recording summary
+progress  epoch 55  step 27  image/sec 7.0  remaining 29m
+discrim_loss 0.33796385
+gen_loss_GAN 0.15682362
+gen_loss_L1 0.00720804
+progress  epoch 55  step 77  image/sec 7.0  remaining 29m
+discrim_loss 0.34465387
+gen_loss_GAN 0.1405145
+gen_loss_L1 0.0066792257
+recording summary
+progress  epoch 55  step 127  image/sec 7.0  remaining 29m
+discrim_loss 0.35092518
+gen_loss_GAN 0.12862363
+gen_loss_L1 0.0065294257
+progress  epoch 55  step 177  image/sec 7.0  remaining 28m
+discrim_loss 0.35354832
+gen_loss_GAN 0.12108486
+gen_loss_L1 0.0071551744
+recording summary
+progress  epoch 55  step 227  image/sec 7.0  remaining 28m
+discrim_loss 0.34631792
+gen_loss_GAN 0.124921694
+gen_loss_L1 0.006965744
+progress  epoch 56  step 9  image/sec 7.0  remaining 28m
+discrim_loss 0.34363356
+gen_loss_GAN 0.13109751
+gen_loss_L1 0.007299732
+recording summary
+progress  epoch 56  step 59  image/sec 7.0  remaining 28m
+discrim_loss 0.34944916
+gen_loss_GAN 0.12835859
+gen_loss_L1 0.0069227754
+progress  epoch 56  step 109  image/sec 7.0  remaining 28m
+discrim_loss 0.34263408
+gen_loss_GAN 0.13154572
+gen_loss_L1 0.0068348693
+recording summary
+progress  epoch 56  step 159  image/sec 7.0  remaining 28m
+discrim_loss 0.3438829
+gen_loss_GAN 0.14518873
+gen_loss_L1 0.0069273273
+progress  epoch 56  step 209  image/sec 7.0  remaining 28m
+discrim_loss 0.33020598
+gen_loss_GAN 0.14852458
+gen_loss_L1 0.007010541
+recording summary
+progress  epoch 56  step 259  image/sec 7.0  remaining 28m
+discrim_loss 0.3457978
+gen_loss_GAN 0.13257143
+gen_loss_L1 0.0069609466
+saving model
+progress  epoch 57  step 41  image/sec 7.0  remaining 27m
+discrim_loss 0.33023542
+gen_loss_GAN 0.14192061
+gen_loss_L1 0.0066196686
+recording summary
+progress  epoch 57  step 91  image/sec 7.0  remaining 27m
+discrim_loss 0.35102656
+gen_loss_GAN 0.12935704
+gen_loss_L1 0.006875538
+progress  epoch 57  step 141  image/sec 7.0  remaining 27m
+discrim_loss 0.33951372
+gen_loss_GAN 0.1444149
+gen_loss_L1 0.007154524
+recording summary
+progress  epoch 57  step 191  image/sec 7.0  remaining 27m
+discrim_loss 0.34186783
+gen_loss_GAN 0.13157555
+gen_loss_L1 0.0070597874
+progress  epoch 57  step 241  image/sec 7.0  remaining 27m
+discrim_loss 0.34947345
+gen_loss_GAN 0.1387663
+gen_loss_L1 0.007028237
+recording summary
+progress  epoch 58  step 23  image/sec 7.0  remaining 27m
+discrim_loss 0.34850162
+gen_loss_GAN 0.13545147
+gen_loss_L1 0.006563591
+progress  epoch 58  step 73  image/sec 7.0  remaining 27m
+discrim_loss 0.33167887
+gen_loss_GAN 0.14436015
+gen_loss_L1 0.007021143
+recording summary
+progress  epoch 58  step 123  image/sec 7.0  remaining 27m
+discrim_loss 0.32988006
+gen_loss_GAN 0.15742184
+gen_loss_L1 0.006985903
+progress  epoch 58  step 173  image/sec 7.0  remaining 27m
+discrim_loss 0.32925558
+gen_loss_GAN 0.16117172
+gen_loss_L1 0.007689672
+recording summary
+progress  epoch 58  step 223  image/sec 7.0  remaining 26m
+discrim_loss 0.34982693
+gen_loss_GAN 0.14569765
+gen_loss_L1 0.0070009315
+progress  epoch 59  step 5  image/sec 7.0  remaining 26m
+discrim_loss 0.3424563
+gen_loss_GAN 0.14587475
+gen_loss_L1 0.0073777265
+recording summary
+progress  epoch 59  step 55  image/sec 7.0  remaining 26m
+discrim_loss 0.34184596
+gen_loss_GAN 0.13754147
+gen_loss_L1 0.0066929474
+progress  epoch 59  step 105  image/sec 7.0  remaining 26m
+discrim_loss 0.34736127
+gen_loss_GAN 0.12929273
+gen_loss_L1 0.006505762
+recording summary
+progress  epoch 59  step 155  image/sec 7.0  remaining 26m
+discrim_loss 0.33039603
+gen_loss_GAN 0.14803573
+gen_loss_L1 0.008157189
+progress  epoch 59  step 205  image/sec 7.0  remaining 26m
+discrim_loss 0.34419894
+gen_loss_GAN 0.14413156
+gen_loss_L1 0.0073574944
+recording summary
+progress  epoch 59  step 255  image/sec 7.0  remaining 26m
+discrim_loss 0.33854884
+gen_loss_GAN 0.14464986
+gen_loss_L1 0.0066696173
+progress  epoch 60  step 37  image/sec 7.0  remaining 26m
+discrim_loss 0.34899083
+gen_loss_GAN 0.13860613
+gen_loss_L1 0.006442097
+recording summary
+progress  epoch 60  step 87  image/sec 7.0  remaining 25m
+discrim_loss 0.34916627
+gen_loss_GAN 0.1343346
+gen_loss_L1 0.006410935
+progress  epoch 60  step 137  image/sec 7.0  remaining 25m
+discrim_loss 0.339892
+gen_loss_GAN 0.14345056
+gen_loss_L1 0.007479231
+recording summary
+progress  epoch 60  step 187  image/sec 7.0  remaining 25m
+discrim_loss 0.32870317
+gen_loss_GAN 0.15271139
+gen_loss_L1 0.0069539053
+progress  epoch 60  step 237  image/sec 7.0  remaining 25m
+discrim_loss 0.33811328
+gen_loss_GAN 0.15206112
+gen_loss_L1 0.0067652804
+recording summary
+progress  epoch 61  step 19  image/sec 7.0  remaining 25m
+discrim_loss 0.33668694
+gen_loss_GAN 0.15443656
+gen_loss_L1 0.007705261
+progress  epoch 61  step 69  image/sec 7.0  remaining 25m
+discrim_loss 0.3443869
+gen_loss_GAN 0.13930883
+gen_loss_L1 0.0066794753
+recording summary
+progress  epoch 61  step 119  image/sec 7.0  remaining 25m
+discrim_loss 0.33202413
+gen_loss_GAN 0.17199767
+gen_loss_L1 0.0070376303
+progress  epoch 61  step 169  image/sec 7.0  remaining 25m
+discrim_loss 0.33346623
+gen_loss_GAN 0.16422677
+gen_loss_L1 0.006970827
+recording summary
+progress  epoch 61  step 219  image/sec 7.0  remaining 25m
+discrim_loss 0.3420666
+gen_loss_GAN 0.15952554
+gen_loss_L1 0.006949425
+progress  epoch 62  step 1  image/sec 7.0  remaining 24m
+discrim_loss 0.34335503
+gen_loss_GAN 0.1490637
+gen_loss_L1 0.0065476433
+recording summary
+progress  epoch 62  step 51  image/sec 7.0  remaining 24m
+discrim_loss 0.33913583
+gen_loss_GAN 0.16388682
+gen_loss_L1 0.0076526003
+progress  epoch 62  step 101  image/sec 7.0  remaining 24m
+discrim_loss 0.35337353
+gen_loss_GAN 0.13603257
+gen_loss_L1 0.006794256
+recording summary
+progress  epoch 62  step 151  image/sec 7.0  remaining 24m
+discrim_loss 0.34550473
+gen_loss_GAN 0.14225864
+gen_loss_L1 0.006659687
+progress  epoch 62  step 201  image/sec 7.0  remaining 24m
+discrim_loss 0.34664506
+gen_loss_GAN 0.13462158
+gen_loss_L1 0.006305942
+recording summary
+progress  epoch 62  step 251  image/sec 7.0  remaining 24m
+discrim_loss 0.36092713
+gen_loss_GAN 0.1214616
+gen_loss_L1 0.006308276
+progress  epoch 63  step 33  image/sec 7.0  remaining 24m
+discrim_loss 0.34400725
+gen_loss_GAN 0.14416882
+gen_loss_L1 0.0068193628
+recording summary
+progress  epoch 63  step 83  image/sec 7.0  remaining 24m
+discrim_loss 0.3374743
+gen_loss_GAN 0.14703983
+gen_loss_L1 0.006659377
+progress  epoch 63  step 133  image/sec 7.0  remaining 23m
+discrim_loss 0.34075597
+gen_loss_GAN 0.14562498
+gen_loss_L1 0.00670073
+recording summary
+progress  epoch 63  step 183  image/sec 7.0  remaining 23m
+discrim_loss 0.32004434
+gen_loss_GAN 0.15962891
+gen_loss_L1 0.007074987
+progress  epoch 63  step 233  image/sec 7.0  remaining 23m
+discrim_loss 0.33224964
+gen_loss_GAN 0.1548897
+gen_loss_L1 0.00740363
+recording summary
+progress  epoch 64  step 15  image/sec 7.0  remaining 23m
+discrim_loss 0.33978635
+gen_loss_GAN 0.1658474
+gen_loss_L1 0.0073162783
+progress  epoch 64  step 65  image/sec 7.0  remaining 23m
+discrim_loss 0.32697928
+gen_loss_GAN 0.16432685
+gen_loss_L1 0.0073093977
+recording summary
+progress  epoch 64  step 115  image/sec 7.0  remaining 23m
+discrim_loss 0.33294144
+gen_loss_GAN 0.15636276
+gen_loss_L1 0.006737102
+progress  epoch 64  step 165  image/sec 7.0  remaining 23m
+discrim_loss 0.3352593
+gen_loss_GAN 0.14214794
+gen_loss_L1 0.006445487
+recording summary
+progress  epoch 64  step 215  image/sec 7.0  remaining 23m
+discrim_loss 0.34155715
+gen_loss_GAN 0.12812726
+gen_loss_L1 0.0059696017
+progress  epoch 64  step 265  image/sec 7.0  remaining 22m
+discrim_loss 0.31274447
+gen_loss_GAN 0.1859173
+gen_loss_L1 0.007300187
+recording summary
+progress  epoch 65  step 47  image/sec 7.0  remaining 22m
+discrim_loss 0.33225214
+gen_loss_GAN 0.16113189
+gen_loss_L1 0.0077463193
+progress  epoch 65  step 97  image/sec 7.0  remaining 22m
+discrim_loss 0.32918718
+gen_loss_GAN 0.16378775
+gen_loss_L1 0.007207394
+recording summary
+progress  epoch 65  step 147  image/sec 7.0  remaining 22m
+discrim_loss 0.33723515
+gen_loss_GAN 0.16092162
+gen_loss_L1 0.008183011
+progress  epoch 65  step 197  image/sec 7.0  remaining 22m
+discrim_loss 0.33766845
+gen_loss_GAN 0.1565799
+gen_loss_L1 0.0071452386
+recording summary
+progress  epoch 65  step 247  image/sec 7.0  remaining 22m
+discrim_loss 0.33553654
+gen_loss_GAN 0.14631638
+gen_loss_L1 0.006497853
+progress  epoch 66  step 29  image/sec 7.0  remaining 22m
+discrim_loss 0.34225705
+gen_loss_GAN 0.13286865
+gen_loss_L1 0.005894259
+recording summary
+progress  epoch 66  step 79  image/sec 7.0  remaining 22m
+discrim_loss 0.33769327
+gen_loss_GAN 0.13690986
+gen_loss_L1 0.00677105
+progress  epoch 66  step 129  image/sec 7.0  remaining 22m
+discrim_loss 0.3221979
+gen_loss_GAN 0.14842793
+gen_loss_L1 0.00722096
+recording summary
+progress  epoch 66  step 179  image/sec 7.0  remaining 21m
+discrim_loss 0.32870594
+gen_loss_GAN 0.14291319
+gen_loss_L1 0.0070555876
+progress  epoch 66  step 229  image/sec 7.0  remaining 21m
+discrim_loss 0.3390496
+gen_loss_GAN 0.13403553
+gen_loss_L1 0.006948054
+recording summary
+progress  epoch 67  step 11  image/sec 7.0  remaining 21m
+discrim_loss 0.3288391
+gen_loss_GAN 0.16581868
+gen_loss_L1 0.0067206523
+progress  epoch 67  step 61  image/sec 7.0  remaining 21m
+discrim_loss 0.34116298
+gen_loss_GAN 0.17330231
+gen_loss_L1 0.006935814
+recording summary
+progress  epoch 67  step 111  image/sec 7.0  remaining 21m
+discrim_loss 0.32080135
+gen_loss_GAN 0.17690913
+gen_loss_L1 0.0067706667
+progress  epoch 67  step 161  image/sec 7.0  remaining 21m
+discrim_loss 0.33212197
+gen_loss_GAN 0.16282189
+gen_loss_L1 0.0070591136
+recording summary
+progress  epoch 67  step 211  image/sec 7.0  remaining 21m
+discrim_loss 0.3268144
+gen_loss_GAN 0.16635314
+gen_loss_L1 0.0072289673
+progress  epoch 67  step 261  image/sec 7.0  remaining 21m
+discrim_loss 0.33544207
+gen_loss_GAN 0.14210989
+gen_loss_L1 0.0067486945
+recording summary
+progress  epoch 68  step 43  image/sec 7.0  remaining 20m
+discrim_loss 0.33754718
+gen_loss_GAN 0.15347883
+gen_loss_L1 0.006501134
+progress  epoch 68  step 93  image/sec 7.0  remaining 20m
+discrim_loss 0.33381575
+gen_loss_GAN 0.13791703
+gen_loss_L1 0.0066244095
+recording summary
+progress  epoch 68  step 143  image/sec 7.0  remaining 20m
+discrim_loss 0.3338487
+gen_loss_GAN 0.14819568
+gen_loss_L1 0.00731406
+progress  epoch 68  step 193  image/sec 7.0  remaining 20m
+discrim_loss 0.3335828
+gen_loss_GAN 0.15320577
+gen_loss_L1 0.0069023147
+recording summary
+progress  epoch 68  step 243  image/sec 7.0  remaining 20m
+discrim_loss 0.33457673
+gen_loss_GAN 0.15371855
+gen_loss_L1 0.0065805465
+progress  epoch 69  step 25  image/sec 7.0  remaining 20m
+discrim_loss 0.32687762
+gen_loss_GAN 0.15764208
+gen_loss_L1 0.006680391
+recording summary
+progress  epoch 69  step 75  image/sec 7.0  remaining 20m
+discrim_loss 0.33024877
+gen_loss_GAN 0.16048522
+gen_loss_L1 0.0075810025
+progress  epoch 69  step 125  image/sec 7.0  remaining 20m
+discrim_loss 0.3345421
+gen_loss_GAN 0.15864661
+gen_loss_L1 0.007263832
+recording summary
+progress  epoch 69  step 175  image/sec 7.0  remaining 19m
+discrim_loss 0.33235836
+gen_loss_GAN 0.15884061
+gen_loss_L1 0.006983308
+progress  epoch 69  step 225  image/sec 7.0  remaining 19m
+discrim_loss 0.3134651
+gen_loss_GAN 0.16925831
+gen_loss_L1 0.0064265514
+recording summary
+progress  epoch 70  step 7  image/sec 7.0  remaining 19m
+discrim_loss 0.30681416
+gen_loss_GAN 0.17441198
+gen_loss_L1 0.0072443145
+progress  epoch 70  step 57  image/sec 7.0  remaining 19m
+discrim_loss 0.3181507
+gen_loss_GAN 0.15816078
+gen_loss_L1 0.0072950413
+recording summary
+progress  epoch 70  step 107  image/sec 7.0  remaining 19m
+discrim_loss 0.32029173
+gen_loss_GAN 0.16803452
+gen_loss_L1 0.0066257804
+progress  epoch 70  step 157  image/sec 7.0  remaining 19m
+discrim_loss 0.30740976
+gen_loss_GAN 0.18242037
+gen_loss_L1 0.006870268
+recording summary
+progress  epoch 70  step 207  image/sec 7.0  remaining 19m
+discrim_loss 0.3210012
+gen_loss_GAN 0.17583188
+gen_loss_L1 0.006333713
+progress  epoch 70  step 257  image/sec 7.0  remaining 19m
+discrim_loss 0.3294058
+gen_loss_GAN 0.17678456
+gen_loss_L1 0.00675891
+recording summary
+progress  epoch 71  step 39  image/sec 7.0  remaining 19m
+discrim_loss 0.33479404
+gen_loss_GAN 0.16319035
+gen_loss_L1 0.0067472863
+progress  epoch 71  step 89  image/sec 7.0  remaining 18m
+discrim_loss 0.32649434
+gen_loss_GAN 0.17134811
+gen_loss_L1 0.0077800504
+recording summary
+progress  epoch 71  step 139  image/sec 7.0  remaining 18m
+discrim_loss 0.33694997
+gen_loss_GAN 0.15482815
+gen_loss_L1 0.007555827
+progress  epoch 71  step 189  image/sec 7.0  remaining 18m
+discrim_loss 0.3203295
+gen_loss_GAN 0.16828106
+gen_loss_L1 0.0064082416
+recording summary
+progress  epoch 71  step 239  image/sec 7.0  remaining 18m
+discrim_loss 0.32940716
+gen_loss_GAN 0.17206971
+gen_loss_L1 0.0067328177
+progress  epoch 72  step 21  image/sec 7.0  remaining 18m
+discrim_loss 0.34137073
+gen_loss_GAN 0.14528628
+gen_loss_L1 0.0068583298
+recording summary
+progress  epoch 72  step 71  image/sec 7.0  remaining 18m
+discrim_loss 0.325419
+gen_loss_GAN 0.16189349
+gen_loss_L1 0.0064490316
+progress  epoch 72  step 121  image/sec 7.0  remaining 18m
+discrim_loss 0.33048704
+gen_loss_GAN 0.16054739
+gen_loss_L1 0.006827599
+recording summary
+progress  epoch 72  step 171  image/sec 7.0  remaining 18m
+discrim_loss 0.3397587
+gen_loss_GAN 0.15062988
+gen_loss_L1 0.0073738834
+progress  epoch 72  step 221  image/sec 7.0  remaining 17m
+discrim_loss 0.33599314
+gen_loss_GAN 0.15860943
+gen_loss_L1 0.007236705
+recording summary
+progress  epoch 73  step 3  image/sec 7.0  remaining 17m
+discrim_loss 0.32160068
+gen_loss_GAN 0.1653425
+gen_loss_L1 0.006976579
+progress  epoch 73  step 53  image/sec 7.0  remaining 17m
+discrim_loss 0.3265158
+gen_loss_GAN 0.1790671
+gen_loss_L1 0.0067658457
+recording summary
+progress  epoch 73  step 103  image/sec 7.0  remaining 17m
+discrim_loss 0.32429424
+gen_loss_GAN 0.16057435
+gen_loss_L1 0.006398693
+progress  epoch 73  step 153  image/sec 7.0  remaining 17m
+discrim_loss 0.31172803
+gen_loss_GAN 0.17601994
+gen_loss_L1 0.006835861
+recording summary
+progress  epoch 73  step 203  image/sec 7.0  remaining 17m
+discrim_loss 0.3069567
+gen_loss_GAN 0.1900128
+gen_loss_L1 0.0074127517
+progress  epoch 73  step 253  image/sec 7.0  remaining 17m
+discrim_loss 0.32504165
+gen_loss_GAN 0.17446911
+gen_loss_L1 0.007224227
+recording summary
+progress  epoch 74  step 35  image/sec 7.0  remaining 17m
+discrim_loss 0.33045766
+gen_loss_GAN 0.1515986
+gen_loss_L1 0.006103628
+progress  epoch 74  step 85  image/sec 7.0  remaining 17m
+discrim_loss 0.31092432
+gen_loss_GAN 0.17903164
+gen_loss_L1 0.0064664977
+recording summary
+progress  epoch 74  step 135  image/sec 7.0  remaining 16m
+discrim_loss 0.31391853
+gen_loss_GAN 0.17812337
+gen_loss_L1 0.00708146
+progress  epoch 74  step 185  image/sec 7.0  remaining 16m
+discrim_loss 0.32124478
+gen_loss_GAN 0.18335491
+gen_loss_L1 0.007304148
+recording summary
+progress  epoch 74  step 235  image/sec 7.0  remaining 16m
+discrim_loss 0.32240865
+gen_loss_GAN 0.16881827
+gen_loss_L1 0.006925522
+progress  epoch 75  step 17  image/sec 7.0  remaining 16m
+discrim_loss 0.30287042
+gen_loss_GAN 0.19165926
+gen_loss_L1 0.007229063
+recording summary
+progress  epoch 75  step 67  image/sec 7.0  remaining 16m
+discrim_loss 0.32133
+gen_loss_GAN 0.18058208
+gen_loss_L1 0.00704289
+progress  epoch 75  step 117  image/sec 7.0  remaining 16m
+discrim_loss 0.31353426
+gen_loss_GAN 0.19877216
+gen_loss_L1 0.0071093044
+recording summary
+progress  epoch 75  step 168  image/sec 7.0  remaining 16m
+discrim_loss 0.31561363
+gen_loss_GAN 0.19311194
+gen_loss_L1 0.0073557533
+saving model
+progress  epoch 75  step 217  image/sec 7.0  remaining 16m
+discrim_loss 0.2984354
+gen_loss_GAN 0.1956972
+gen_loss_L1 0.006846538
+recording summary
+progress  epoch 75  step 267  image/sec 7.0  remaining 15m
+discrim_loss 0.313521
+gen_loss_GAN 0.16946973
+gen_loss_L1 0.0064176205
+progress  epoch 76  step 49  image/sec 7.0  remaining 15m
+discrim_loss 0.3008017
+gen_loss_GAN 0.21089445
+gen_loss_L1 0.0071711824
+recording summary
+progress  epoch 76  step 99  image/sec 7.0  remaining 15m
+discrim_loss 0.3043141
+gen_loss_GAN 0.20708008
+gen_loss_L1 0.0068606124
+progress  epoch 76  step 149  image/sec 7.0  remaining 15m
+discrim_loss 0.31543666
+gen_loss_GAN 0.18531755
+gen_loss_L1 0.006395295
+recording summary
+progress  epoch 76  step 199  image/sec 7.0  remaining 15m
+discrim_loss 0.31735817
+gen_loss_GAN 0.1667272
+gen_loss_L1 0.006629919
+progress  epoch 76  step 249  image/sec 7.0  remaining 15m
+discrim_loss 0.3209779
+gen_loss_GAN 0.16126914
+gen_loss_L1 0.006377451
+recording summary
+progress  epoch 77  step 31  image/sec 7.0  remaining 15m
+discrim_loss 0.3038887
+gen_loss_GAN 0.19769852
+gen_loss_L1 0.006980452
+progress  epoch 77  step 81  image/sec 7.0  remaining 15m
+discrim_loss 0.30606204
+gen_loss_GAN 0.1881716
+gen_loss_L1 0.007636609
+recording summary
+progress  epoch 77  step 131  image/sec 7.0  remaining 15m
+discrim_loss 0.34663892
+gen_loss_GAN 0.14859836
+gen_loss_L1 0.006456511
+progress  epoch 77  step 181  image/sec 7.0  remaining 14m
+discrim_loss 0.3360081
+gen_loss_GAN 0.14836793
+gen_loss_L1 0.0060579693
+recording summary
+progress  epoch 77  step 231  image/sec 7.0  remaining 14m
+discrim_loss 0.33241677
+gen_loss_GAN 0.15655991
+gen_loss_L1 0.007176294
+progress  epoch 78  step 13  image/sec 7.0  remaining 14m
+discrim_loss 0.3209763
+gen_loss_GAN 0.1744155
+gen_loss_L1 0.006884047
+recording summary
+progress  epoch 78  step 63  image/sec 7.0  remaining 14m
+discrim_loss 0.31814957
+gen_loss_GAN 0.1751609
+gen_loss_L1 0.0076594963
+progress  epoch 78  step 113  image/sec 7.0  remaining 14m
+discrim_loss 0.3120178
+gen_loss_GAN 0.19040675
+gen_loss_L1 0.008029537
+recording summary
+progress  epoch 78  step 163  image/sec 7.0  remaining 14m
+discrim_loss 0.31361717
+gen_loss_GAN 0.18477261
+gen_loss_L1 0.006517584
+progress  epoch 78  step 213  image/sec 7.0  remaining 14m
+discrim_loss 0.32996795
+gen_loss_GAN 0.16195476
+gen_loss_L1 0.0062552243
+recording summary
+progress  epoch 78  step 263  image/sec 7.0  remaining 14m
+discrim_loss 0.34038892
+gen_loss_GAN 0.15208511
+gen_loss_L1 0.006458926
+progress  epoch 79  step 45  image/sec 7.0  remaining 13m
+discrim_loss 0.32729185
+gen_loss_GAN 0.17615254
+gen_loss_L1 0.006996639
+recording summary
+progress  epoch 79  step 95  image/sec 7.0  remaining 13m
+discrim_loss 0.34289843
+gen_loss_GAN 0.15837325
+gen_loss_L1 0.0071593123
+progress  epoch 79  step 145  image/sec 7.0  remaining 13m
+discrim_loss 0.31505784
+gen_loss_GAN 0.17385422
+gen_loss_L1 0.0067312713
+recording summary
+progress  epoch 79  step 195  image/sec 7.0  remaining 13m
+discrim_loss 0.34794322
+gen_loss_GAN 0.15172823
+gen_loss_L1 0.0063709947
+progress  epoch 79  step 245  image/sec 7.0  remaining 13m
+discrim_loss 0.33730644
+gen_loss_GAN 0.15311424
+gen_loss_L1 0.0067359097
+recording summary
+progress  epoch 80  step 27  image/sec 7.0  remaining 13m
+discrim_loss 0.33439288
+gen_loss_GAN 0.16530378
+gen_loss_L1 0.00726199
+progress  epoch 80  step 77  image/sec 7.0  remaining 13m
+discrim_loss 0.3106209
+gen_loss_GAN 0.20536935
+gen_loss_L1 0.008101673
+recording summary
+progress  epoch 80  step 127  image/sec 7.0  remaining 13m
+discrim_loss 0.31666017
+gen_loss_GAN 0.1870286
+gen_loss_L1 0.0072170985
+progress  epoch 80  step 177  image/sec 7.0  remaining 12m
+discrim_loss 0.31097823
+gen_loss_GAN 0.17902234
+gen_loss_L1 0.006662499
+recording summary
+progress  epoch 80  step 227  image/sec 7.0  remaining 12m
+discrim_loss 0.33084565
+gen_loss_GAN 0.14533162
+gen_loss_L1 0.0060464456
+progress  epoch 81  step 9  image/sec 7.0  remaining 12m
+discrim_loss 0.33834636
+gen_loss_GAN 0.18065965
+gen_loss_L1 0.0067421803
+recording summary
+progress  epoch 81  step 59  image/sec 7.0  remaining 12m
+discrim_loss 0.3035154
+gen_loss_GAN 0.20679682
+gen_loss_L1 0.008170852
+progress  epoch 81  step 109  image/sec 7.0  remaining 12m
+discrim_loss 0.32003874
+gen_loss_GAN 0.17246471
+gen_loss_L1 0.007245795
+recording summary
+progress  epoch 81  step 159  image/sec 7.0  remaining 12m
+discrim_loss 0.31649446
+gen_loss_GAN 0.17373395
+gen_loss_L1 0.0068482785
+progress  epoch 81  step 209  image/sec 7.0  remaining 12m
+discrim_loss 0.3436518
+gen_loss_GAN 0.14166407
+gen_loss_L1 0.006492677
+recording summary
+progress  epoch 81  step 259  image/sec 7.0  remaining 12m
+discrim_loss 0.3094968
+gen_loss_GAN 0.18050809
+gen_loss_L1 0.0067565083
+progress  epoch 82  step 41  image/sec 7.0  remaining 12m
+discrim_loss 0.31843933
+gen_loss_GAN 0.17975616
+gen_loss_L1 0.0066620256
+recording summary
+progress  epoch 82  step 91  image/sec 7.0  remaining 11m
+discrim_loss 0.3231461
+gen_loss_GAN 0.18754798
+gen_loss_L1 0.0068782903
+progress  epoch 82  step 141  image/sec 7.0  remaining 11m
+discrim_loss 0.32619476
+gen_loss_GAN 0.16851671
+gen_loss_L1 0.0069338945
+recording summary
+progress  epoch 82  step 191  image/sec 7.0  remaining 11m
+discrim_loss 0.3164479
+gen_loss_GAN 0.1749651
+gen_loss_L1 0.006434106
+progress  epoch 82  step 241  image/sec 7.0  remaining 11m
+discrim_loss 0.3338226
+gen_loss_GAN 0.15962528
+gen_loss_L1 0.006342344
+recording summary
+progress  epoch 83  step 23  image/sec 7.0  remaining 11m
+discrim_loss 0.31870824
+gen_loss_GAN 0.18185589
+gen_loss_L1 0.006901407
+progress  epoch 83  step 73  image/sec 7.0  remaining 11m
+discrim_loss 0.3317554
+gen_loss_GAN 0.16088392
+gen_loss_L1 0.0069277473
+recording summary
+progress  epoch 83  step 123  image/sec 7.0  remaining 11m
+discrim_loss 0.3256315
+gen_loss_GAN 0.15939476
+gen_loss_L1 0.007053898
+progress  epoch 83  step 173  image/sec 7.0  remaining 11m
+discrim_loss 0.31640285
+gen_loss_GAN 0.17525816
+gen_loss_L1 0.0076409876
+recording summary
+progress  epoch 83  step 223  image/sec 7.0  remaining 10m
+discrim_loss 0.32128277
+gen_loss_GAN 0.17578547
+gen_loss_L1 0.0067301607
+progress  epoch 84  step 5  image/sec 7.0  remaining 10m
+discrim_loss 0.32910177
+gen_loss_GAN 0.15995446
+gen_loss_L1 0.0063521513
+recording summary
+progress  epoch 84  step 55  image/sec 7.0  remaining 10m
+discrim_loss 0.32974875
+gen_loss_GAN 0.15979876
+gen_loss_L1 0.006230697
+progress  epoch 84  step 105  image/sec 7.0  remaining 10m
+discrim_loss 0.33516824
+gen_loss_GAN 0.16299567
+gen_loss_L1 0.006638936
+recording summary
+progress  epoch 84  step 155  image/sec 7.0  remaining 10m
+discrim_loss 0.30895305
+gen_loss_GAN 0.18171266
+gen_loss_L1 0.0066278772
+progress  epoch 84  step 205  image/sec 7.0  remaining 10m
+discrim_loss 0.31953946
+gen_loss_GAN 0.18606438
+gen_loss_L1 0.006937088
+recording summary
+progress  epoch 84  step 255  image/sec 7.0  remaining 10m
+discrim_loss 0.31857458
+gen_loss_GAN 0.17562461
+gen_loss_L1 0.007595731
+progress  epoch 85  step 37  image/sec 7.0  remaining 10m
+discrim_loss 0.32585025
+gen_loss_GAN 0.1682582
+gen_loss_L1 0.007201998
+recording summary
+progress  epoch 85  step 87  image/sec 7.0  remaining 9m
+discrim_loss 0.31832823
+gen_loss_GAN 0.17151274
+gen_loss_L1 0.00711669
+progress  epoch 85  step 137  image/sec 7.0  remaining 9m
+discrim_loss 0.3343935
+gen_loss_GAN 0.14999077
+gen_loss_L1 0.0065994854
+recording summary
+progress  epoch 85  step 187  image/sec 7.0  remaining 9m
+discrim_loss 0.31892753
+gen_loss_GAN 0.16213593
+gen_loss_L1 0.0065740086
+progress  epoch 85  step 237  image/sec 7.0  remaining 9m
+discrim_loss 0.33501348
+gen_loss_GAN 0.16812874
+gen_loss_L1 0.007242467
+recording summary
+progress  epoch 86  step 19  image/sec 7.0  remaining 9m
+discrim_loss 0.33092737
+gen_loss_GAN 0.15402822
+gen_loss_L1 0.0066353586
+progress  epoch 86  step 69  image/sec 7.0  remaining 9m
+discrim_loss 0.31911734
+gen_loss_GAN 0.17058462
+gen_loss_L1 0.0070312014
+recording summary
+progress  epoch 86  step 119  image/sec 7.0  remaining 9m
+discrim_loss 0.32207844
+gen_loss_GAN 0.17080511
+gen_loss_L1 0.006730511
+progress  epoch 86  step 169  image/sec 7.0  remaining 9m
+discrim_loss 0.31765515
+gen_loss_GAN 0.18634231
+gen_loss_L1 0.0073548155
+recording summary
+progress  epoch 86  step 219  image/sec 7.0  remaining 9m
+discrim_loss 0.32162008
+gen_loss_GAN 0.18187688
+gen_loss_L1 0.007176732
+progress  epoch 87  step 1  image/sec 7.0  remaining 8m
+discrim_loss 0.32024065
+gen_loss_GAN 0.16377316
+gen_loss_L1 0.006323222
+recording summary
+progress  epoch 87  step 51  image/sec 7.0  remaining 8m
+discrim_loss 0.32231778
+gen_loss_GAN 0.16222782
+gen_loss_L1 0.0061122915
+progress  epoch 87  step 101  image/sec 7.0  remaining 8m
+discrim_loss 0.32728654
+gen_loss_GAN 0.20192124
+gen_loss_L1 0.008306413
+recording summary
+progress  epoch 87  step 151  image/sec 7.0  remaining 8m
+discrim_loss 0.32341275
+gen_loss_GAN 0.1983958
+gen_loss_L1 0.0074652317
+progress  epoch 87  step 201  image/sec 7.0  remaining 8m
+discrim_loss 0.3116222
+gen_loss_GAN 0.18166226
+gen_loss_L1 0.0066258507
+recording summary
+progress  epoch 87  step 251  image/sec 7.0  remaining 8m
+discrim_loss 0.32148644
+gen_loss_GAN 0.16565058
+gen_loss_L1 0.0071932427
+progress  epoch 88  step 33  image/sec 7.0  remaining 8m
+discrim_loss 0.33771256
+gen_loss_GAN 0.14811265
+gen_loss_L1 0.0068392674
+recording summary
+progress  epoch 88  step 83  image/sec 7.0  remaining 8m
+discrim_loss 0.32698575
+gen_loss_GAN 0.1515779
+gen_loss_L1 0.0065627745
+progress  epoch 88  step 133  image/sec 7.0  remaining 7m
+discrim_loss 0.34207764
+gen_loss_GAN 0.14008485
+gen_loss_L1 0.006303747
+recording summary
+progress  epoch 88  step 183  image/sec 7.0  remaining 7m
+discrim_loss 0.3147198
+gen_loss_GAN 0.19411707
+gen_loss_L1 0.007899023
+progress  epoch 88  step 233  image/sec 7.0  remaining 7m
+discrim_loss 0.32352725
+gen_loss_GAN 0.1838002
+gen_loss_L1 0.00671641
+recording summary
+progress  epoch 89  step 15  image/sec 7.0  remaining 7m
+discrim_loss 0.3065677
+gen_loss_GAN 0.20122874
+gen_loss_L1 0.0073854127
+progress  epoch 89  step 65  image/sec 7.0  remaining 7m
+discrim_loss 0.3156755
+gen_loss_GAN 0.18523005
+gen_loss_L1 0.0070572994
+recording summary
+progress  epoch 89  step 115  image/sec 7.0  remaining 7m
+discrim_loss 0.30593655
+gen_loss_GAN 0.20234135
+gen_loss_L1 0.0074354466
+progress  epoch 89  step 165  image/sec 7.0  remaining 7m
+discrim_loss 0.32574826
+gen_loss_GAN 0.18295234
+gen_loss_L1 0.0071348036
+recording summary
+progress  epoch 89  step 215  image/sec 7.0  remaining 7m
+discrim_loss 0.3307579
+gen_loss_GAN 0.17768885
+gen_loss_L1 0.0065310947
+progress  epoch 89  step 265  image/sec 7.0  remaining 7m
+discrim_loss 0.32030702
+gen_loss_GAN 0.192467
+gen_loss_L1 0.00647994
+recording summary
+progress  epoch 90  step 47  image/sec 7.0  remaining 6m
+discrim_loss 0.31942555
+gen_loss_GAN 0.160354
+gen_loss_L1 0.006272794
+progress  epoch 90  step 97  image/sec 7.0  remaining 6m
+discrim_loss 0.3227909
+gen_loss_GAN 0.1749313
+gen_loss_L1 0.0061453274
+recording summary
+progress  epoch 90  step 147  image/sec 7.0  remaining 6m
+discrim_loss 0.34098643
+gen_loss_GAN 0.14398892
+gen_loss_L1 0.006659464
+progress  epoch 90  step 197  image/sec 7.0  remaining 6m
+discrim_loss 0.32653245
+gen_loss_GAN 0.15854563
+gen_loss_L1 0.006838804
+recording summary
+progress  epoch 90  step 247  image/sec 7.0  remaining 6m
+discrim_loss 0.3194364
+gen_loss_GAN 0.18328625
+gen_loss_L1 0.007231318
+progress  epoch 91  step 29  image/sec 7.0  remaining 6m
+discrim_loss 0.29817
+gen_loss_GAN 0.21089849
+gen_loss_L1 0.006999513
+recording summary
+progress  epoch 91  step 79  image/sec 7.0  remaining 6m
+discrim_loss 0.27578413
+gen_loss_GAN 0.2362917
+gen_loss_L1 0.007243898
+progress  epoch 91  step 129  image/sec 7.0  remaining 6m
+discrim_loss 0.3065457
+gen_loss_GAN 0.1994746
+gen_loss_L1 0.0066854185
+recording summary
+progress  epoch 91  step 179  image/sec 7.0  remaining 5m
+discrim_loss 0.3325957
+gen_loss_GAN 0.15583444
+gen_loss_L1 0.006228843
+progress  epoch 91  step 229  image/sec 7.0  remaining 5m
+discrim_loss 0.3239587
+gen_loss_GAN 0.18354477
+gen_loss_L1 0.0063333088
+recording summary
+progress  epoch 92  step 11  image/sec 7.0  remaining 5m
+discrim_loss 0.32252598
+gen_loss_GAN 0.18331502
+gen_loss_L1 0.0071481834
+progress  epoch 92  step 61  image/sec 7.0  remaining 5m
+discrim_loss 0.3019849
+gen_loss_GAN 0.20008923
+gen_loss_L1 0.007413087
+recording summary
+progress  epoch 92  step 111  image/sec 7.0  remaining 5m
+discrim_loss 0.31056058
+gen_loss_GAN 0.18129206
+gen_loss_L1 0.006766452
+progress  epoch 92  step 161  image/sec 7.0  remaining 5m
+discrim_loss 0.31374937
+gen_loss_GAN 0.20920873
+gen_loss_L1 0.006943863
+recording summary
+progress  epoch 92  step 211  image/sec 7.0  remaining 5m
+discrim_loss 0.32559648
+gen_loss_GAN 0.18618482
+gen_loss_L1 0.0070793135
+progress  epoch 92  step 261  image/sec 7.0  remaining 5m
+discrim_loss 0.33611792
+gen_loss_GAN 0.15990293
+gen_loss_L1 0.006358638
+recording summary
+progress  epoch 93  step 43  image/sec 7.0  remaining 4m
+discrim_loss 0.3199437
+gen_loss_GAN 0.16585457
+gen_loss_L1 0.006357568
+progress  epoch 93  step 93  image/sec 7.0  remaining 4m
+discrim_loss 0.32747677
+gen_loss_GAN 0.16150747
+gen_loss_L1 0.0063203257
+recording summary
+progress  epoch 93  step 143  image/sec 7.0  remaining 4m
+discrim_loss 0.3105688
+gen_loss_GAN 0.18274342
+gen_loss_L1 0.006730115
+progress  epoch 93  step 193  image/sec 7.0  remaining 4m
+discrim_loss 0.33108732
+gen_loss_GAN 0.16899547
+gen_loss_L1 0.0068084057
+recording summary
+progress  epoch 93  step 243  image/sec 7.0  remaining 4m
+discrim_loss 0.30784234
+gen_loss_GAN 0.19120193
+gen_loss_L1 0.0070058624
+progress  epoch 94  step 25  image/sec 7.0  remaining 4m
+discrim_loss 0.33905146
+gen_loss_GAN 0.16654463
+gen_loss_L1 0.0064623603
+recording summary
+progress  epoch 94  step 75  image/sec 7.0  remaining 4m
+discrim_loss 0.3291289
+gen_loss_GAN 0.16486897
+gen_loss_L1 0.0068594627
+saving model
+progress  epoch 94  step 125  image/sec 7.0  remaining 4m
+discrim_loss 0.31353414
+gen_loss_GAN 0.21091944
+gen_loss_L1 0.00785829
+recording summary
+progress  epoch 94  step 175  image/sec 7.0  remaining 4m
+discrim_loss 0.317119
+gen_loss_GAN 0.20383003
+gen_loss_L1 0.0072998377
+progress  epoch 94  step 225  image/sec 7.0  remaining 3m
+discrim_loss 0.30533177
+gen_loss_GAN 0.1844462
+gen_loss_L1 0.0070075076
+recording summary
+progress  epoch 95  step 7  image/sec 7.0  remaining 3m
+discrim_loss 0.32048953
+gen_loss_GAN 0.16271424
+gen_loss_L1 0.006336946
+progress  epoch 95  step 57  image/sec 7.0  remaining 3m
+discrim_loss 0.31769913
+gen_loss_GAN 0.17963693
+gen_loss_L1 0.0069597997
+recording summary
+progress  epoch 95  step 107  image/sec 7.0  remaining 3m
+discrim_loss 0.3092263
+gen_loss_GAN 0.19220045
+gen_loss_L1 0.007918269
+progress  epoch 95  step 157  image/sec 7.0  remaining 3m
+discrim_loss 0.31903648
+gen_loss_GAN 0.17765029
+gen_loss_L1 0.0068976767
+recording summary
+progress  epoch 95  step 207  image/sec 7.0  remaining 3m
+discrim_loss 0.29755425
+gen_loss_GAN 0.19504504
+gen_loss_L1 0.0074278447
+progress  epoch 95  step 257  image/sec 7.0  remaining 3m
+discrim_loss 0.31428266
+gen_loss_GAN 0.18312638
+gen_loss_L1 0.0063146623
+recording summary
+progress  epoch 96  step 39  image/sec 7.0  remaining 3m
+discrim_loss 0.33758923
+gen_loss_GAN 0.15920581
+gen_loss_L1 0.005877974
+progress  epoch 96  step 89  image/sec 7.0  remaining 2m
+discrim_loss 0.32365417
+gen_loss_GAN 0.16092385
+gen_loss_L1 0.0065776557
+recording summary
+progress  epoch 96  step 139  image/sec 7.0  remaining 2m
+discrim_loss 0.33254194
+gen_loss_GAN 0.14068593
+gen_loss_L1 0.0070828316
+progress  epoch 96  step 189  image/sec 7.0  remaining 2m
+discrim_loss 0.33140928
+gen_loss_GAN 0.15122399
+gen_loss_L1 0.0068779336
+recording summary
+progress  epoch 96  step 239  image/sec 7.0  remaining 2m
+discrim_loss 0.32439122
+gen_loss_GAN 0.1564825
+gen_loss_L1 0.0066954177
+progress  epoch 97  step 21  image/sec 7.0  remaining 2m
+discrim_loss 0.3193062
+gen_loss_GAN 0.17414178
+gen_loss_L1 0.007257788
+recording summary
+progress  epoch 97  step 71  image/sec 7.0  remaining 2m
+discrim_loss 0.29615155
+gen_loss_GAN 0.19567437
+gen_loss_L1 0.0074170176
+progress  epoch 97  step 121  image/sec 7.0  remaining 2m
+discrim_loss 0.3144235
+gen_loss_GAN 0.1683134
+gen_loss_L1 0.006150439
+recording summary
+progress  epoch 97  step 171  image/sec 7.0  remaining 2m
+discrim_loss 0.31979522
+gen_loss_GAN 0.17366645
+gen_loss_L1 0.006435551
+progress  epoch 97  step 221  image/sec 7.0  remaining 2m
+discrim_loss 0.30731568
+gen_loss_GAN 0.20546412
+gen_loss_L1 0.0071763094
+recording summary
+progress  epoch 98  step 3  image/sec 7.0  remaining 1m
+discrim_loss 0.31637493
+gen_loss_GAN 0.19553007
+gen_loss_L1 0.0066101644
+progress  epoch 98  step 53  image/sec 7.0  remaining 1m
+discrim_loss 0.34748673
+gen_loss_GAN 0.19376053
+gen_loss_L1 0.0076061036
+recording summary
+progress  epoch 98  step 103  image/sec 7.0  remaining 1m
+discrim_loss 0.3211653
+gen_loss_GAN 0.18616603
+gen_loss_L1 0.006923878
+progress  epoch 98  step 153  image/sec 7.0  remaining 1m
+discrim_loss 0.3281189
+gen_loss_GAN 0.17722273
+gen_loss_L1 0.0068877647
+recording summary
+progress  epoch 98  step 203  image/sec 7.0  remaining 1m
+discrim_loss 0.31752798
+gen_loss_GAN 0.17657866
+gen_loss_L1 0.006584408
+progress  epoch 98  step 253  image/sec 7.0  remaining 1m
+discrim_loss 0.32413417
+gen_loss_GAN 0.17833795
+gen_loss_L1 0.006287103
+recording summary
+progress  epoch 99  step 35  image/sec 7.0  remaining 1m
+discrim_loss 0.3163211
+gen_loss_GAN 0.17391562
+gen_loss_L1 0.0067070466
+progress  epoch 99  step 85  image/sec 7.0  remaining 1m
+discrim_loss 0.33365777
+gen_loss_GAN 0.15410362
+gen_loss_L1 0.0064775506
+recording summary
+progress  epoch 99  step 135  image/sec 7.0  remaining 0m
+discrim_loss 0.32455128
+gen_loss_GAN 0.16423303
+gen_loss_L1 0.0066222968
+progress  epoch 99  step 185  image/sec 7.0  remaining 0m
+discrim_loss 0.30811393
+gen_loss_GAN 0.19042663
+gen_loss_L1 0.006652079
+recording summary
+progress  epoch 99  step 235  image/sec 7.0  remaining 0m
+discrim_loss 0.31327733
+gen_loss_GAN 0.20637663
+gen_loss_L1 0.0073989956
+progress  epoch 100  step 17  image/sec 7.0  remaining 0m
+discrim_loss 0.31409577
+gen_loss_GAN 0.20331965
+gen_loss_L1 0.006791423
+recording summary
+progress  epoch 100  step 67  image/sec 7.0  remaining 0m
+discrim_loss 0.31838778
+gen_loss_GAN 0.18694758
+gen_loss_L1 0.005799733
+progress  epoch 100  step 117  image/sec 7.0  remaining 0m
+discrim_loss 0.31892586
+gen_loss_GAN 0.17775895
+gen_loss_L1 0.006734922
+recording summary
+progress  epoch 100  step 167  image/sec 7.0  remaining 0m
+discrim_loss 0.30890232
+gen_loss_GAN 0.18817343
+gen_loss_L1 0.007937774
+progress  epoch 100  step 217  image/sec 7.0  remaining 0m
+discrim_loss 0.3021376
+gen_loss_GAN 0.18487802
+gen_loss_L1 0.0081996
+recording summary
+progress  epoch 100  step 267  image/sec 7.0  remaining 0m
+discrim_loss 0.31533352
+gen_loss_GAN 0.18482722
+gen_loss_L1 0.006941625
+saving model
+2019-01-14 23:34:32.338552: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-01-14 23:34:34.322179: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1432] Found device 0 with properties: 
+name: GeForce GTX 1080 Ti major: 6 minor: 1 memoryClockRate(GHz): 1.62
+pciBusID: 0000:82:00.0
+totalMemory: 10.92GiB freeMemory: 10.76GiB
+2019-01-14 23:34:34.322256: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1511] Adding visible gpu devices: 0
+2019-01-14 23:34:34.669329: I tensorflow/core/common_runtime/gpu/gpu_device.cc:982] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019-01-14 23:34:34.669391: I tensorflow/core/common_runtime/gpu/gpu_device.cc:988]      0 
+2019-01-14 23:34:34.669401: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1001] 0:   N 
+2019-01-14 23:34:34.669773: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 3353 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080 Ti, pci bus id: 0000:82:00.0, compute capability: 6.1)
+WARNING:tensorflow:From wpix2pix.py:262: string_input_producer (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.from_tensor_slices(string_tensor).shuffle(tf.shape(input_tensor, out_type=tf.int64)[0]).repeat(num_epochs)`. If `shuffle=False`, omit the `.shuffle(...)`.
+WARNING:tensorflow:From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:276: input_producer (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.from_tensor_slices(input_tensor).shuffle(tf.shape(input_tensor, out_type=tf.int64)[0]).repeat(num_epochs)`. If `shuffle=False`, omit the `.shuffle(...)`.
+WARNING:tensorflow:From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:188: limit_epochs (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.from_tensors(tensor).repeat(num_epochs)`.
+WARNING:tensorflow:From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:197: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING:tensorflow:From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:197: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING:tensorflow:From wpix2pix.py:263: WholeFileReader.__init__ (from tensorflow.python.ops.io_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.map(tf.read_file)`.
+WARNING:tensorflow:From wpix2pix.py:318: batch (from tensorflow.python.training.input) is deprecated and will be removed in a future version.
+Instructions for updating:
+Queue-based input pipelines have been replaced by `tf.data`. Use `tf.data.Dataset.batch(batch_size)` (or `padded_batch(...)` if `dynamic_pad=True`).
+WARNING:tensorflow:From wpix2pix.py:724: Supervisor.__init__ (from tensorflow.python.training.supervisor) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.MonitoredTrainingSession
+2019-01-14 23:34:39.859875: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1511] Adding visible gpu devices: 0
+2019-01-14 23:34:39.860056: I tensorflow/core/common_runtime/gpu/gpu_device.cc:982] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019-01-14 23:34:39.860078: I tensorflow/core/common_runtime/gpu/gpu_device.cc:988]      0 
+2019-01-14 23:34:39.860092: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1001] 0:   N 
+2019-01-14 23:34:39.860927: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 3353 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080 Ti, pci bus id: 0000:82:00.0, compute capability: 6.1)
+loaded ndf = 64
+loaded ngf = 64
+loaded lab_colorization = False
+loaded which_direction = AtoB
+aspect_ratio = 1.0
+batch_size = 1
+beta1 = 0.9
+checkpoint = OUT.1.14
+display_freq = 0
+flip = False
+gan_weight = 1.0
+input_dir = cm_2_chain_1_14/val/
+l1_weight = 100.0
+lab_colorization = False
+lr = 0.001
+max_epochs = None
+max_steps = None
+mode = test
+ndf = 64
+ngf = 64
+output_dir = hh_1_14
+output_filetype = png
+progress_freq = 50
+save_freq = 5000
+scale_size = 512
+seed = 1073438852
+separable_conv = False
+summary_freq = 100
+trace_freq = 0
+which_direction = AtoB
+examples count = 68
+parameter_count = 69776068
+loading model from checkpoint
+evaluated image 1avy_A_C
+evaluated image 1cun_A_C
+evaluated image 1eer_A_B
+evaluated image 1el6_A_B
+evaluated image 1fc3_A_B
+evaluated image 1fc3_A_C
+evaluated image 1huu_B_C
+evaluated image 1i8d_A_C
+evaluated image 1pqk_B_C
+evaluated image 1rgx_A_B
+evaluated image 1t2p_B_C
+evaluated image 1ty0_A_B
+evaluated image 1wdj_A_C
+evaluated image 1wt6_A_D
+evaluated image 1xs0_B_C
+evaluated image 1ynb_B_C
+evaluated image 2b4i_A_B
+evaluated image 2cu5_A_B
+evaluated image 2cu5_A_C
+evaluated image 2e7a_A_C
+evaluated image 2fnj_A_B
+evaluated image 2fnj_A_C
+evaluated image 2gdg_B_C
+evaluated image 2gkv_E_A
+evaluated image 2h64_B_C
+evaluated image 2ic7_A_B
+evaluated image 2ig8_A_C
+evaluated image 2ium_A_B
+evaluated image 2jgn_B_C
+evaluated image 2pbq_B_C
+evaluated image 2vxq_A_L
+evaluated image 2wfw_A_C
+evaluated image 2x78_A_C
+evaluated image 2yny_A_B
+evaluated image 2zhy_A_C
+evaluated image 3cgz_A_C
+evaluated image 3cgz_B_C
+evaluated image 3d1b_B_C
+evaluated image 3d9x_A_B
+evaluated image 3emf_A_C
+evaluated image 3hkm_A_C
+evaluated image 3m6n_A_B
+evaluated image 3m6n_B_C
+evaluated image 3o1q_A_B
+evaluated image 3o1q_A_C
+evaluated image 3r1w_B_C
+evaluated image 3rpp_A_C
+evaluated image 3wpy_B_C
+evaluated image 3wwf_B_C
+evaluated image 3wx8_A_B
+evaluated image 4fml_B_C
+evaluated image 4fxu_A_B
+evaluated image 4fxu_A_C
+evaluated image 4ic6_A_B
+evaluated image 4ng0_B_C
+evaluated image 4orz_A_B
+evaluated image 4q5e_A_B
+evaluated image 4q5e_A_C
+evaluated image 4wlr_A_B
+evaluated image 5dps_B_C
+evaluated image 5eo4_A_C
+evaluated image 5eo4_B_C
+evaluated image 5gru_H_L
+evaluated image 5jqm_A_B
+evaluated image 5jqm_A_C
+evaluated image 5ka6_A_B
+evaluated image 5ka6_B_C
+evaluated image 5ngk_A_C
+wrote index at hh_1_14/index.html
+rate 0.14564832168466904

@@ -1,0 +1,1 @@
+python tools/process.py --input_dir PIC --operation resize --output_dir TEST/out --size 256

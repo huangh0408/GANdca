@@ -1,0 +1,4188 @@
+
+
+**************************************************
+
+Acc result:3exw_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.053        0.077        0.071      0.086
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.526        0.333        0.232      0.172
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.316        0.256        0.172      0.131
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.842        0.692        0.475      0.323
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.684        0.692        0.586      0.379
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.632        0.513        0.455      0.283
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.718        0.404      0.268
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.789        0.641        0.535      0.343
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.842        0.667        0.434      0.298
+
+
+**************************************************
+
+Acc result:3rpp_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.744        0.759      0.505
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.581        0.278      0.153
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.762        0.581        0.296      0.176
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.619        0.651        0.574      0.431
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.762        0.628        0.333      0.194
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.581        0.398      0.222
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.860        0.731      0.537
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.605        0.370      0.218
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.744        0.435      0.245
+
+
+**************************************************
+
+Acc result:4wft_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.722        0.383      0.213
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.556        0.611        0.404      0.255
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.556        0.255      0.213
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.444        0.333        0.340      0.298
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.722        0.617      0.457
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.722        0.617      0.383
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.778        0.489      0.319
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.778        0.702      0.447
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.778        0.660      0.383
+
+
+**************************************************
+
+Acc result:4ext_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.632        0.436        0.263      0.157
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.368        0.256        0.152      0.111
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.316        0.205        0.141      0.086
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.632        0.641        0.505      0.328
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.737        0.641        0.384      0.202
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.789        0.641        0.354      0.197
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.897        0.586      0.389
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.895        0.795        0.475      0.258
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.842        0.744        0.394      0.197
+
+
+**************************************************
+
+Acc result:1ez3_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.708        0.419      0.250
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.208        0.129      0.073
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.083        0.042        0.016      0.024
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.333        0.435      0.347
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.583        0.258      0.129
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.292        0.145      0.073
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.958        0.758      0.476
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.667        0.258      0.129
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.375        0.145      0.073
+
+
+**************************************************
+
+Acc result:3sht_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.784        0.447      0.298
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.514        0.383      0.234
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.611        0.405        0.266      0.149
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.784        0.670      0.457
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.757        0.521      0.340
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.568        0.330      0.176
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.811        0.660      0.500
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.811        0.585      0.404
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.703        0.330      0.223
+
+
+**************************************************
+
+Acc result:1ty0_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.250        0.171        0.126      0.116
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.220        0.155      0.130
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.171        0.146      0.140
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.829        0.709      0.459
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.634        0.456      0.275
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.561        0.388      0.256
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.950        0.927        0.777      0.444
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.805        0.573      0.319
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.950        0.732        0.485      0.295
+
+
+**************************************************
+
+Acc result:2fb5_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.525        0.363      0.279
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.650        0.375        0.235      0.137
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.550        0.375        0.167      0.103
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.750        0.657      0.475
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.650        0.525        0.294      0.196
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.650        0.575        0.412      0.279
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.875        0.618      0.436
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.950        0.625        0.431      0.275
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.800        0.549      0.299
+
+
+**************************************************
+
+Acc result:1iz6_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.846        0.741        0.500      0.309
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.926        0.529      0.324
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.615        0.519        0.500      0.287
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.926        0.676      0.522
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.769        0.889        0.735      0.544
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.923        0.926        0.779      0.478
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.926        0.853      0.566
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.897      0.647
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.963        0.926      0.515
+
+
+**************************************************
+
+Acc result:4jb8_P
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.935        0.886      0.734
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.867        0.935        0.557      0.316
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.533        0.710        0.380      0.215
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.267        0.484        0.506      0.361
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.484        0.304      0.190
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.267        0.387        0.481      0.285
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.867        0.935        0.671      0.462
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.806        0.392      0.247
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.733        0.742        0.532      0.329
+
+
+**************************************************
+
+Acc result:4a8x_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.882        0.841      0.727
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.824        0.523      0.273
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.941        0.409      0.261
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.882        0.682      0.534
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.765        0.523      0.318
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.529        0.477      0.295
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.977      0.784
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.705      0.375
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.882        0.636      0.330
+
+
+**************************************************
+
+Acc result:2zhy_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.545        0.530      0.395
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.812        0.455        0.217      0.126
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.333        0.169      0.090
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.562        0.727        0.639      0.509
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.545        0.289      0.144
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.687        0.485        0.325      0.168
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.795      0.623
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.937        0.667        0.325      0.180
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.687        0.545        0.337      0.174
+
+
+**************************************************
+
+Acc result:3wpy_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.226        0.215        0.152      0.106
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.566        0.430        0.249      0.175
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.170        0.159        0.119      0.119
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.396        0.346        0.331      0.262
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.434        0.439        0.401      0.364
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.340        0.271        0.283      0.240
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.717        0.486        0.297      0.199
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.943        0.869        0.673      0.457
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.925        0.794        0.476      0.275
+
+
+**************************************************
+
+Acc result:1t4d_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.603        0.410      0.286
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.389        0.274        0.164      0.109
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.361        0.274        0.180      0.128
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.611        0.671        0.590      0.493
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.472        0.521        0.333      0.218
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.278        0.356        0.251      0.180
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.973        0.863      0.619
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.575        0.339      0.204
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.411        0.306      0.193
+
+
+**************************************************
+
+Acc result:1q2h_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.016
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.032
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.250        0.097      0.063
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.250        0.097      0.048
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.032      0.016
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.167        0.167        0.161      0.079
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.333        0.129      0.063
+
+
+**************************************************
+
+Acc result:1ty0_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.300        0.220        0.144      0.115
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.195        0.173      0.115
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.146        0.115      0.130
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.829        0.673      0.462
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.683        0.510      0.312
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.550        0.585        0.500      0.264
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.950        0.951        0.750      0.433
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.950        0.829        0.587      0.322
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.950        0.854        0.490      0.298
+
+
+**************************************************
+
+Acc result:5dps_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.417        0.230      0.180
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.250        0.164      0.090
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.167        0.125        0.148      0.098
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.667        0.557      0.369
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.625        0.377      0.205
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.250        0.333        0.246      0.139
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.875        0.656      0.451
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.625        0.410      0.230
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.625        0.344      0.205
+
+
+**************************************************
+
+Acc result:5ctd_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.016
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.016
+
+
+**************************************************
+
+Acc result:3vk0_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.824        0.636      0.386
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.588        0.227      0.114
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.824        0.432      0.307
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.588        0.477      0.330
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.353        0.182      0.091
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.250        0.294        0.386      0.284
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.882        0.705      0.466
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.529        0.295      0.148
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.568      0.307
+
+
+**************************************************
+
+Acc result:1a12_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.925        0.812        0.600      0.421
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.950        0.715      0.451
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.775        0.812        0.550      0.337
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.350        0.325        0.365      0.322
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.675        0.545      0.459
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.525        0.637        0.565      0.419
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.675        0.562        0.445      0.322
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.845      0.516
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.887        0.675      0.484
+
+
+**************************************************
+
+Acc result:5hxk_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.725        0.711      0.572
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.312        0.154      0.095
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.675        0.487        0.279      0.162
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.437        0.517      0.443
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.487        0.254      0.142
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.425        0.362        0.279      0.172
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.975        0.851      0.672
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.850        0.625        0.294      0.154
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.825        0.687        0.388      0.234
+
+
+**************************************************
+
+Acc result:1pts_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.182        0.091        0.071      0.089
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.500        0.304      0.223
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.227        0.232      0.205
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.682        0.482      0.357
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.864        0.804      0.625
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.955        0.696      0.411
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.955        0.518      0.321
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.955        0.893      0.714
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.768      0.473
+
+
+**************************************************
+
+Acc result:1fc3_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.350        0.320      0.228
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.450        0.200      0.129
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.450        0.180      0.109
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.500        0.440      0.347
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.400        0.340      0.228
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.300        0.200        0.220      0.139
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.750        0.540      0.416
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.800        0.500      0.267
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.650        0.360      0.198
+
+
+**************************************************
+
+Acc result:1s7q_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.842        0.571      0.394
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.474        0.306      0.182
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.421        0.245      0.172
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.737        0.755      0.626
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.737        0.673      0.404
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.789        0.469      0.293
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.898      0.737
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.755      0.475
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.895        0.673      0.404
+
+
+**************************************************
+
+Acc result:1jps_H
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.857        0.670      0.479
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.619        0.452        0.292      0.211
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.333        0.255      0.160
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.810        0.783      0.638
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.690        0.538      0.357
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.690        0.509      0.319
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.952        0.976        0.906      0.709
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.714        0.509      0.357
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.643        0.509      0.333
+
+
+**************************************************
+
+Acc result:4d0k_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.286        0.154      0.114
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.100        0.095        0.115      0.086
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.300        0.286        0.135      0.086
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.286        0.173      0.114
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.714        0.423      0.248
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.667        0.346      0.219
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.300        0.190        0.231      0.162
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.619        0.385      0.229
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.762        0.404      0.238
+
+
+**************************************************
+
+Acc result:4y65_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.810        0.574      0.422
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.300        0.381        0.241      0.156
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.429        0.222      0.128
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.810        0.741      0.615
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.667        0.463      0.284
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.619        0.444      0.220
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.952        0.944      0.761
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.857        0.556      0.312
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.762        0.481      0.239
+
+
+**************************************************
+
+Acc result:5woq_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.765        0.619      0.376
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.588        0.262      0.129
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.706        0.405      0.212
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.471        0.357      0.318
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.235        0.167      0.094
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.471        0.405      0.235
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.882        0.690      0.482
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.471        0.286      0.141
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.882        0.476      0.247
+
+
+**************************************************
+
+Acc result:3owt_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.071        0.069        0.068      0.041
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.071        0.034        0.041      0.027
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.143        0.138        0.054      0.074
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.286        0.276        0.149      0.128
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.286        0.276        0.243      0.142
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.379        0.378      0.236
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.379        0.270      0.216
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.552        0.311      0.209
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.786        0.690        0.432      0.277
+
+
+**************************************************
+
+Acc result:3fhv_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.533        0.367        0.253      0.147
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.467        0.300        0.160      0.100
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.267        0.233        0.133      0.100
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.700        0.627      0.500
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.867        0.633        0.400      0.333
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.600        0.507      0.307
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.933        0.720      0.533
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.933        0.867        0.507      0.347
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.833        0.587      0.347
+
+
+**************************************************
+
+Acc result:3dvh_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.706        0.333      0.212
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.471        0.357      0.200
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.294        0.214      0.118
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.882        0.714      0.576
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.824        0.595      0.400
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.471        0.476      0.294
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.881      0.694
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.786      0.541
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.882        0.619      0.318
+
+
+**************************************************
+
+Acc result:2jgn_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.937        0.844        0.712      0.547
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.937        0.719        0.362      0.230
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.812        0.594        0.312      0.168
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.875        0.800      0.646
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.531        0.287      0.161
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.531        0.362      0.199
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.987      0.776
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.812        0.687        0.362      0.255
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.750        0.400      0.211
+
+
+**************************************************
+
+Acc result:4b0m_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.045      0.052
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.030      0.037
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.077        0.037        0.015      0.074
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.769        0.741        0.552      0.407
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.538        0.333        0.209      0.111
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.615        0.444        0.299      0.193
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.615        0.556        0.582      0.511
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.462        0.333        0.269      0.163
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.538        0.519        0.328      0.193
+
+
+**************************************************
+
+Acc result:3rpp_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.721        0.750      0.502
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.558        0.269      0.147
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.762        0.605        0.296      0.194
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.744        0.593      0.456
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.512        0.296      0.194
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.762        0.581        0.380      0.221
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.860        0.741      0.521
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.605        0.380      0.221
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.744        0.435      0.244
+
+
+**************************************************
+
+Acc result:3i91_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.300        0.269      0.135
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.900        0.615      0.423
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.800        0.423      0.212
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.400        0.154      0.135
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.900        0.846      0.596
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.700        0.615      0.365
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.200        0.192      0.154
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        1.000      0.750
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.769      0.404
+
+
+**************************************************
+
+Acc result:5mbq_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.821        0.804        0.624      0.454
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.786        0.750        0.525      0.340
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.679        0.482        0.248      0.170
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.518        0.496      0.415
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.607        0.589        0.468      0.312
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.643        0.518        0.340      0.227
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.929        0.911        0.759      0.528
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.964        0.929        0.574      0.372
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.821        0.679        0.418      0.280
+
+
+**************************************************
+
+Acc result:4ic6_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.836        0.731      0.543
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.788        0.701        0.503      0.307
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.758        0.537        0.299      0.191
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.697        0.597        0.545      0.400
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.515        0.672        0.593      0.460
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.576        0.597        0.503      0.328
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.848        0.836        0.635      0.475
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.821        0.701      0.507
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.939        0.791        0.599      0.352
+
+
+**************************************************
+
+Acc result:1t4d_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.603        0.410      0.292
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.361        0.260        0.164      0.109
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.361        0.274        0.186      0.131
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.556        0.644        0.596      0.504
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.472        0.521        0.344      0.213
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.222        0.329        0.240      0.172
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.973        0.842      0.613
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.534        0.328      0.199
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.411        0.295      0.191
+
+
+**************************************************
+
+Acc result:4nmx_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.944        0.761      0.446
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.556        0.389        0.174      0.120
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.500        0.261      0.174
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.889        0.739      0.598
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.722        0.391      0.196
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.556        0.500        0.435      0.228
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.944        0.870      0.728
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.833        0.457      0.250
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.778        0.500      0.272
+
+
+**************************************************
+
+Acc result:2dko_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.500        0.333      0.214
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.550        0.275      0.165
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.350        0.275      0.175
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.750        0.588      0.388
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.750        0.373      0.223
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.350        0.333      0.223
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.800        0.588      0.417
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.750        0.431      0.233
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.650        0.451      0.243
+
+
+**************************************************
+
+Acc result:3d9x_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.318        0.211      0.132
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.364        0.455        0.316      0.281
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.455        0.364        0.316      0.211
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.909        0.684      0.526
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.455        0.455        0.263      0.167
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.727        0.561      0.491
+
+
+**************************************************
+
+Acc result:4x2h_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.474        0.500        0.365      0.219
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.368        0.237        0.187      0.141
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.421        0.263        0.156      0.120
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.421        0.500        0.521      0.417
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.842        0.842        0.521      0.297
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.895        0.632        0.365      0.214
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.895        0.789        0.573      0.464
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.895        0.615      0.333
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.737        0.458      0.250
+
+
+**************************************************
+
+Acc result:3who_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.500        0.320      0.228
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.300        0.250        0.240      0.198
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.400        0.240      0.158
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.750        0.420      0.297
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.900        0.760      0.535
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.700        0.460      0.366
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.650        0.560      0.416
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.820      0.564
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.950        0.700      0.436
+
+
+**************************************************
+
+Acc result:2dko_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.862        0.795      0.548
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.483        0.192      0.123
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.483        0.274      0.158
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.931        0.740      0.623
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.357        0.310        0.192      0.103
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.357        0.310        0.315      0.178
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.966        0.918      0.747
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.414        0.247      0.130
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.643        0.483        0.356      0.226
+
+
+**************************************************
+
+Acc result:3emf_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.136        0.143      0.080
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.182        0.125      0.124
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.682        0.446      0.239
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.727        0.500      0.283
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.009
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.409        0.214      0.159
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.591        0.446      0.257
+
+
+**************************************************
+
+Acc result:4ng0_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.263        0.312      0.250
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.222        0.211        0.146      0.135
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.263        0.125      0.062
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.947        0.771      0.615
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.737        0.562      0.375
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.158        0.167      0.094
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.875      0.708
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.895        0.604      0.406
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.421        0.250      0.146
+
+
+**************************************************
+
+Acc result:3m6n_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.769        0.712        0.682      0.485
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.615        0.519        0.303      0.182
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.462        0.327        0.152      0.095
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.692        0.673        0.659      0.530
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.538        0.481        0.379      0.250
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.385        0.346        0.189      0.125
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.942        0.750      0.580
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.500        0.402      0.254
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.538        0.423        0.212      0.136
+
+
+**************************************************
+
+Acc result:4q0f_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.061      0.076
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.030      0.061
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.061      0.061
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.692        0.576      0.379
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.154        0.091      0.091
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.615        0.455      0.303
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.846        0.636      0.439
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.077        0.030      0.045
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.385        0.303      0.227
+
+
+**************************************************
+
+Acc result:5ucb_H
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.905        0.884        0.704      0.479
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.674        0.324      0.235
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.429        0.302        0.222      0.184
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.762        0.860        0.815      0.696
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.762        0.767        0.667      0.465
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.905        0.767        0.565      0.359
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.977        0.907      0.719
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.905        0.837        0.676      0.456
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.721        0.556      0.359
+
+
+**************************************************
+
+Acc result:1ez3_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.708        0.419      0.274
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.208        0.129      0.073
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.083        0.042        0.016      0.016
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.500        0.452      0.387
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.542        0.226      0.113
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.417        0.208        0.097      0.048
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.958        0.790      0.500
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.625        0.242      0.121
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.417        0.292        0.129      0.065
+
+
+**************************************************
+
+Acc result:4d0k_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.687        0.554        0.451      0.292
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.687        0.708        0.567      0.398
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.754        0.530      0.356
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.250        0.246        0.171      0.125
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.400        0.494      0.456
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.562        0.585        0.610      0.462
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.187        0.138        0.152      0.161
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.969        0.846        0.744      0.593
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.892        0.799      0.523
+
+
+**************************************************
+
+Acc result:1hrd_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.773        0.618        0.464      0.312
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.337        0.219      0.127
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.455        0.337        0.196      0.145
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.568        0.562        0.473      0.372
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.432        0.404        0.344      0.207
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.295        0.281        0.219      0.171
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.932        0.831        0.616      0.419
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.886        0.663        0.402      0.272
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.618        0.379      0.216
+
+
+**************************************************
+
+Acc result:5gru_L
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.798      0.526
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.773        0.733        0.421      0.298
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.682        0.400        0.254      0.202
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.955        0.889        0.807      0.610
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.773        0.689        0.675      0.461
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.711        0.579      0.382
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.933        0.895      0.711
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.864        0.844        0.596      0.399
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.867        0.518      0.373
+
+
+**************************************************
+
+Acc result:3utm_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.967        0.836        0.647      0.443
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.492        0.255      0.150
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.475        0.248      0.166
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.459        0.386      0.326
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.533        0.459        0.275      0.153
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.367        0.377        0.333      0.244
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.770        0.523      0.368
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.967        0.689        0.301      0.192
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.767        0.738        0.477      0.329
+
+
+**************************************************
+
+Acc result:5mbq_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.821        0.754        0.615      0.451
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.772        0.503      0.322
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.491        0.252      0.175
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.393        0.456        0.469      0.371
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.596        0.427      0.308
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.491        0.343      0.234
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.964        0.930        0.769      0.521
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.964        0.930        0.538      0.357
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.821        0.719        0.434      0.283
+
+
+**************************************************
+
+Acc result:4tx1_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.905        0.857        0.792      0.714
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.738        0.406      0.225
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.333        0.198      0.122
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.786        0.726      0.629
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.619        0.358      0.254
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.619        0.476        0.292      0.211
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.925      0.775
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.690        0.434      0.291
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.524        0.340      0.225
+
+
+**************************************************
+
+Acc result:1idp_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.643        0.621        0.521      0.422
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.724        0.548      0.327
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.483        0.315      0.218
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.643        0.621        0.575      0.442
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.643        0.552        0.521      0.442
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.655        0.466      0.293
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.655        0.685      0.571
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.586        0.616      0.456
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.690        0.534      0.320
+
+
+**************************************************
+
+Acc result:6blm_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.583        0.600        0.619      0.409
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.480        0.222      0.142
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.583        0.320        0.238      0.150
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.920        0.698      0.606
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.480        0.317      0.181
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.720        0.397      0.291
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.952      0.780
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.760        0.429      0.228
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.800        0.524      0.315
+
+
+**************************************************
+
+Acc result:3vk0_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.765        0.558      0.368
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.765        0.326      0.184
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.647        0.419      0.276
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.412        0.419      0.322
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.250        0.294        0.256      0.138
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.125        0.294        0.349      0.241
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.882        0.651      0.414
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.706        0.372      0.184
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.941        0.535      0.322
+
+
+**************************************************
+
+Acc result:2fvh_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.684        0.408      0.253
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.556        0.421        0.306      0.202
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.211        0.122      0.091
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.684        0.490      0.384
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.632        0.388      0.303
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.474        0.347      0.242
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.579        0.347      0.313
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.789        0.551      0.384
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.947        0.469      0.242
+
+
+**************************************************
+
+Acc result:3rpp_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.744        0.750      0.505
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.581        0.269      0.153
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.762        0.558        0.315      0.185
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.674        0.583      0.426
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.651        0.333      0.194
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.581        0.407      0.222
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.860        0.741      0.532
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.605        0.380      0.222
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.744        0.435      0.245
+
+
+**************************************************
+
+Acc result:3d1b_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.048        0.037      0.028
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.009
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.093      0.065
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.190        0.130      0.111
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.300        0.238        0.130      0.074
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.190        0.111      0.083
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.429        0.278      0.167
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.381        0.296      0.194
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.333        0.259      0.176
+
+
+**************************************************
+
+Acc result:5j4m_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.880        0.706        0.492      0.393
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.471        0.305      0.187
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.560        0.314        0.187      0.128
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.720        0.667        0.617      0.521
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.569        0.398      0.292
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.280        0.314        0.250      0.214
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.805      0.556
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.765        0.461      0.249
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.529        0.312      0.222
+
+
+**************************************************
+
+Acc result:3kdh_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.750        0.620      0.402
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.944        0.917        0.587      0.375
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.639        0.304      0.196
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.556        0.722        0.717      0.554
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.833        0.815      0.538
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.861        0.587      0.321
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.848      0.620
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.891      0.565
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.972        0.630      0.337
+
+
+**************************************************
+
+Acc result:2gkv_E
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.730        0.685      0.508
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.622        0.446      0.335
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.611        0.405        0.293      0.216
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.784        0.554      0.384
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.649        0.543      0.405
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.757        0.641      0.405
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.892        0.565      0.416
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.838        0.685      0.497
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.944        0.865        0.641      0.427
+
+
+**************************************************
+
+Acc result:1eer_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.061        0.036      0.036
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.030        0.024      0.012
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.030        0.036      0.030
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.333        0.217      0.163
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.250        0.152        0.072      0.042
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.312        0.182        0.108      0.054
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.727        0.482      0.331
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.250        0.152        0.072      0.036
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.273        0.120      0.066
+
+
+**************************************************
+
+Acc result:3tc2_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.361        0.267      0.204
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.472        0.267      0.204
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.278        0.250        0.267      0.188
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.639        0.456      0.320
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.639        0.533      0.420
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.750        0.533      0.376
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.750        0.511      0.326
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.944        0.806        0.656      0.470
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.889        0.622      0.409
+
+
+**************************************************
+
+Acc result:3va4_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.773        0.618      0.387
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.909        0.764      0.523
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.818        0.564      0.342
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.773        0.545      0.360
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.727        0.691      0.604
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.773        0.691      0.532
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.955        0.673      0.459
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.909      0.685
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.955        0.891      0.568
+
+
+**************************************************
+
+Acc result:1pm4_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.043        0.052      0.026
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.043
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.174        0.086      0.043
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.182        0.174        0.241      0.171
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.091        0.087        0.052      0.051
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.364        0.174        0.069      0.043
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.217        0.121      0.162
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.182        0.217        0.155      0.094
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.217        0.155      0.094
+
+
+**************************************************
+
+Acc result:2x78_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.778        0.659      0.486
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.667        0.385      0.219
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.472        0.253      0.175
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.611        0.667        0.582      0.437
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.750        0.582      0.328
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.611        0.667        0.462      0.268
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.944        0.944        0.703      0.503
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.944        0.648      0.333
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.778        0.484      0.273
+
+
+**************************************************
+
+Acc result:2fnj_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.882        0.682      0.477
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.353        0.182      0.114
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.353        0.273      0.182
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.588        0.523      0.352
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.588        0.318      0.159
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.647        0.432      0.250
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.941        0.727      0.489
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.706        0.364      0.193
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.941        0.523      0.273
+
+
+**************************************************
+
+Acc result:1cjd_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.016      0.014
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.014        0.016      0.019
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.055        0.060      0.049
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.528        0.493        0.328      0.218
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.016      0.016
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.083        0.055        0.033      0.033
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.806        0.493        0.262      0.172
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.028        0.055        0.055      0.057
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.056        0.027        0.071      0.065
+
+
+**************************************************
+
+Acc result:1iqd_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.950        0.902        0.731      0.529
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.950        0.780        0.433      0.279
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.550        0.390        0.221      0.154
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.850        0.878        0.865      0.673
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.707        0.567      0.394
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.707        0.481      0.312
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.923      0.788
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.850        0.829        0.490      0.365
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.610        0.471      0.346
+
+
+**************************************************
+
+Acc result:3o1q_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.619        0.357        0.257      0.210
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.262        0.133      0.081
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.286        0.143        0.086      0.067
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.667        0.486      0.333
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.429        0.333        0.190      0.110
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.524        0.357        0.229      0.119
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.833        0.657      0.419
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.381        0.200      0.119
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.405        0.238      0.129
+
+
+**************************************************
+
+Acc result:3d9a_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.250        0.200        0.156      0.093
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.440        0.203      0.147
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.520        0.359      0.217
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.240        0.141      0.109
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.480        0.312      0.225
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.400        0.297      0.217
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.167        0.280        0.172      0.132
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.583        0.440        0.391      0.271
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.520        0.359      0.256
+
+
+**************************************************
+
+Acc result:2bcm_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.015
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.077        0.037        0.029      0.029
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.077        0.074        0.059      0.036
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.769        0.852        0.794      0.679
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.615        0.333        0.147      0.080
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.538        0.370        0.191      0.102
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.963        0.882      0.715
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.615        0.481        0.353      0.234
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.692        0.370        0.206      0.153
+
+
+**************************************************
+
+Acc result:4i77_Z
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.053        0.083      0.062
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.111        0.053        0.062      0.052
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.021      0.010
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.444        0.316        0.271      0.175
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.021
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.211        0.125      0.082
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.368        0.354      0.340
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.556        0.368        0.167      0.103
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.222        0.211        0.083      0.082
+
+
+**************************************************
+
+Acc result:1iz6_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.923        0.778        0.522      0.326
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.926        0.507      0.304
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.692        0.556        0.478      0.289
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.923        0.963        0.731      0.519
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.963        0.791      0.563
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.846        0.852        0.776      0.467
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.963        0.851      0.585
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.910      0.652
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.963        0.910      0.511
+
+
+**************************************************
+
+Acc result:5ggv_L
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.952        0.929        0.745      0.516
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.905        0.810        0.406      0.239
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.524        0.429        0.245      0.155
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.786        0.726      0.681
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.786        0.547      0.418
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.690        0.519      0.324
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.952        0.915      0.756
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.786        0.519      0.418
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.667        0.500      0.343
+
+
+**************************************************
+
+Acc result:4u1e_I
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.848        0.803        0.570      0.379
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.939        0.879        0.727      0.527
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.939        0.848        0.503      0.318
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.242        0.212        0.230      0.185
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.576        0.606        0.642      0.579
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.515        0.561        0.636      0.524
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.409        0.339      0.300
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.909        0.842      0.712
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.985        0.830      0.573
+
+
+**************************************************
+
+Acc result:4g6m_L
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.952        0.929        0.774      0.540
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.786        0.443      0.258
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.524        0.405        0.255      0.146
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.881        0.811      0.685
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.690        0.575      0.423
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.786        0.538      0.324
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.952        0.943      0.779
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.881        0.557      0.376
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.905        0.667        0.491      0.324
+
+
+**************************************************
+
+Acc result:2cu5_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.640        0.516      0.341
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.240        0.141      0.085
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.360        0.250      0.163
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.920        0.859      0.705
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.360        0.172      0.093
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.440        0.297      0.178
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.984      0.853
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.167        0.280        0.203      0.147
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.600        0.359      0.217
+
+
+**************************************************
+
+Acc result:1a5m_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.600        0.360      0.200
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.400        0.260      0.180
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.250        0.160      0.090
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.550        0.420      0.350
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.550        0.420      0.270
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.550        0.320      0.180
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.500        0.340      0.350
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.700        0.500      0.350
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.750        0.380      0.210
+
+
+**************************************************
+
+Acc result:3cnb_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.750        0.710      0.565
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.750        0.532      0.331
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.625        0.371      0.226
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.917        0.833        0.694      0.548
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.708        0.435      0.347
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.542        0.323      0.202
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.958        0.887      0.710
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.750        0.532      0.379
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.917        0.750        0.419      0.250
+
+
+**************************************************
+
+Acc result:3vz8_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.622        0.370      0.227
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.444        0.324        0.141      0.086
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.444        0.351        0.196      0.119
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.757        0.728      0.616
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.486        0.293      0.195
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.444        0.405        0.315      0.195
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.870      0.670
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.541        0.337      0.205
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.486        0.380      0.232
+
+
+**************************************************
+
+Acc result:5dik_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.636        0.500        0.304      0.241
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.636        0.268      0.152
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.455        0.286      0.179
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.727        0.536      0.384
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.455        0.339      0.170
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.636        0.545        0.268      0.143
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.864        0.661      0.411
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.773        0.357      0.187
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.545        0.321      0.170
+
+
+**************************************************
+
+Acc result:5x3p_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.733        0.579      0.368
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.333        0.211      0.145
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.533        0.368      0.211
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.733        0.632      0.500
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.429        0.533        0.316      0.237
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.733        0.447      0.316
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.933        0.789      0.566
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.429        0.333        0.474      0.263
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.800        0.579      0.355
+
+
+**************************************************
+
+Acc result:1ok7_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.836        0.552      0.363
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.444        0.301        0.235      0.169
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.694        0.466        0.273      0.175
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.583        0.603        0.612      0.503
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.589        0.492      0.322
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.639        0.671        0.563      0.361
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.986        0.940      0.751
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.918        0.645      0.418
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.727      0.399
+
+
+**************************************************
+
+Acc result:1pm4_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.043        0.052      0.026
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.043
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.174        0.086      0.051
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.364        0.304        0.207      0.137
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.182        0.087        0.034      0.043
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.364        0.174        0.069      0.051
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.217        0.138      0.171
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.182        0.217        0.155      0.094
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.217        0.155      0.103
+
+
+**************************************************
+
+Acc result:2wfw_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.333        0.242      0.121
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.292        0.210      0.177
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.417        0.306      0.210
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.750        0.532      0.290
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.792        0.677      0.387
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.917        0.790      0.516
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.333        0.306      0.234
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.875        0.581      0.444
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.958        0.903      0.573
+
+
+**************************************************
+
+Acc result:3qki_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.719        0.561        0.324      0.213
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.421        0.254        0.153      0.092
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.456        0.298        0.171      0.118
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.421        0.439        0.341      0.233
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.175        0.149        0.115      0.120
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.193        0.123        0.150      0.124
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.947        0.754        0.481      0.324
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.298        0.237        0.181      0.132
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.754        0.535        0.338      0.220
+
+
+**************************************************
+
+Acc result:3r1w_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.611        0.556        0.356      0.243
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.944        0.972        0.956      0.845
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.944        0.611        0.278      0.155
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.917        0.633      0.381
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.861        0.889      0.796
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.611        0.583        0.378      0.221
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.861        0.644      0.370
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.978      0.890
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.944        0.694        0.433      0.232
+
+
+**************************************************
+
+Acc result:3kto_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.391        0.492      0.415
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.478        0.424      0.263
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.391        0.220      0.153
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.652        0.644      0.466
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.739        0.559      0.347
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.364        0.391        0.322      0.186
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.739        0.610      0.534
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.739        0.525      0.373
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.609        0.305      0.229
+
+
+**************************************************
+
+Acc result:4qyo_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.909        0.807      0.570
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.727        0.544      0.342
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.318        0.281      0.193
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.955        0.702      0.535
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.818        0.596      0.421
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.773        0.649      0.360
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.955        0.860      0.614
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.909        0.702      0.474
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.818        0.684      0.360
+
+
+**************************************************
+
+Acc result:1avy_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.088      0.044
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.154        0.147      0.103
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.231        0.176      0.103
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.846        0.382      0.191
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.308        0.147      0.088
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.923        0.412      0.206
+
+
+**************************************************
+
+Acc result:5dps_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.583        0.375        0.262      0.180
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.250        0.164      0.082
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.250        0.167        0.131      0.082
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.750        0.541      0.385
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.708        0.377      0.205
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.458        0.262      0.156
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.917        0.672      0.467
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.917        0.833        0.426      0.254
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.625        0.328      0.189
+
+
+**************************************************
+
+Acc result:2pbq_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.937        0.939        0.854      0.642
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.424        0.232      0.127
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.687        0.545        0.341      0.194
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.727        0.720      0.624
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.394        0.195      0.139
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.485        0.366      0.230
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.915      0.715
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.394        0.232      0.182
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.455        0.439      0.291
+
+
+**************************************************
+
+Acc result:4u1e_G
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.176        0.068      0.045
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.250        0.235        0.114      0.101
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.706        0.409      0.213
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.588        0.409      0.225
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.824        0.455      0.225
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.545      0.281
+
+
+**************************************************
+
+Acc result:3ffd_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.905        0.833        0.676      0.419
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.524        0.295      0.214
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.381        0.262        0.200      0.157
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.786        0.781      0.652
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.667        0.571      0.376
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.476        0.571        0.495      0.305
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.976        0.886      0.710
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.762        0.714        0.543      0.367
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.524        0.595        0.495      0.324
+
+
+**************************************************
+
+Acc result:1pts_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.174        0.102      0.126
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.522        0.390      0.277
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.364        0.304        0.288      0.227
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.565        0.407      0.303
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.870        0.881      0.714
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.957        0.797      0.496
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.957        0.576      0.361
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.957        0.966      0.815
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.780      0.496
+
+
+**************************************************
+
+Acc result:5h66_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.846        0.424      0.254
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.385        0.273      0.179
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.308        0.242      0.149
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.923        0.455      0.299
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.692        0.364      0.239
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.692        0.394      0.224
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.923        0.515      0.403
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.923        0.485      0.299
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.846        0.545      0.284
+
+
+**************************************************
+
+Acc result:4fml_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.516        0.392      0.297
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.194        0.114      0.076
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.133        0.129        0.076      0.082
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.733        0.742        0.747      0.538
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.067        0.065        0.089      0.076
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.133        0.194        0.139      0.095
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.933        0.968        0.848      0.608
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.161        0.139      0.101
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.226        0.165      0.133
+
+
+**************************************************
+
+Acc result:5x3p_B
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.933        0.763      0.481
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.400        0.211      0.130
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.467        0.342      0.182
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.800        0.658      0.597
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.429        0.467        0.263      0.182
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.800        0.500      0.299
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.816      0.662
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.429        0.333        0.421      0.234
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.667        0.579      0.338
+
+
+**************************************************
+
+Acc result:4a8x_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.240        0.161      0.160
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.167        0.280        0.177      0.120
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.083        0.120        0.065      0.112
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.600        0.435      0.336
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.600        0.355      0.256
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.560        0.355      0.200
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.760        0.661      0.552
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.917        0.840        0.548      0.304
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.760        0.371      0.216
+
+
+**************************************************
+
+Acc result:5bs2_A
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.036      0.053
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.091        0.091        0.054      0.035
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.091        0.136        0.071      0.080
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.636        0.591        0.446      0.257
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.364        0.214      0.115
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.364        0.273        0.232      0.124
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.864        0.482      0.345
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.591        0.286      0.159
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.636        0.250      0.150
+
+
+**************************************************
+
+Acc result:1huu_C
+**************************************************
+
+ccmpred result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.429        0.429        0.371      0.268
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.857        0.486      0.296
+
+Output result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.429        0.429      0.338
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.786        0.571      0.437
+
+DeepCov result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.000
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.714        0.486      0.352
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.857      0.479
+
+
+
+
+
+
+**************************************************
+
+ccmpred total result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.602        0.534        0.418      0.294
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.547        0.438        0.276      0.180
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.486        0.369        0.229      0.153
+
+
+
+
+
+
+**************************************************
+
+Output total result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.606        0.510      0.394
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.616        0.552        0.402      0.274
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.607        0.525        0.390      0.247
+
+
+
+
+
+
+**************************************************
+
+DeepCov total result:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.820        0.762        0.621      0.465
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.785        0.677        0.474      0.312
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.781        0.684        0.460      0.278

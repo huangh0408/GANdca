@@ -1,0 +1,3004 @@
+
+
+**************************************************
+
+Acc result:1kq6A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.393        0.200      0.121
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.429        0.250        0.157      0.107
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.286        0.200      0.121
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.429        0.357        0.243      0.143
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.536        0.243      0.121
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.643        0.464        0.300      0.193
+
+
+**************************************************
+
+Acc result:1w0hA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.850        0.875        0.720      0.530
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.950        0.725        0.400      0.225
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.400        0.280      0.165
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.600        0.520      0.485
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.725        0.500      0.305
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.350        0.375        0.330      0.230
+
+
+**************************************************
+
+Acc result:1m4jA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.538        0.423        0.333      0.218
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.154        0.077        0.030      0.105
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.231        0.192        0.152      0.120
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.846        0.731        0.545      0.361
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.385        0.500        0.379      0.241
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.769        0.577        0.348      0.218
+
+
+**************************************************
+
+Acc result:1ctfA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.846        0.824      0.544
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.538        0.353      0.191
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.538        0.294      0.191
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.846        0.853      0.691
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.538        0.382      0.206
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.538        0.294      0.206
+
+
+**************************************************
+
+Acc result:2vxnA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.714        0.645      0.538
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.571        0.315      0.205
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.408        0.218      0.137
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.583        0.592        0.548      0.522
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.571        0.403      0.313
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.347        0.234      0.173
+
+
+**************************************************
+
+Acc result:1a3aA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.897        0.819      0.545
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.828        0.458      0.248
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.759        0.375      0.221
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.786        0.724        0.597      0.497
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.586        0.528      0.317
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.586        0.403      0.234
+
+
+**************************************************
+
+Acc result:1abaA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.882        0.488      0.333
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.235        0.116      0.103
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.353        0.256      0.195
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.824        0.698      0.575
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.250        0.235        0.186      0.092
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.588        0.419      0.253
+
+
+**************************************************
+
+Acc result:1dbxA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.867        0.933        0.789      0.586
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.867        0.700        0.382      0.250
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.867        0.733        0.461      0.250
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.867        0.867        0.829      0.605
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.933        0.767        0.526      0.322
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.867        0.800        0.500      0.289
+
+
+**************************************************
+
+Acc result:1hdoA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.850        0.780        0.833      0.688
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.850        0.829        0.618      0.390
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.659        0.294      0.176
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.850        0.829        0.725      0.688
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.805        0.598      0.415
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.512        0.284      0.156
+
+
+**************************************************
+
+Acc result:1kqrA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.312        0.156        0.087      0.056
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.125        0.187        0.212      0.175
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.125        0.125        0.100      0.069
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.219        0.087      0.050
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.312        0.325      0.231
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.312        0.375        0.325      0.231
+
+
+**************************************************
+
+Acc result:1htwA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.806        0.620      0.392
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.467        0.419        0.241      0.152
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.933        0.484        0.266      0.171
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.533        0.710        0.608      0.551
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.677        0.380      0.215
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.867        0.742        0.418      0.266
+
+
+**************************************************
+
+Acc result:1tqgA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.667        0.404      0.276
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.619        0.269      0.152
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.286        0.231      0.124
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.429        0.404      0.314
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.571        0.385      0.238
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.381        0.173      0.086
+
+
+**************************************************
+
+Acc result:1vp6A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.848      0.684
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.692        0.692        0.288      0.188
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.769        0.577        0.348      0.195
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.923        0.833      0.714
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.692        0.615        0.364      0.218
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.923        0.615        0.364      0.203
+
+
+**************************************************
+
+Acc result:1atzA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.733        0.595      0.373
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.400        0.216      0.147
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.533        0.297      0.200
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.867        0.676      0.440
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.467        0.297      0.213
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.600        0.486      0.320
+
+
+**************************************************
+
+Acc result:1fqtA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.857        0.778      0.532
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.762        0.685      0.422
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.952        0.630      0.431
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.667        0.593      0.450
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.524        0.556      0.431
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.759      0.532
+
+
+**************************************************
+
+Acc result:1cxyA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.812        0.575      0.370
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.375        0.225      0.136
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.375        0.225      0.148
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.750        0.650      0.543
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.250        0.175      0.099
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.625        0.475      0.272
+
+
+**************************************************
+
+Acc result:1xdzA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.957        0.787        0.639      0.441
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.913        0.660        0.328      0.202
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.652        0.447        0.277      0.160
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.783        0.745        0.647      0.504
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.739        0.660        0.487      0.340
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.348        0.319        0.269      0.176
+
+
+**************************************************
+
+Acc result:1aoeA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.632        0.579        0.490      0.312
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.526        0.421        0.250      0.156
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.526        0.368        0.260      0.156
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.579        0.711        0.625      0.500
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.737        0.632        0.458      0.255
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.579        0.474        0.292      0.177
+
+
+**************************************************
+
+Acc result:1ny1A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.826        0.830        0.778      0.579
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.652        0.596        0.299      0.170
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.609        0.404        0.239      0.149
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.739        0.766        0.650      0.562
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.565        0.447        0.393      0.226
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.478        0.362        0.214      0.128
+
+
+**************************************************
+
+Acc result:1ql0A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.792        0.667        0.525      0.311
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.417        0.250        0.183      0.137
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.396        0.200      0.133
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.646        0.558      0.411
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.604        0.342      0.187
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.312        0.208      0.154
+
+
+**************************************************
+
+Acc result:1fvgA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.842        0.763        0.708      0.542
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.789        0.500        0.260      0.156
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.526        0.447        0.271      0.182
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.737        0.632        0.625      0.526
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.789        0.684        0.385      0.214
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.526        0.421        0.292      0.193
+
+
+**************************************************
+
+Acc result:1k6kA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.929        0.786        0.549      0.423
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.536        0.239      0.169
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.321        0.183      0.127
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.643        0.536        0.563      0.401
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.643        0.571        0.310      0.176
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.214        0.179        0.197      0.106
+
+
+**************************************************
+
+Acc result:1tifA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.429        0.400        0.184      0.145
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.600        0.368      0.224
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.600        0.316      0.184
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.143        0.267        0.237      0.145
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.733        0.553      0.408
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.733        0.553      0.303
+
+
+**************************************************
+
+Acc result:1tqhA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.750        0.769      0.649
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.792        0.771        0.471      0.264
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.708        0.479        0.248      0.153
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.750        0.686      0.570
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.917        0.833        0.554      0.331
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.542        0.396        0.256      0.153
+
+
+**************************************************
+
+Acc result:1h98A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.400        0.395      0.273
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.667        0.289      0.182
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.533        0.263      0.156
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.429        0.467        0.395      0.377
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.286        0.333        0.237      0.130
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.533        0.395      0.208
+
+
+**************************************************
+
+Acc result:1dsxA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.647        0.419      0.230
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.250        0.176        0.070      0.080
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.353        0.233      0.172
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.471        0.395      0.322
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.294        0.209      0.126
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.353        0.209      0.184
+
+
+**************************************************
+
+Acc result:1f6bA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.765        0.657        0.523      0.375
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.412        0.229        0.136      0.091
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.294        0.200        0.136      0.108
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.706        0.629        0.682      0.534
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.176        0.114        0.057      0.062
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.529        0.400        0.261      0.182
+
+
+**************************************************
+
+Acc result:1a70A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.895        0.583      0.412
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.737        0.437      0.278
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.556        0.421        0.250      0.165
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.789        0.750      0.526
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.684        0.437      0.299
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.556        0.526        0.333      0.175
+
+
+**************************************************
+
+Acc result:1ne2A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.706        0.543        0.477      0.284
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.941        0.771        0.420      0.267
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.412        0.286        0.182      0.114
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.765        0.600        0.432      0.341
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.824        0.857        0.614      0.403
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.412        0.286        0.136      0.108
+
+
+**************************************************
+
+Acc result:1hh8A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.526        0.421        0.281      0.240
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.816        0.646      0.375
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.632        0.395        0.208      0.120
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.211        0.289        0.312      0.224
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.789        0.684        0.531      0.365
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.421        0.500        0.312      0.177
+
+
+**************************************************
+
+Acc result:1mk0A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.421        0.375      0.247
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.474        0.292      0.186
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.444        0.368        0.271      0.186
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.737        0.583      0.371
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.684        0.479      0.247
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.421        0.271      0.175
+
+
+**************************************************
+
+Acc result:1h2eA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.829        0.748      0.633
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.805        0.456      0.275
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.634        0.282      0.184
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.829        0.718      0.604
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.850        0.683        0.495      0.324
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.561        0.359      0.203
+
+
+**************************************************
+
+Acc result:1gmxA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.810        0.736      0.533
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.619        0.396      0.271
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.762        0.358      0.178
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.810        0.604      0.542
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.714        0.509      0.280
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.571        0.321      0.178
+
+
+**************************************************
+
+Acc result:1hxnA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.286        0.190        0.124      0.081
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.619        0.429        0.286      0.219
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.762        0.500        0.286      0.190
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.095        0.048        0.019      0.010
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.476        0.419      0.300
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.762        0.476      0.290
+
+
+**************************************************
+
+Acc result:1c52A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.538        0.615        0.477      0.313
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.231        0.192        0.092      0.069
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.308        0.192        0.169      0.115
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.308        0.308        0.308      0.198
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.615        0.500        0.292      0.183
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.385        0.308        0.185      0.145
+
+
+**************************************************
+
+Acc result:1dlwA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.783        0.534      0.362
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.455        0.217        0.138      0.095
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.261        0.172      0.112
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.455        0.478        0.466      0.379
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.435        0.207      0.147
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.478        0.207      0.103
+
+
+**************************************************
+
+Acc result:1fk5A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.167        0.196      0.129
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.222        0.111        0.065      0.032
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.056        0.022      0.032
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.444        0.389        0.283      0.172
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.389        0.239      0.129
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.056        0.087      0.054
+
+
+**************************************************
+
+Acc result:5ptpA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.909        0.865      0.739
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.955        0.886        0.550      0.320
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.773        0.614        0.387      0.230
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.682        0.659        0.694      0.622
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.818        0.703      0.477
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.591        0.591        0.450      0.288
+
+
+**************************************************
+
+Acc result:1d1qA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.774        0.684      0.509
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.933        0.710        0.418      0.239
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.419        0.241      0.138
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.677        0.671      0.560
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.613        0.418      0.258
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.467        0.452        0.278      0.170
+
+
+**************************************************
+
+Acc result:1r26A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.818        0.768      0.540
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.455        0.500        0.250      0.133
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.500        0.268      0.168
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.818        0.661      0.487
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.364        0.196      0.097
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.636        0.591        0.357      0.230
+
+
+**************************************************
+
+Acc result:1g2rA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.611        0.426      0.298
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.556        0.277      0.170
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.500        0.298      0.170
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.556        0.404      0.287
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.444        0.444        0.319      0.213
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.778        0.511      0.277
+
+
+**************************************************
+
+Acc result:1smxA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.529        0.302      0.195
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.647        0.372      0.218
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.294        0.209      0.138
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.824        0.698      0.483
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.706        0.465      0.310
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.706        0.628      0.333
+
+
+**************************************************
+
+Acc result:1ek0A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.697        0.702      0.565
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.515        0.321      0.226
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.812        0.636        0.357      0.202
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.812        0.788        0.667      0.571
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.437        0.455        0.357      0.220
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.937        0.697        0.512      0.274
+
+
+**************************************************
+
+Acc result:1jfxA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.762        0.674        0.583      0.442
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.905        0.860        0.463      0.276
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.512        0.306      0.184
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.791        0.648      0.535
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.619        0.698        0.593      0.424
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.619        0.535        0.333      0.221
+
+
+**************************************************
+
+Acc result:1d0qA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.750        0.490      0.343
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.750        0.412      0.265
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.700        0.431      0.304
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.550        0.471      0.333
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.700        0.471      0.284
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.800        0.627      0.431
+
+
+**************************************************
+
+Acc result:1nrvA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.400        0.280      0.220
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.500        0.220      0.170
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.700        0.420      0.270
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.500        0.300      0.180
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.800        0.560      0.350
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.800        0.640      0.400
+
+
+**************************************************
+
+Acc result:1i1nA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.864        0.773        0.652      0.473
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.955        0.841        0.554      0.357
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.682        0.523        0.277      0.165
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.773        0.773        0.696      0.509
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.636        0.682        0.652      0.500
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.545        0.348      0.223
+
+
+**************************************************
+
+Acc result:1pchA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.941        0.773      0.534
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.412        0.227      0.148
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.647        0.341      0.227
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.795      0.693
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.176        0.205      0.148
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.588        0.455      0.273
+
+
+**************************************************
+
+Acc result:1h0pA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.778        0.692      0.604
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.778        0.462      0.291
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.694        0.429      0.236
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.944        0.833        0.747      0.648
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.722        0.560      0.379
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.611        0.505      0.330
+
+
+**************************************************
+
+Acc result:1whiA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.708        0.459      0.279
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.917        0.833        0.492      0.328
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.917        0.625        0.361      0.221
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.875        0.656      0.467
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.750        0.639      0.549
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.750        0.508      0.311
+
+
+**************************************************
+
+Acc result:1dixA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.300        0.268        0.221      0.192
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.550        0.293        0.154      0.096
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.268        0.125      0.077
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.463        0.433      0.337
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.537        0.240      0.139
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.439        0.288      0.192
+
+
+**************************************************
+
+Acc result:1vfyA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.538        0.364      0.239
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.615        0.273      0.224
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.385        0.303      0.224
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.615        0.394      0.224
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.462        0.424      0.299
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.462        0.212      0.194
+
+
+**************************************************
+
+Acc result:1fnaA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.889        0.733      0.527
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.667        0.378      0.209
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.444        0.611        0.333      0.176
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.944        0.844      0.571
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.667        0.400      0.308
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.556        0.444        0.378      0.231
+
+
+**************************************************
+
+Acc result:1bdoA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.875        0.725      0.475
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.875        0.650      0.425
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.500        0.300      0.212
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.625        0.600      0.512
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.812        0.775      0.537
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.562        0.350      0.200
+
+
+**************************************************
+
+Acc result:1wkcA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.562        0.576        0.619      0.506
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.636        0.333      0.214
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.455        0.262      0.149
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.687        0.667        0.583      0.518
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.697        0.440      0.268
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.788        0.476      0.298
+
+
+**************************************************
+
+Acc result:1jbkA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.649        0.521      0.349
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.111        0.081        0.074      0.037
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.222        0.216        0.149      0.101
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.649        0.574      0.450
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.167        0.135        0.085      0.048
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.389        0.270        0.202      0.132
+
+
+**************************************************
+
+Acc result:1svyA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.550        0.380      0.257
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.500        0.340      0.228
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.350        0.180      0.158
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.550        0.420      0.327
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.450        0.420      0.267
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.350        0.440      0.267
+
+
+**************************************************
+
+Acc result:2hs1A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.158        0.204      0.131
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.222        0.211        0.143      0.101
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.111        0.105        0.163      0.152
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.105        0.082      0.071
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.444        0.263        0.224      0.111
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.556        0.526        0.286      0.162
+
+
+**************************************************
+
+Acc result:1fcyA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.435        0.319        0.203      0.140
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.174        0.106        0.059      0.051
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.174        0.085        0.059      0.059
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.652        0.468        0.280      0.203
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.174        0.170        0.144      0.085
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.217        0.149        0.093      0.064
+
+
+**************************************************
+
+Acc result:1xkrA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.150        0.146        0.137      0.117
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.220        0.127      0.098
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.122        0.118      0.088
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.000        0.000      0.015
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.659        0.373      0.224
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.650        0.439        0.265      0.146
+
+
+**************************************************
+
+Acc result:3borA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.947        0.921        0.773      0.531
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.579        0.526        0.268      0.180
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.632        0.474        0.278      0.180
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.632        0.658        0.567      0.546
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.421        0.342        0.278      0.191
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.474        0.316        0.216      0.124
+
+
+**************************************************
+
+Acc result:1ku3A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.750        0.433      0.262
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.500        0.233      0.115
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.583        0.333      0.230
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.333        0.267      0.262
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.333        0.200      0.098
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.500        0.367      0.230
+
+
+**************************************************
+
+Acc result:1h4xA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.455        0.545        0.600      0.409
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.364        0.364        0.164      0.118
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.182        0.127      0.091
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.636        0.727        0.691      0.536
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.455        0.500        0.291      0.145
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.364        0.227        0.145      0.091
+
+
+**************************************************
+
+Acc result:1npsA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.824        0.523      0.330
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.471        0.295      0.205
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.471        0.250      0.182
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.882        0.591      0.443
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.588        0.409      0.295
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.706        0.477      0.239
+
+
+**************************************************
+
+Acc result:1m8aA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.583        0.267      0.180
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.667        0.367      0.197
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.417        0.267      0.148
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.250        0.200      0.148
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.667        0.600      0.361
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.833        0.567      0.344
+
+
+**************************************************
+
+Acc result:1c44A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.583        0.375        0.295      0.187
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.250        0.197      0.114
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.250        0.115      0.081
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.417        0.417        0.393      0.220
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.667        0.426      0.252
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.417        0.333        0.295      0.195
+
+
+**************************************************
+
+Acc result:1dqgA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.077        0.038        0.090      0.060
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.692        0.500        0.328      0.224
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.462        0.269        0.269      0.224
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.000        0.038        0.075      0.060
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.846        0.615        0.433      0.246
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.846        0.731        0.493      0.321
+
+
+**************************************************
+
+Acc result:1nb9A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.655        0.562      0.374
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.759        0.370      0.218
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.345        0.192      0.116
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.793        0.603      0.469
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.644      0.381
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.929        0.690        0.370      0.197
+
+
+**************************************************
+
+Acc result:1i1jA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.333        0.226      0.151
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.619        0.396      0.217
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.238        0.113      0.066
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.429        0.283      0.236
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.857        0.698      0.519
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.476        0.321      0.208
+
+
+**************************************************
+
+Acc result:1cznA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.937        0.879        0.702      0.467
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.687        0.455        0.202      0.107
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.562        0.394        0.202      0.136
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.818        0.810      0.615
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.437        0.394        0.202      0.107
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.576        0.310      0.183
+
+
+**************************************************
+
+Acc result:1vmbA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.810        0.547      0.355
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.524        0.302      0.206
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.333        0.208      0.112
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.810        0.660      0.542
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.857        0.509      0.290
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.524        0.245      0.131
+
+
+**************************************************
+
+Acc result:1k7cA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.957        0.848        0.681      0.446
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.522        0.283        0.155      0.099
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.435        0.304        0.155      0.129
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.870        0.848        0.681      0.554
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.522        0.348        0.190      0.116
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.565        0.435        0.241      0.167
+
+
+**************************************************
+
+Acc result:1c9oA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.692        0.576      0.333
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.692        0.394      0.212
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.846        0.485      0.303
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.462        0.515      0.470
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.846        0.545      0.394
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.769        0.545      0.439
+
+
+**************************************************
+
+Acc result:1ktgA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.846        0.667        0.559      0.460
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.462        0.370        0.250      0.153
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.846        0.741        0.456      0.270
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.769        0.778        0.515      0.453
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.231        0.148        0.191      0.175
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.692        0.630        0.471      0.350
+
+
+**************************************************
+
+Acc result:1kw4A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.429        0.343      0.257
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.500        0.257      0.143
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.357        0.171      0.114
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.643        0.457      0.286
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.571        0.400      0.200
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.643        0.286      0.171
+
+
+**************************************************
+
+Acc result:1iibA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.800        0.647      0.398
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.700        0.392      0.252
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.700        0.400        0.216      0.136
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.650        0.627      0.544
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.900        0.900        0.529      0.359
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.300        0.196      0.107
+
+
+**************************************************
+
+Acc result:1jl1A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.833        0.803      0.599
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.733        0.600        0.316      0.204
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.400        0.250      0.151
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.800        0.724      0.632
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.867        0.900        0.618      0.362
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.867        0.733        0.461      0.250
+
+
+**************************************************
+
+Acc result:1o1zA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.773        0.778        0.726      0.549
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.711        0.504      0.296
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.667        0.372      0.226
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.636        0.689        0.646      0.588
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.864        0.756        0.558      0.376
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.636        0.533        0.434      0.270
+
+
+**************************************************
+
+Acc result:1ag6A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.895        0.531      0.354
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.421        0.204      0.131
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.421        0.224      0.141
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.737        0.755      0.626
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.737        0.388      0.253
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.556        0.421        0.327      0.212
+
+
+**************************************************
+
+Acc result:1mugA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.636        0.451      0.333
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.125        0.242        0.134      0.097
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.437        0.273        0.171      0.127
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.788        0.659      0.533
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.125        0.091        0.098      0.097
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.312        0.273        0.159      0.121
+
+
+**************************************************
+
+Acc result:1jfuA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.765        0.771        0.693      0.557
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.706        0.543        0.295      0.205
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.647        0.486        0.284      0.193
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.588        0.657        0.693      0.568
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.529        0.400        0.261      0.170
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.882        0.714        0.409      0.233
+
+
+**************************************************
+
+Acc result:1rybA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.784        0.731      0.565
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.595        0.312      0.194
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.676        0.398      0.253
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.703        0.699      0.597
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.622        0.441      0.280
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.703        0.484      0.274
+
+
+**************************************************
+
+Acc result:2mhrA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.696        0.441      0.288
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.636        0.391        0.220      0.119
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.364        0.217        0.102      0.076
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.455        0.435        0.390      0.263
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.182        0.261        0.254      0.153
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.273        0.348        0.220      0.110
+
+
+**************************************************
+
+Acc result:1brfA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.800        0.800        0.500      0.283
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.500        0.231      0.151
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.500        0.385      0.283
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.600        0.577      0.491
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.400        0.346      0.208
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.600        0.600        0.462      0.321
+
+
+**************************************************
+
+Acc result:1rw7A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.913        0.872        0.803      0.613
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.783        0.574        0.342      0.183
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.609        0.362        0.222      0.179
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.739        0.660        0.658      0.583
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.652        0.511        0.325      0.217
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.652        0.489        0.325      0.213
+
+
+**************************************************
+
+Acc result:1fvkA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.703        0.564      0.399
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.389        0.297        0.191      0.112
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.444        0.351        0.234      0.149
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.595        0.564      0.463
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.389        0.297        0.191      0.101
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.378        0.234      0.154
+
+
+**************************************************
+
+Acc result:1avsA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.687        0.275      0.148
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.625        0.325      0.235
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.687        0.350      0.198
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.250        0.250      0.148
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.375        0.375        0.350      0.222
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.437        0.275      0.198
+
+
+**************************************************
+
+Acc result:2arcA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.812        0.594        0.350      0.242
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.125        0.125        0.100      0.062
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.312        0.187        0.112      0.087
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.812        0.750        0.687      0.503
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.375        0.212      0.118
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.531        0.300      0.174
+
+
+**************************************************
+
+Acc result:1behA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.667        0.380      0.304
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.556        0.333        0.174      0.120
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.389        0.250        0.185      0.136
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.694        0.641      0.511
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.722        0.413      0.261
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.500        0.250      0.163
+
+
+**************************************************
+
+Acc result:1dmgA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.941        0.794        0.500      0.366
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.588        0.382        0.198      0.122
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.353        0.294        0.174      0.099
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.765        0.794        0.523      0.390
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.647        0.412        0.198      0.128
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.588        0.441        0.209      0.122
+
+
+**************************************************
+
+Acc result:1pkoA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.917        0.875        0.726      0.516
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.917        0.625        0.339      0.226
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.583        0.417        0.258      0.161
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.833        0.855      0.629
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.750        0.516      0.282
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.667        0.371      0.218
+
+
+**************************************************
+
+Acc result:1rw1A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.818        0.682        0.614      0.465
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.909        0.545        0.228      0.132
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.545        0.409        0.281      0.149
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.773        0.579      0.491
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.364        0.364        0.211      0.123
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.727        0.591        0.386      0.228
+
+
+**************************************************
+
+Acc result:1vhuA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.789        0.763        0.708      0.510
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.579        0.474        0.271      0.187
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.737        0.500        0.333      0.224
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.526        0.553        0.583      0.510
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.737        0.632        0.437      0.266
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.316        0.395        0.302      0.219
+
+
+**************************************************
+
+Acc result:1gzcA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.826        0.617        0.387      0.276
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.739        0.553        0.336      0.222
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.348        0.277        0.185      0.138
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.696        0.787        0.706      0.536
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.478        0.511        0.445      0.297
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.348        0.298        0.353      0.272
+
+
+**************************************************
+
+Acc result:1im5A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.941        0.886        0.820      0.615
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.529        0.371        0.191      0.112
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.882        0.600        0.393      0.263
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.765        0.771        0.685      0.637
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.353        0.229        0.135      0.073
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.471        0.371        0.281      0.274
+
+
+**************************************************
+
+Acc result:1i58A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.722        0.730        0.511      0.402
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.611        0.486        0.266      0.190
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.324        0.191      0.148
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.784        0.585      0.460
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.944        0.757        0.351      0.217
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.833        0.622        0.309      0.180
+
+
+**************************************************
+
+Acc result:1ckeA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.905        0.857        0.651      0.429
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.571        0.429        0.226      0.132
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.476        0.292      0.170
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.810        0.738        0.651      0.519
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.476        0.405        0.226      0.137
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.619        0.500        0.377      0.217
+
+
+**************************************************
+
+Acc result:1lo7A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.929        0.857        0.743      0.543
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.786        0.679        0.400      0.214
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.643        0.500        0.357      0.221
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.786        0.857        0.757      0.614
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.857        0.893        0.543      0.307
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.786        0.714        0.457      0.271
+
+
+**************************************************
+
+Acc result:1a6mA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.733        0.800        0.600      0.364
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.167        0.120      0.066
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.133        0.080      0.079
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.400        0.500        0.440      0.404
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.333        0.233        0.187      0.099
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.200        0.167        0.133      0.093
+
+
+**************************************************
+
+Acc result:1d4oA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.706        0.543        0.398      0.243
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.235        0.114        0.091      0.096
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.235        0.200        0.114      0.096
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.882        0.800        0.534      0.424
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.118        0.143        0.125      0.119
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.471        0.343        0.182      0.130
+
+
+**************************************************
+
+Acc result:1i71A
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.750        0.439      0.349
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.250        0.195      0.120
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.625        0.437        0.195      0.157
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.500        0.463      0.410
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.500        0.437        0.268      0.181
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.500        0.390      0.265
+
+
+**************************************************
+
+Acc result:1qjpA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.846        0.630        0.412      0.270
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.735      0.511
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.923        0.630        0.309      0.263
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.846        0.778        0.765      0.518
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.923        0.963        0.897      0.832
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.692        0.778        0.735      0.518
+
+
+**************************************************
+
+Acc result:1jvwA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.875        0.812        0.700      0.556
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.937        0.750        0.387      0.212
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.937        0.656        0.350      0.212
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.937        0.906        0.862      0.706
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.937        0.844        0.575      0.319
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.750        0.462      0.262
+
+
+**************************************************
+
+Acc result:1cjwA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.667        0.627      0.458
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.812        0.758        0.506      0.319
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.687        0.515        0.277      0.181
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.750        0.697        0.614      0.458
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.812        0.697        0.482      0.325
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.687        0.545        0.241      0.175
+
+
+**************************************************
+
+Acc result:1i5gA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.786        0.679        0.542      0.424
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.357        0.250        0.167      0.118
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.643        0.500        0.306      0.236
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.679        0.694      0.521
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.286        0.214        0.139      0.076
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.714        0.643        0.417      0.264
+
+
+**************************************************
+
+Acc result:1ihzA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.846        0.778        0.691      0.456
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.769        0.852        0.500      0.316
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.692        0.630        0.397      0.272
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.538        0.556        0.500      0.412
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.923        0.741        0.559      0.434
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.769        0.778        0.559      0.353
+
+
+**************************************************
+
+Acc result:1g9oA
+**************************************************
+
+ccmpred result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        1.000        0.711      0.418
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     1.000        0.833        0.600      0.319
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.667        0.444        0.267      0.165
+
+Output result accuracy:
+Long Range(> 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.778        0.778        0.644      0.505
+Medium Range(12 - 24):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.833        0.689      0.462
+Short Range(6 - 12):
+Method    L/10         L/5          L/2        L
+Acc :     0.889        0.611        0.378      0.198
+Traceback (most recent call last):
+  File "evaluate_2_25.py", line 46, in <module>
+    ccmpred_acc.append(evaluate(ccmpred_matrix, contact_matrix))
+  File "/home/huanghe/workspace_1_2/utils/acc_cal_v2.py", line 33, in evaluate
+    acc_k_1 = topKaccuracy(predict_matrix, contact_matrix, 1)
+  File "/home/huanghe/workspace_1_2/utils/acc_cal_v2.py", line 18, in topKaccuracy
+    truth = np.concatenate((avg_pred[..., np.newaxis], y[..., np.newaxis]), axis=-1)
+ValueError: all the input array dimensions except for the concatenation axis must match exactly
